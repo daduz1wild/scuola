@@ -1,0 +1,10 @@
+# --- IGNORA ARCHIVIO VECCHIO ---
+4a_superiore/
+
+# --- FILE DI SISTEMA E CACHE ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- CONFIGURAZIONI OBSIDIAN ---
+.obsidian/
