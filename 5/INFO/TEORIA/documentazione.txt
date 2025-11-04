@@ -1,0 +1,44 @@
+ceil() Arrotonda le frazioni all'intero superiore 
+floor() Arrotonda le frazioni all'intero inferiore 
+is_nan() Verifica se un dato valore non sia un numero
+pow() Espressione esponenziale
+round() Arrotonda un numero non intero
+sqrt() Radice quadrata
+srand()  Inizializza il generatore di numeri casuali
+rand() Genera un numero casuale
+
+ strlen($s): lunghezza stringa $s
+ strval($x): converte in stringa $xù
+
+Controllo sul tipo di dati
+>is_int(), is_float(), is_numeric(), is_string(), is_bool(), is_array(),
+is_object(), is_null():
+
+isset(): funzione per verificare l'esistenza di una variabile (è stata
+inizializzata e non contiene null?)
+>gettype()/settype(): funzioni
+variabile
+
+
+array_search () // restituisce la chiave del valore trovato oppure false se non esiste
+
+count ($vettore)// restituisce il numero di elementi presenti nel vettore
+min ($vettore) // restituisce il più piccolo elemento tra quelli presenti nel vettore
+
+max ($vettore)// restituisce il più grande elemento tra quelli presenti nel vettore
+
+sort ($vettore)// restituisce il vettore ordinato in modo crescente
+
+rsort ($vettore)// restituisce il vettore ordinato in modo decrescente
+
+shuffle($vettore)// restituisce il vettore miscelato
+
+reset ($vettore)// sposta il puntatore sul primo elemento dell'array
+
+key ($vettore)// restituisce il valore della chiave dell'elemento corrente
+
+current ($vettore)// restituisce il contenuto della cella dell'elemento corrente
+
+next ($vettore)// sposta il puntatore sull'elemento successivo del vettore
+
+prev ($vettore)// sposta il puntatore sull'elemento precedente del vettore

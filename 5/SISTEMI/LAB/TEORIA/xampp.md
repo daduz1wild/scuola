@@ -1,0 +1,16 @@
+AMPP è un software che permette di trasformare il proprio computer in un server locale. Il nome deriva da Apache, MySQL (o MariaDB), PHP e Perl, che sono i principali componenti del pacchetto. In pratica, con XAMPP possiamo sviluppare e testare siti web dinamici in locale senza bisogno di un server remoto.
+
+Il programma include un pannello di controllo chiamato “xampp_control.exe” che consente di avviare e fermare i vari servizi come Apache e MySQL. Questi due moduli sono i principali: Apache serve per interpretare i file PHP e mostrare le pagine web nel browser, mentre MySQL (o MariaDB) gestisce i database collegati ai nostri progetti.
+
+Dopo aver installato XAMPP, per utilizzarlo bisogna aprire il pannello di controllo e avviare i moduli necessari cliccando su “Start”, di solito Apache e MySQL. Una volta avviato Apache, si può aprire un browser e digitare “localhost” oppure “127.0.0.1”. Entrambi gli indirizzi corrispondono al cosiddetto indirizzo di loopback, cioè un indirizzo che punta al proprio computer. In altre parole, il PC si comporta come un server e si invia pacchetti a sé stesso per fare test e prove di connessione.
+
+Quando si accede a “localhost”, il server Apache cerca i file nella cartella “htdocs”, che si trova nel percorso “C:\xampp\htdocs”. All’interno di questa cartella vanno salvati tutti i progetti web che vogliamo eseguire. Il file principale da cui parte l’esecuzione è solitamente “index.php”. Se ad esempio creiamo una cartella “mio_sito” dentro “htdocs”, potremo aprire il nostro progetto scrivendo nel browser “http://localhost/mio_sito/”
+.
+
+È importante ricordare che i file PHP non possono essere aperti direttamente con un doppio clic come i file HTML, perché il codice PHP deve essere interpretato dal server Apache. Se Apache non è attivo, il browser mostrerà il codice sorgente PHP come testo e non la pagina elaborata. Per questo motivo bisogna sempre aprire i file PHP tramite browser e indirizzo “localhost”, non direttamente dalla cartella.
+
+In un progetto XAMPP la parte in PHP rappresenta il codice lato server, che elabora dati e genera il contenuto della pagina, mentre la parte in HTML è l’output, cioè ciò che viene visualizzato nel browser dall’utente. Ad esempio, un semplice file PHP può contenere il comando “echo” per inviare testo in HTML al browser.
+
+L’indirizzo di loopback serve quindi per collegarsi a se stessi: quando si scrive “localhost” nel browser, Apache risponde servendo i file presenti in “htdocs”. Se si utilizza XAMPP su una chiavetta USB, la chiavetta stessa può funzionare come un piccolo server portatile. In questo caso è consigliabile non attivare i servizi come “Service” nel pannello di controllo, per evitare che vengano installati in modo permanente sul sistema.
+
+In sintesi, XAMPP è uno strumento molto utile per chi studia o sviluppa siti web dinamici, perché permette di simulare il comportamento di un vero server direttamente sul proprio computer, di testare codice PHP, di gestire database MySQL e di visualizzare in tempo reale i risultati nel browser utilizzando l’indirizzo “localhost”.

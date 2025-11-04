@@ -1,0 +1,5 @@
+php mi permette di generare dlela pagine web che possono essere o statiche o dinamiche. è racchiuso <?php ?> (tag specifico per individuare il codice che deve essere interpretato) quindi il motore zend quando vede questo tag loiconosce e capisce che è di sua competenza e interpreta. nell'interpretazione ci pèotrebbe essere un collegamento col database.(ad esempio nel caso in cui all'invio di un form viene chiamato lo script che va a cercare i dati inseriti nel database e se esistono fara le azioni volute.
+php(PHP HYPERTEXT PREPROCESSOR) nasce nel 1994. linguaggio interpretato non complilato usato per generare dinamicamente le pagine HTML. i file contenenti codice php hanno estensione .php
+cio che viene interprerato in php viene sostitutito con il codice html geenerato dall'interprete .la pagina html risultante e pronta per essere inviata al client. il browser interpreta la risposta ricevuta, il client non vede il codice PHP che ha prodotto la risposta.
+se non ce codice php pagina statica, altrimenti dinamica.
+

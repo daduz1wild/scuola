@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<!-- Davide Benedetti 5AI -->
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Form</title>
+    <link href="style.css" type="text/css" rel="stylesheet">
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+	<form id="registrazione" action="http://andreabonardi.altervista.org/ricevidati.php" method="get" onsubmit="return checkForm(this)">
+      <fieldset>
+        <legend>Dati personali</legend>
+
+        <label for="nome">Nome:</label>
+        <input type="text" name="nome" id="nome">
+        <span id="errNome" class="error"></span>
+        <br>
+
+        <label for="cognome">Cognome:</label>
+        <input type="text" name="cognome" id="cognome">
+        <span id="errCognome" class="error"></span>
+        <br>
+
+        <label for="maschio">Maschio</label>
+        <input type="radio" name="sesso" value="maschio" id="maschio">
+        <label for="femmina">Femmina</label>
+        <input type="radio" name="sesso" value="femmina" id="femmina">
+        <span id="errSesso" class="error"></span>
+        <br>
+
+        <label for="dataNasc">Data di nascita:</label>
+        <input type="date" name="dataNasc" id="dataNasc">
+        <span id="errDataNasc" class="error"></span>
+        <br>
+
+        <label for="numCel">Telefono:</label>
+        <input type="text" name="numCel" id="numCel">
+        <span id="errNumCel" class="error"></span>
+        <br>
+      </fieldset>
+
+      <fieldset>
+        <legend>Credenziali</legend>
+
+        <label for="email">Email:</label>
+        <input type="text" name="email" id="email">
+        <span id="errEmail" class="error"></span>
+        <br>
+
+        <label for="password">Password:</label>
+        <input type="password" name="password" id="password">
+        <span id="errPassword" class="error"></span>
+        <br>
+
+        <label for="passConf">Conferma Password:</label>
+        <input type="password" name="passConf" id="passConf">
+        <span id="errPassConf" class="error"></span>
+      </fieldset>
+
+      <br>
+      <input type="submit" value="Registrati">
+    </form>
+  </body>
+</html>

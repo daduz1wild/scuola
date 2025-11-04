@@ -1,0 +1,15 @@
+.errore {
+  border: 2px solid red;
+  background-color: #ffd6d6;
+}
+
+.giusto {
+  border: 2px solid green;
+  background-color: #d6ffd6;
+}
+
+.error {
+  color: red;
+  font-size: 0.9em;
+  margin-left: 8px;
+}
