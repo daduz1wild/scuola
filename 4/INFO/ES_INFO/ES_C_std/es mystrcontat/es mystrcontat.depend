@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1727709747 source:c:\users\davide 15\desktop\es mystrcontat\inserimenti.c
+	"header.h"
+
+1727711658 c:\users\davide 15\desktop\es mystrcontat\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1727710072 source:c:\users\davide 15\desktop\es mystrcontat\main.c
+	"header.h"
+
+1727709690 source:c:\users\davide 15\desktop\es mystrcontat\funzioni.c
+	"header.h"
+

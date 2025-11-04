@@ -1,0 +1,32 @@
+3400711020
+
+<DOCTYPE! HTML>
+<html>
+	<head>
+		<!-- nome ed eta in put in base all'eta vedere se maggiorenne-->
+		<title>pagina</title>
+	</head>
+	<body>
+		<p>Click the button to demonstrate the prompt box.</p>
+		<button onclick="intNomeEta()">Try it</button>
+		<p id="demo"></p>
+		<script>
+			function intNomeEta(){
+				let nome,eta,mess;
+				do{
+					nome=prompt("inserisci nome");
+				}while(nome=="");
+				do{
+				eta=prompt("inserisci eta");
+				}while(eta<0 || eta>150 );
+				if(nome!=null && eta!=null){
+					if(eta<18)
+						mess="sei minorenne";
+					else
+						mess="sei maggiorenne";
+					document.getElementById("demo").innerHTML = "Hello " + nome + " "+mess;
+				}
+			}
+		</script>
+	</body>
+</html>

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1729870192 source:f:\scuola\es info\4bi_benedetti_davide_info_03_noleggioauto\inserimenti.c
+	"header.h"
+
+1729870192 f:\scuola\es info\4bi_benedetti_davide_info_03_noleggioauto\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1729784762 source:f:\scuola\es info\4bi_benedetti_davide_info_03_noleggioauto\funzioni.c
+	"header.h"
+
+1729870192 source:f:\scuola\es info\4bi_benedetti_davide_info_03_noleggioauto\main.c
+	"header.h"
+

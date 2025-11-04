@@ -1,0 +1,23 @@
+<DOCTYPE html>
+<html>
+	<head>
+		<script>
+			let stato=false;
+			function img(){
+				alert(stato);
+				alert(document.getElementById("lamp").src);
+				if(stato)
+					stato=false;
+					document.getElementById("lamp").src="./img/pic_bulboff.gif";
+				else
+					stato=true;
+					document.getElementById("lamp").src="./img/pic_bulbon.gif";
+			}
+		</script>
+		<title>
+	</head>
+	<body>
+		<img id="lamp" src="./img/pic_buiboff.gif" alt="lampadina">
+		<button onClick='img();'>ON/OFF</button>
+	</body>
+</html>

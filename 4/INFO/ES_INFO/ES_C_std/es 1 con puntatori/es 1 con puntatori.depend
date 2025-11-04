@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1726653054 source:c:\users\davide.benedetti\desktop\es 1 con puntatori\main.c
+	"header.h"
+
+1726653798 c:\users\davide.benedetti\desktop\es 1 con puntatori\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1726653734 source:c:\users\davide.benedetti\desktop\es 1 con puntatori\funzioni.c
+	"header.h"
+
+1726653007 source:c:\users\davide.benedetti\desktop\es 1 con puntatori\inserimenti.c
+	"header.h"
+

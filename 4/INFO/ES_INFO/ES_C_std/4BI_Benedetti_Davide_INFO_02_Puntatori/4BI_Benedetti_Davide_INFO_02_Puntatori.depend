@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1727259978 source:c:\users\alvis.dervishi\desktop\espuntatori\espuntatori3\funzioni.c
+	"header.h"
+
+1727260182 c:\users\alvis.dervishi\desktop\espuntatori\espuntatori3\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdbool.h>
+
+1727260055 source:c:\users\alvis.dervishi\desktop\espuntatori\espuntatori3\main.c
+	"header.h"
+
+1727862880 source:c:\users\davide.benedetti\desktop\espuntatori2 per stud\espuntatori2 per stud\main.c
+	"header.h"
+
+1727868512 c:\users\davide.benedetti\desktop\espuntatori2 per stud\espuntatori2 per stud\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdbool.h>
+
+1727860959 source:c:\users\davide.benedetti\desktop\espuntatori2 per stud\espuntatori2 per stud\inserimenti.c
+	"header.h"
+
+1727868512 source:c:\users\davide.benedetti\desktop\espuntatori2 per stud\espuntatori2 per stud\funzioni.c
+	"header.h"
+
+1728128965 source:c:\users\davide 15\desktop\espuntatori2 per stud\espuntatori2 per stud\inserimenti.c
+	"header.h"
+
+1728132001 c:\users\davide 15\desktop\espuntatori2 per stud\espuntatori2 per stud\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdbool.h>
+
+1728131968 source:c:\users\davide 15\desktop\espuntatori2 per stud\espuntatori2 per stud\funzioni.c
+	"header.h"
+
+1728128215 source:c:\users\davide 15\desktop\espuntatori2 per stud\espuntatori2 per stud\main.c
+	"header.h"
+
+1728128965 source:c:\users\davide 15\desktop\4bi_benedetti_davide_info_02_puntatori\inserimenti.c
+	"header.h"
+
+1728132001 c:\users\davide 15\desktop\4bi_benedetti_davide_info_02_puntatori\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdbool.h>
+
+1728128215 source:c:\users\davide 15\desktop\4bi_benedetti_davide_info_02_puntatori\main.c
+	"header.h"
+

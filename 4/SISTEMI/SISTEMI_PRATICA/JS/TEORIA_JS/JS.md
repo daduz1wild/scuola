@@ -1,0 +1,130 @@
+JAVASCRIPT
+è UNO DEI LINGUAGGI PER LA PROGRAMMAZIONE DELLE PAGINE WEB.
+utilizzata nella programmazione web, lato client.
+JAVAscript e java hanno caratteristiche in comune come quello di essere C-like.
+JS è prettamenre orientato agli oggetti ed agli eventi.
+orientato agli oggetti:
+gli oggetti sono degli elementi che hanno un comportamento simile tra loro.
+ad esempio un abito in un sito di vendita di vestiti è un oggetto.
+un oggetto lo si può vedere come un record più evoluto,infatti associat ad esso ci son delle funzioni e procedure(chiamate metodi).
+
+Orientato agli veenti
+un programma tradizionale segue una struttura relativamente lineare, avendo ramificazioni in punti ben precisi;
+utilizzando la tencnica "ad eventi".
+
+in un programma tradizionae l'esecuzieoene seugue percorsi fissi, imvece usando la tecnina cìdegli eventi a flusso  il programmma è determinato da eventi esterni.
+
+con il trmine lato-client si indicano le operazioni di elaborazioneeseguite dal client in un'architettura client server.
+javascript viene letto ed interpretato dal browser direttamente sulla macchina dell'utente.
+
+
+PARTE PRATICA
+javascript come tutti gli altri linguaggi si basa su parole chiave e istruzioni o comandi scritti all'interno del codice
+
+prima di tutto si deve avvertire il browser che si aggiunge JS a una pagina in html, questo lo si fa tramite il tag <script>
+------------------------------------------------------------------------------------------------------
+pippo.onclick = function(){
+	pluto.innerHTML = "WOW";
+};
+
+{}=blocco di istruzione
+;=definisce la fine di un istruzione 
+function=definisce una funzione 
+
+onclick= è definito come evento
+pippo e pluto:2 oggetti che idendtiifcano il paragrafo.
+
+al click sul parafrafo identificato da pippo aggiungiamo la parte di testo wow al paragrafo pluto
+----------------------------------------------------------------------------------------------------
+
+alert("benvenuto nel mio mondo")>;=alert è una funzione il cui parametro è un messaggio che verrà visualizzato tramite un pop up(finestrella/casella allarme).il visitatorre dovrà cliccare sukl bottone ok della casella per poter procedere.
+
+la stringa in JS può essere sia tra "" che ''
+
+case sensitive(maiusc)
+
+document.write("benvenuto!");
+document=è la mia pagina ed è l'oggetto
+.write=è il metodo indica che cio che si trova fra parentesi deve essere scritto nella pagina html	
+il parametro è la stringa passata		
+im metodo è la funzione/procedura che è associata ad un oggetto
+
+document.getElementById()=anche questo è un metodo(perchè c'è un punto prima) cerca gli elementi che sono identificati dalla stringa nel parametro e su tutte queste esegue la funzione che c'è sotto.
+innerHTML="Hello world";  attacca al
+document:l'oggetto/ elemento.che identifica la pagina che stiamo utilizzando
+getelementbyid:metodo ' ' è l'id passato come parametro
+innerHTML: attributo/caratteristica che modifica il contenuto di una pagina elemento
+
+1° metodo
+document.getElementById(' ').innerHTML
+document:l'oggetto/ elemento.che identifica la pagina che stiamo utilizzando
+getelementbyid:metodo ' ' è l'id passato come parametro
+innerHTML: attributo/caratteristica che modifica il contenuto di una pagina elemento
+
+2° metodo
+document.write(' ')
+document:oggetto/elemento
+write(' '):metodo ' ' testo passato come parametro
+
+3° metodo
+window.alert(' ')
+window:l'oggetto / elemento
+alert(' '):metodo ' 'testo passato come parametro
+
+4° metodo
+console.log(' ')
+console: oggetto
+log:metodo ' ' testo passato come parametro
+
+
+i metodi sono paragonabili alle funzioni di C
+
+METODI DI INPUT
+metodo prompt() visto in w3c
+https://www.w3schools.com/jsref/met_win_prompt.asp
+i parametri di prompt ritornano degli elementi di tipo stringa
+prompt è un metodo dell'oggetto finestra window ma puoi anche usarlo senza specificare window
+
+per indicare che un numero inserito deve essere visto come stringa usiamo:
+n=parseInt:(stringa,la radice di cui decidiamo la base);
+
+
+function leggiStr(mess){
+	
+}
+
+confirm()= alert un po piu ecoluto che fa una finestra che ha un valore di ritorno = false quando faccio esc o annulla o ha trovato un modo per non inserire nulla
+
+
+fai funzione di lettura  e un altra di controllo sia su stringa che su numero
+
+la classe math non ha costruttori perchè è di tipo statico e quindi non ne ha bisogno, non hs bidogno di allocazioni
+
+sqrt=radice quadrata
+
+pow=potenza
+
+abs=valore assoluto di un numero1(senza segno)
+
+LEZIONE 26/11/2024
+
+3 fasi
+-Acquisizione  (head)
+-Elaborazione (funz esterna) no I/Orientato
+-Visualizzazione
+<head>
+	//nell'head si mette l'acquisizione dei dati
+	<script>lettura</script>
+</head>
+<body>
+	<table>
+	
+		<scrit>
+			document.write(corpoTabella(n1,n2);
+		</scrpit>
+	</table>
+</body>
+
+// da ora dobbiamo riuscire a far distinguere queste 3 frasi fra loro
+
+

@@ -1,0 +1,7 @@
+- In the past, these goods **were made** by hand. _(Past simple)_
+- Your goods **will probably be delivered** tomorrow. _(Will)_
+- This invoice **needs to be signed** by someone. _(Modale con infinito - need to)_
+- Two million copies **have already been sold**. _(Present perfect)_
+- It **may be launched** in the spring. _(Modale con infinito - may)_
+- Our goods **are usually advertised** on TV. _(Present simple)_
+- It **is being redecorated** at the moment. _(Present continuous)_

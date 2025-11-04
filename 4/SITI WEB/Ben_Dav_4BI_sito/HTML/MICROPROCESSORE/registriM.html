@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- Benedetti Davide 4BI registriM.html -->
+		<meta charset="UTF-8">
+		<title>MICROPROCESSORE</title>
+		<link rel="stylesheet" type="text/css" href="..\..\CSS\index.css">
+	</head>
+	<body>
+		<div class="header">
+			<nav>
+				<a href="..\index.html" class="elementi" >HOME</a>
+				<a href="microprocessore.html" class="elementi">IL MICROPROCESSORE</a>		
+				<a href="..\ASSEMBLY\assembly.html" class="elementi">LINGUAGGIO ASSEMBLY</a>
+				<a href="..\curiosita.html" class="elementi">CURIOSITÀ</a>
+			</nav>
+			<h1>Registri del Microprocessore: Tipologie e Funzionamento</h1>
+		</div>
+		<div class="corpo">
+			<br>
+			<div class="corpo allineati">
+				<div class="sottopagine">
+					<p>I registri sono un elemento fondamentale nel funzionamento del microprocessore. Sono piccole aree di memoria estremamente veloci che memorizzano dati temporanei e istruzioni durante l’elaborazione. Esistono diversi tipi di registri, ciascuno con un compito specifico:</p>
+					<br>
+					<ul>
+ 						<li><b>Registri generali:</b> usati per immagazzinare dati generici durante le operazioni. Alcuni esempi nell’Intel 8086 sono l’AX, BX, CX e DX. Questi registri possono essere usati per immagazzinare operandi, contatori e risultati intermedi.</li>
+ 						<li><b>Registri di segmento:</b> servono a dividere la memoria in sezioni, consentendo al processore di accedere in modo più efficiente alla RAM. Nell’8086, ci sono registri come CS (Code Segment), DS (Data Segment), SS (Stack Segment) e ES (Extra Segment).</li>
+						<li><b>Registro IP (Instruction Pointer):</b> tiene traccia dell'indirizzo della prossima istruzione da eseguire tramite l’IP (Instruction Pointer), così il processore sa sempre cosa fare successivamente. Questo registro, insieme al CS, è cruciale per il controllo del flusso di esecuzione.</li>
+						<li><b>Registro di stato (Flag Register):</b>  non ci sono veri e propri "registri" separati, ma piuttosto bit che rappresentano diverse condizioni o risultati delle operazioni. Questi bit sono chiamati flag. Alcuni esempi di flag sono CF (Carry Flag), ZF (Zero Flag), SF (Sign Flag), OF (Overflow Flag) </li>
+						<li><b>Registri puntatori e indici (4 registri)</b>SP (Stack Pointer), BP (Base Pointer), SI (Source Index),DI (Destination Index)</li>
+					</ul>
+					<a href="microprocessore.html" style="text-align:center; font-size:20px; text-shadow: 7px 7px 10px black;">Per tornare alla Pagina Principale clicca qui</a>
+				</div>
+				<img src="..\..\img\assembly.jpg">
+			</div>
+		</div>
+	</body>
+</html>	 

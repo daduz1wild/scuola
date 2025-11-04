@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1727300221 source:c:\users\davide 15\desktop\27.09.2024\inserimenti.c
+	"header.h"
+
+1727300485 c:\users\davide 15\desktop\27.09.2024\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1727300485 source:c:\users\davide 15\desktop\27.09.2024\main.c
+	"header.h"
+
+1727300221 source:c:\users\davide 15\desktop\27.09.2024\funzioni.c
+	"header.h"
+

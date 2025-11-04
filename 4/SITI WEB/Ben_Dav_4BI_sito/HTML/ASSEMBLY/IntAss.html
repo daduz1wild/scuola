@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- Benedetti Davide 4BI intAss.html -->
+		<meta charset="UTF-8">
+		<title>LINGUAGGIO ASSEMBLY</title>
+		<link rel="stylesheet" type="text/css" href="..\..\CSS\index.css">
+	</head>
+	<body>
+		<div class="header">
+			<nav>
+				<a href="..\index.html" class="elementi" >HOME</a>
+				<a href="..\MICROPROCESSORE\microprocessore.html" class="elementi">IL MICROPROCESSORE</a>		
+				<a href="assembly.html" class="elementi">LINGUAGGIO ASSEMBLY</a>
+				<a href="..\curiosita.html" class="elementi">CURIOSITÀ</a>
+			</nav>
+			<h1>Interrupt in Assembly: Come Funzionano e Come Usarli</h1>
+		</div>
+		<div class="corpo">
+			<br>
+			<div class="corpo allineati">
+				<div class="sottopagine">
+					<p>Gli interrupt sono segnali inviati al processore per attirare la sua attenzione. Questi segnali indicano che è necessario interrompere il flusso normale delle operazioni per eseguire un’altra istruzione. In pratica, permettono di gestire eventi esterni o interni, come premere un tasto sulla tastiera o finire di eseguire un'operazione di I/O. <br> Quando un interrupt viene attivato, la CPU interrompe ciò che sta facendo, salva lo stato corrente e salta alla routine di gestione dell’interrupt (ISR). Dopo aver eseguito l’ISR, il processore riprende il normale flusso di esecuzione da dove era stato interrotto.</p>
+					<br>
+					<ul>
+ 						<li><b>INT 10h:</b> gestisce operazioni grafiche, come la modifica del modo video o il posizionamento del cursore.</li>
+ 						<li><b>INT 13h:</b> gestisce le operazioni di lettura/scrittura su dischi rigidi o floppy disk.</li>
+						<li><b>INT 16h:</b> viene utilizzato per le operazioni legate alla tastiera, come la lettura di un tasto premuto.</li>
+						<li><b>INT 21h:</b> è un interrupt molto versatile utilizzato per le operazioni di input/output sui file, gestione della memoria e altro ancora.</li>
+					</ul>
+					<p>La parola "int" viene utilizzata per richiamare una procedura chiamata interrupt, ossia un pezzo di codice situato in un'altra parte della memoria del computer. Nel nostro esempio, richiamiamo una procedura identificata dal numero 21h (la "h" indica che il numero è in formato esadecimale). L'uso di numeri esadecimali è comune nella programmazione in assembly, quindi può essere utile abituarsi alla calcolatrice di Windows, che permette di convertire facilmente tra decimale ed esadecimale. Quando il processore incontra l'istruzione "int 21h", salta alla porzione di codice indicata e, una volta completata l'esecuzione, ritorna al nostro programma, pronto per la prossima istruzione.</p>
+					<a href="assembly.html" style="text-align:center; font-size:20px; text-shadow: 7px 7px 10px black;">Per tornare alla Pagina Principale clicca qui</a>	
+				</div>
+				<img src="..\..\img\assembly_introd.jpg">
+			</div>
+		</div>
+	</body>
+</html>	 

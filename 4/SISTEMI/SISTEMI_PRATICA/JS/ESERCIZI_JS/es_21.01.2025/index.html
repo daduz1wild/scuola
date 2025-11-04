@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- Davide Benedetti 4BI index.html -->
+		<title>Calcolo Medie</title>
+		<script>
+			const votazioni = [];
+		</script>
+		<script src="funzioni.js"></script>
+	</head>
+	<body>
+		<h1>Calcolo delle Medie</h1>
+		Inserisci voto:<input type="text" id="campoVoto">
+		<br>
+		<button onclick="aggiungiVoto()">Aggiungi</button>
+		<button onclick="calcolaMediaGeometrica()">Media Geometrica</button>
+		<br>
+		<button onclick="calcolaMediaAritmetica()">Media Aritmetica</button>
+		<button onclick="azzera()">Azzera</button>
+		<p id="output"></p>
+	</body>
+</html>

@@ -1,0 +1,2 @@
+abbiamo un sistema con client proxy e server, il client invia un messaggio al serve che vien eintercettato dal proxy  e che controlli se quella richiesta era stata gia fatta in quel caso prende dalla cache la copia della risposta che il server aveva gia fatto in precedenza, cosi da non dover fare la richiesta al server.
+se invece la request non era mai stata fatta il proxy invia il messaggio al server che elabora la risposta e la invia al client, la risposta viene intercettata dal proxy che salva una copia della risposta nella cache e poi invia la risposta al client.

@@ -1,0 +1,30 @@
+<!-- Esercizio 8
+
+Creare uno script che:
+
+· Legga tre numeri interi e positivi. Il controllo d’input deve avvenire tramite funzione in un file esterno
+· Confermi di avere un triangolo
+· Calcoli il perimetro
+· Dica il tipo di triangolo (scaleno, isoscele, equilatero, rettangolo...)
+-->
+<!DOCTYPE html>
+<html lang="it">
+	<head>
+		<title>es_8</title>
+		<script src=es_8_funz.js></script>
+	</head>
+	<body>
+		<script>
+			let l1,l2,l3;
+			do{
+				l1=leggiNum("inserisci lato 1",0.1,1000);
+				l2=leggiNum("inserisci lato 2",0.1,1000);
+				l3=leggiNum("inserisci lato 3",0.1,1000);
+				if((l1+l2)<l3 || (l2+l3)<l1 || (l1+l3)<l2){
+					triangolo=true;
+					alert("");
+			}while(!triangolo)
+		</script>
+		
+		
+	</body>

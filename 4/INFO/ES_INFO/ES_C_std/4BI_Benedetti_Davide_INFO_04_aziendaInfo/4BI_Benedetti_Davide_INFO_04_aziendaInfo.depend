@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1729870192 source:f:\scuola\es info\4bi_benedetti_davide_info_04_aziendainfo\inserimenti.c
+	"header.h"
+
+1730053678 f:\scuola\es info\4bi_benedetti_davide_info_04_aziendainfo\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1730049150 source:f:\scuola\es info\4bi_benedetti_davide_info_04_aziendainfo\main.c
+	"header.h"
+
+1730053652 source:f:\scuola\es info\4bi_benedetti_davide_info_04_aziendainfo\funzioni.c
+	"header.h"
+

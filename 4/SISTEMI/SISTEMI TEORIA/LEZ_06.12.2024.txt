@@ -1,0 +1,6 @@
+Il padre del free software è considerato Richard M. Stallman
+Un file è un insieme di dati memorizzato su una memoria di massa caratterizzato da un nome e un estensione.
+ogni carattere ASCII utf-8 1 byte
+ogni file occupa un blocco cioè 512 byte sul disco
+su memoria se ho dei file non conta il loro contenuto essi occuperanno sempre un blocco(512 byte), essi infatti occupano in ogni  caso 512 byte anche se sono vuoti. Se i dati nel file superano i 512 byte allora vengonoo usati 2 blocchi e lo stesso per ogni 512 byte di dati.
+il disco è formato da settori e i settori sono formati in blocchi

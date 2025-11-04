@@ -1,0 +1,33 @@
+<DOCTYPE! HTML>
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Tabella Numeri, Quadrati e Cubi</title>
+</head>
+<body>
+    <h1>Tabella dei Numeri da 1 a 16 con i loro Quadrati e Cubi</h1>
+    <script>
+        // Funzione per creare la tabella con numeri, quadrato e cubo
+        function creaTabella() {
+            var htmlContent = "<table border='1' style='border-collapse: collapse; text-align: center; width: 50%; margin: 20px auto;'>";
+            htmlContent += "<tr><th>Numero n</th><th>n^2</th><th>n^3</th></tr>"; // Intestazione della tabella
+            
+            for (var i = 1; i <= 16; i++) {
+                var n = parseInt(i, 10);  // Conversione in numero
+                var nQuadrato = parseInt(i ** 2, 10);  // Calcolo del quadrato e conversione
+                var nCubo = parseInt(i ** 3, 10);  // Calcolo del cubo e conversione
+
+                htmlContent += "<tr><td>" + n + "</td><td>" + nQuadrato + "</td><td>" + nCubo + "</td></tr>"; // Aggiungi una riga per ogni numero
+            }
+
+            htmlContent += "</table>"; // Chiusura della tabella
+            document.write(htmlContent); // Scrittura del contenuto HTML nella pagina
+        }
+
+        // Chiamata alla funzione per creare la tabella
+        creaTabella();
+    </script>
+
+</body>
+</html>

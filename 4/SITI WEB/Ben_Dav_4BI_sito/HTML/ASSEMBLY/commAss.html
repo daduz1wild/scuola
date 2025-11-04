@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- Benedetti Davide 4BI commAss.html -->
+		<meta charset="UTF-8">
+		<title>LINGUAGGIO ASSEMBLY</title>
+		<link rel="stylesheet" type="text/css" href="..\..\CSS\index.css">
+	</head>
+	<body>
+		<div class="header">
+			<nav>
+				<a href="..\index.html" class="elementi" >HOME</a>
+				<a href="..\MICROPROCESSORE\microprocessore.html" class="elementi">IL MICROPROCESSORE</a>		
+				<a href="assembly.html" class="elementi">LINGUAGGIO ASSEMBLY</a>
+				<a href="..\curiosita.html" class="elementi">CURIOSITÀ</a>
+			</nav>
+			<h1>Comandi Principali in Assembly e Come Utilizzarli</h1>
+		</div>
+		<div class="corpo">
+			<br>
+			<div class="corpo allineati">
+				<div class="sottopagine">
+					<p>In Assembly, il controllo diretto dell'hardware richiede l'uso di specifici comandi per assegnare valori, confrontare dati e gestire i salti tra istruzioni. Qui esploreremo i comandi più importanti con esempi pratici per ognuno.</p>
+					<br>
+					<ul>
+ 						<li><b> ASSEGNAZIONE</b><br>Il comando <b>MOV</b> viene utilizzato per spostare un dato da una posizione all'altra. Questo potrebbe essere lo spostamento di un valore in un registro, da un registro a una cella di memoria, o viceversa.</li>
+						<p><b>MOV AX, 5</b> = Assegna il valore 5 al registro AX <br><b>MOV BX, AX</b> = Copia il valore di AX nel registro BX <br><b>MOV [2000], AX</b> = Sposta il valore di AX nella locazione di memoria 2000<br><p>
+ 						<li><b>CONFRONTO E SALTO</b><br>Comandi principali: CMP, JE, JNE, JG, JL <br>Il comando CMP serve per confrontare due valori, mentre i comandi di salto (JE, JG, JL, ecc.) vengono usati per decidere come procedere a seconda del risultato del confronto.</li>
+						<p><b>CMP AX, BX</b> =  Confronta i valori nei registri AX e BX<br><b>JE ETICHETTA</b> =Salta all'etichetta ETICHETTA se AX è uguale a BX<br><b>JG  MAGGIORE</b> = Salta a MAGGIORE se AX è maggiore di BX<br><b>JL  MINORE</b> = Salta a MINORE se AX è minore di BX</li>
+ 						<li><b>STRUTTURA IF</b><br>Per creare una struttura condizionale simile a un if, si usa CMP insieme a un comando di salto come JE (jump if equal) o JNE (jump if not equal).</li>
+						<p><b>CMP AX, BX</b> = Confronta AX con BX<br><b>JE  UGUALE</b> =Se AX è uguale a BX, salta a UGUALE<br><b>MOV CX, 30</b> =  Se AX non è uguale a BX, esegue questa istruzione <br><b>UGUALE:</b><br><b>MOV CX, 40</b> = Se AX è uguale a BX, esegue questa istruzione</li>
+ 						<li><b>STRUTTURA CICLO PRE-CONDIZIONALE</b><br>Un ciclo pre-condizionale verifica una condizione prima di eseguire le istruzioni. Un ciclo WHILE in Assembly può essere implementato con un'etichetta e un comando di salto.</li>
+						<p><b>MOV CX, 5<br>CICLO:<br>CMP CX, 0 </b> = Confronta CX con 0<br><b>JE  FINE</b> =Se CX è 0, esce dal ciclo<br><b>DEC CX</b> = Decrementa CX<br><b>JMP CICLO</b>=Ripete il ciclo<br></li>
+ 						<li><b>SALTI INTRASEGMENTALI E INTERSEGMENTALI</b><br></li>
+						<p><b>Salti intrasegmentali:</b>sono salti che avvengono all'interno dello stesso segmento di codice.<br><b>JMP ETICHETTA</b>=Salta all'etichetta ETICHETTA nello stesso segmento<br><b>Salti intersegmentali:</b>sono salti che spostano l’esecuzione da un segmento di codice a un altro.<br><b>JMP FAR [INDIRIZZO]</b> =Salta a un'istruzione in un altro segmento<br></li>						
+					</ul>
+					<a href="assembly.html" style="text-align:center; font-size:20px; text-shadow: 7px 7px 10px black;">Per tornare alla Pagina Principale clicca qui</a>					
+				</div>		
+				<img src="..\..\img\microprocessoreAlto.png">
+			</div>
+		</div>
+	</body>
+</html>	 

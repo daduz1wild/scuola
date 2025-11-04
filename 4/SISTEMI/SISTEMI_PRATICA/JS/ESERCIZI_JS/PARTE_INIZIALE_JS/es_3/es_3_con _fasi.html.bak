@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>es2</title>
+		<script src=funzContr.js></script>
+		<script src=funzEs.js></script>
+	</head>
+	<body>
+		<script>
+			let n1,n2;
+			do{
+				n1=leggiInt("inserisci n1(<n2)",-1000,1000);
+				n1=leggiInt("inserisci n1(<n2)",n1,1000);
+			}while(n1>n2)
+		</script>
+		<table border=1>
+			<thead>
+				<tr>
+					<th>n</th>
+					<th>n<sup>2</sup></th>
+					<th>n<sup>3</sup></th>
+				<tr>
+			</thead>
+			<tbody>
+				<script>
+					document.write(corpoTabella,n1,n2);
+				</script>
+			</tbody>
+		</table>
+	</body>
+</html>

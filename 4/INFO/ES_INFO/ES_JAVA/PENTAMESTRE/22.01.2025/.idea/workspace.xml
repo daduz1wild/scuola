@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2877ed3e-cce8-4be1-a555-d69dbd38cdb7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Triangolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../INGLESE/COMPITI/domande_reading_23.01.2025.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../ITA/compiti/Immagine WhatsApp 2025-01-22 ore 08.29.46_f76193bd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../ITA/teoria/APPUNTI/PENTAMESTRE/domande_C.Goldoni_.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../SISTEMI/TEORIA/LEZ_24.01.2025.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../TELECOMUNICAZIONI/Isteresi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/09.10.2024/09.10.2024.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/09.10.2024/09.10.2024.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/09.10.2024/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/12.10.2024/12.10.2024.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/12.10.2024/12.10.2024.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/12.10.2024/12.10.2024.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/12.10.2024/bin/Debug/12.10.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/12.10.2024/file.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/12.10.2024/funzioni.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/12.10.2024/header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/12.10.2024/inserimenti.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/12.10.2024/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/12.10.2024/obj/Debug/funzioni.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/12.10.2024/obj/Debug/inserimenti.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/12.10.2024/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/27.09.2024/27.09.2024.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/27.09.2024/27.09.2024.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/27.09.2024/27.09.2024.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/27.09.2024/bin/Debug/27.09.2024.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/27.09.2024/funzioni.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/27.09.2024/header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/27.09.2024/inserimenti.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/27.09.2024/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/27.09.2024/obj/Debug/funzioni.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/27.09.2024/obj/Debug/inserimenti.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/27.09.2024/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_01_ Puntatori.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_01_ Puntatori.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_02_Puntatori.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_02_Puntatori.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_02_Puntatori/4BI_Benedetti_Davide_INFO_02_Puntatori.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_02_Puntatori/4BI_Benedetti_Davide_INFO_02_Puntatori.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_02_Puntatori/4BI_Benedetti_Davide_INFO_02_Puntatori.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_02_Puntatori/4BI_Benedetti_Davide_INFO_02_Puntatori.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_02_Puntatori/bin/Debug/4BI_Benedetti_Davide_INFO_02_Puntatori.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_02_Puntatori/bin/Debug/esPuntatori3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_02_Puntatori/classe.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_02_Puntatori/file.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_02_Puntatori/funzioni.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_02_Puntatori/header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_02_Puntatori/inserimenti.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_02_Puntatori/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_02_Puntatori/obj/Debug/funzioni.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_02_Puntatori/obj/Debug/inserimenti.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_02_Puntatori/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_03_NoleggioAuto/4BI_Benedetti_Davide_INFO_03_NoleggioAuto.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_03_NoleggioAuto/4BI_Benedetti_Davide_INFO_03_NoleggioAuto.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_03_NoleggioAuto/4BI_Benedetti_Davide_INFO_03_NoleggioAuto.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_03_NoleggioAuto/bin/Debug/4BI_Benedetti_Davide_INFO_03_NoleggioAuto.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_03_NoleggioAuto/file.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_03_NoleggioAuto/funzioni.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_03_NoleggioAuto/header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_03_NoleggioAuto/inserimenti.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_03_NoleggioAuto/macchine.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_03_NoleggioAuto/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_03_NoleggioAuto/obj/Debug/funzioni.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_03_NoleggioAuto/obj/Debug/inserimenti.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_03_NoleggioAuto/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_04_aziendaInfo.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_04_aziendaInfo/4BI_Benedetti_Davide_INFO_04_aziendaInfo.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_04_aziendaInfo/4BI_Benedetti_Davide_INFO_04_aziendaInfo.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_04_aziendaInfo/4BI_Benedetti_Davide_INFO_04_aziendaInfo.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_04_aziendaInfo/bin/Debug/4BI_Benedetti_Davide_INFO_04_aziendaInfo.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_04_aziendaInfo/dip.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_04_aziendaInfo/file.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_04_aziendaInfo/funzioni.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_04_aziendaInfo/header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_04_aziendaInfo/inserimenti.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_04_aziendaInfo/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_04_aziendaInfo/obj/Debug/funzioni.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_04_aziendaInfo/obj/Debug/inserimenti.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_04_aziendaInfo/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/4BI_Benedetti_Davide_INFO_04_aziendaInformatica.workspace.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/Davide_Benedetti_3BI_es 3 funzioni.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1 con puntatori.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1 con puntatori/bin/Debug/es 1 con puntatori.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1 con puntatori/es 1 con puntatori.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1 con puntatori/es 1 con puntatori.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1 con puntatori/es 1 con puntatori.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1 con puntatori/funzioni.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1 con puntatori/header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1 con puntatori/inserimenti.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1 con puntatori/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1 con puntatori/obj/Debug/funzioni.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1 con puntatori/obj/Debug/inserimenti.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1 con puntatori/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1/es 1.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1/es 1.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1/es 1.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1/funzioni.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1/header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1/inserimenti.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1/obj/Debug/4BI_Benedetti_Davide_INFO_01_ Puntatori.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1/obj/Debug/funzioni.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1/obj/Debug/inserimenti.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es 1/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es mystrcontat/bin/Debug/es mystrcontat.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es mystrcontat/es mystrcontat.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es mystrcontat/es mystrcontat.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es mystrcontat/es mystrcontat.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es mystrcontat/funzioni.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es mystrcontat/header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es mystrcontat/inserimenti.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es mystrcontat/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es mystrcontat/obj/Debug/funzioni.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es mystrcontat/obj/Debug/inserimenti.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES C std/es mystrcontat/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/22.01.2025/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/22.01.2025/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/22.01.2025/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/22.01.2025/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/22.01.2025/22.01.2025.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/22.01.2025/src/FileCsv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/22.01.2025/src/Gestore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/22.01.2025/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_11/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_11/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_11/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_11/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_11/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_11/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_11/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_11/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_11/src/main/java/com/example/es_11/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_11/src/main/java/com/example/es_11/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_11/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_11/src/main/resources/com/example/es_11/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_12_JAVA/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_12_JAVA/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_12_JAVA/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_12_JAVA/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_12_JAVA/es_12_JAVA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_12_JAVA/src/Lamp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_12_JAVA/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_15.01.2025/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_15.01.2025/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_15.01.2025/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_15.01.2025/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_15.01.2025/es_15.01.2025.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_15.01.2025/src/Figura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_15.01.2025/src/Gestore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_15.01.2025/src/Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_15.01.2025/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_15.01.2025/src/Quadrilatero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_15.01.2025/src/Triangolo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_allenamento_2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_allenamento_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_allenamento_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_allenamento_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_allenamento_2/es_allenamento_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_allenamento_2/src/Coda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_allenamento_2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_allenamento_2/src/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_allenamento_verifica/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_allenamento_verifica/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_allenamento_verifica/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_allenamento_verifica/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_allenamento_verifica/es_allenamento_verifica.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_allenamento_verifica/src/Coda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_allenamento_verifica/src/Leggi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_allenamento_verifica/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/PENTAMESTRE/es_allenamento_verifica/src/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/13.12.2024/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/13.12.2024/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/13.12.2024/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/13.12.2024/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/13.12.2024/13.12.2024.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/13.12.2024/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/13.12.2024/src/Pila.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/22.11.2024/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/22.11.2024/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/22.11.2024/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/22.11.2024/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/22.11.2024/22.11.2024.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/22.11.2024/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/22.11.2024/src/contoCorrente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es 2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es 2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es 2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es 2/es 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es 2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es1/es1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_10/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_10/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_10/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_10/es_10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_10/src/Leggi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_10/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_10/src/Negozio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_10/src/Sim.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_1_recupero/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_1_recupero/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_1_recupero/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_1_recupero/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_1_recupero/es_1_recupero.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_1_recupero/src/Frazione.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_1_recupero/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_2_recupero/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_2_recupero/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_2_recupero/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_2_recupero/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_2_recupero/es_2_recupero.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_2_recupero/src/Lamp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_2_recupero/src/Leggi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_2_recupero/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_3/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_3/es_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_4/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_4/es_4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_5/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_5/es_5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_5/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_6/es_6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_6/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_8/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_8/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_8/es_8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_8/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_8/src/Numeri.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_9.12.2024/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_9.12.2024/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_9.12.2024/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_9.12.2024/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_9.12.2024/es_9.12.2024.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_9.12.2024/src/Coda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_9.12.2024/src/Leggi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_9.12.2024/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_9.12.2024/src/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_9.12.2024/src/es_allenamento_verifica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_9/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_9/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_9/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_9/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_9/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_9/es_9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_9/src/Leggi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_9/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_9/src/Sim.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_linked_list__/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_linked_list__/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_linked_list__/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_linked_list__/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_linked_list__/es_linked_list__.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/ES JAVA/TRIMESTRE/es_linked_list__/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/PDF_JAVA/es1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/PDF_JAVA/es2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/PDF_JAVA/es3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/PDF_JAVA/es4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/PDF_JAVA/es5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/PDF_JAVA/es6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/PDF_JAVA/es8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ES INFO/PDF_JAVA/es_9.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/22.01.2025.iml" beforeDir="false" afterPath="$PROJECT_DIR$/22.01.2025.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileCsv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileCsv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gestore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gestore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quadrilatero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quadrilatero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Triangolo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22.01.2025_/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22.01.2025_/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22.01.2025_/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22.01.2025_/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22.01.2025_/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22.01.2025_/22.01.2025_.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22.01.2025_/src/Figura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22.01.2025_/src/FileCsv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22.01.2025_/src/Gestore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22.01.2025_/src/Leggi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22.01.2025_/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22.01.2025_/src/Quadrilatero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22.01.2025_/src/Triangolo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../LIBRO_INFO.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TEORIA INFO/TEORIA JAVA/GARBAGE COLLECTOR.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TEORIA INFO/TEORIA JAVA/GARBAGE COLLECTOR.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TEORIA INFO/TEORIA JAVA/JAVA.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TEORIA INFO/TEORIA JAVA/LEZ_4_06.12.2024.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TEORIA INFO/TEORIA JAVA/LEZ_4_06.12.2024.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TEORIA INFO/TEORIA JAVA/ereditarietà.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TEORIA INFO/TEORIA JAVA/lez.JavaFX.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TEORIA INFO/TEORIA JAVA/lez_2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TEORIA INFO/TEORIA JAVA/lez_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TEORIA INFO/TEORIA JAVA/lez_3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TEORIA INFO/TEORIA JAVA/lez_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TEORIA INFO/TEORIA JAVA/lez_argomento_2a_ver.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TEORIA INFO/TEORIA JAVA/prima lezione JAVA.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TEORIA INFO/TEORIA JAVA/prima lezione JAVA.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../INGLESE/LIBRO_INGLESE.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../INGLESE/LIBRO_INGLESE_x_INFO.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ITA/teoria/APPUNTI/PENTAMESTRE/domande_Verri_vocabolario_crusca.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ITA/teoria/APPUNTI/PENTAMESTRE/domande_Verri_vocabolario_crusca.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2s89xhWLIDsOfzyCnUrJB4E6ZEN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2877ed3e-cce8-4be1-a555-d69dbd38cdb7" name="Changes" comment="" />
+      <created>1737826584003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737826584003</updated>
+    </task>
+    <servers />
+  </component>
+</project>

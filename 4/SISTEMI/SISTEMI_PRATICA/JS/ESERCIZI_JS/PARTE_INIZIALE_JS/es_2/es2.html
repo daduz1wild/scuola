@@ -1,0 +1,37 @@
+<!-- creare uno script che crei una tabella a 3 colonne, prima colonna il numero n,seconda numero al quadrato, terza colonna al cubo. dal numero 1 al numero 16, non si deve usare nessun getElement.tutto deve essere direttamente allo script
+Per farlo usi parseInt:(stringa,la radice di cui decidiamo la base); -->
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>es2</title>
+		<script src=funzContr.js></script>
+	</head>
+	<body>
+		<button onclick="avviaScript()">Avvia esecuzione</button>
+		<script>
+			function avviaScript(){
+				let n1,n2;
+				do{
+					n1=prompt("inserisci primo numero");
+				}while(!contrInt(0,100,n1));
+				do{
+					n2=prompt("inserisci secondo numero");
+				}while(!contrInt(n1,100,n2));
+				document.write('<table border=1>');
+				document.write('<thead><tr><th>Numero</th><th>Numero^2</th><th>Numero^3</th></tr></thead>');
+				document.write('<tbody>');
+				for (let i = n1; i <= n2; i++) {
+					document.write('<tr>');
+					document.write('<td>'+i+'</td>');
+					document.write('<td>' + Math.pow(i, 2) + '</td>');
+					document.write('<td>' + Math.pow(i, 3) + '</td>');
+					document.write('</tr>');
+				}
+				document.write('</tbody>');
+				document.write('</table>');
+			}
+		</script>
+	</body>
+</html>

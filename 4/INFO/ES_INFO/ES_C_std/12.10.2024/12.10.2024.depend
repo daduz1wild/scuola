@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1727711576 source:f:\scuola\es info\12.10.2024\inserimenti.c
+	"header.h"
+
+1728852478 f:\scuola\es info\12.10.2024\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728853518 source:f:\scuola\es info\12.10.2024\main.c
+	"header.h"
+
+1728852806 source:f:\scuola\es info\12.10.2024\funzioni.c
+	"header.h"
+
