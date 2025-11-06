@@ -396,3 +396,500 @@ Il Parlamento finì così per **votare i pieni poteri al governo Salandra**, aut
 ---
 
 Vuoi che prosegua con la prossima parte — cioè **la guerra dell’Italia sul fronte dell’Isonzo e la vita dei soldati in trincea (1915–1917)**? Posso continuare con lo stesso stile da studio + analisi + collegamenti.
+
+
+# 1915-1916
+
+Perfetto 👏 — i tuoi appunti sono già molto buoni, e mostrano che hai colto bene i punti chiave del periodo **1915–1916**, cioè la fase più dura e statica della **Grande Guerra**: la **guerra di posizione**, la **trincea**, e la **stanchezza morale e politica** che inizia a diffondersi.  
+Ora ti scrivo una **spiegazione completa e da studio**, che integra le slide e i tuoi appunti, chiarendo bene il quadro generale, aggiungendo collegamenti e particolari utili per la verifica.
+
+---
+
+## ⚔️ 1915–1916: LA GUERRA DI POSIZIONE
+
+### 🔹 Il fronte occidentale: la guerra di trincea
+
+Dopo la battaglia della Marna (1914), nessuno degli eserciti riuscì più ad avanzare in modo decisivo.  
+Tra il 1915 e il 1916, il **fronte occidentale** (Francia–Germania) si stabilizzò completamente.
+
+- I due eserciti costruirono **sistemi di trincee** lunghi più di 700 km, dal Mare del Nord alla Svizzera.
+    
+- Le trincee erano collegate da **reticolati, gallerie e bunker**, spesso scavati nel fango.
+    
+- I soldati vivevano in **condizioni terribili**: freddo, fame, pidocchi, malattie, paura costante dei bombardamenti.
+    
+
+👉 Questa divenne la **guerra di posizione** (o guerra di logoramento): non si vince con grandi battaglie, ma tentando lentamente di **consumare le forze del nemico**, metro dopo metro.
+
+---
+
+### 💣 Le grandi battaglie del 1916
+
+Sul fronte occidentale si combatté **una delle fasi più sanguinose** di tutta la guerra:
+
+- **Verdun (febbraio–dicembre 1916)** → la Germania cercò di “dissanguare” la Francia con un attacco concentrato.  
+    → Durò 10 mesi: **oltre 700.000 tra morti e feriti**.  
+    → I francesi resistettero eroicamente al grido di “**Ils ne passeront pas!**” (“Non passeranno!”).
+    
+- **Somme (luglio–novembre 1916)** → offensiva britannica di risposta: **oltre 1 milione di morti** senza risultati decisivi.
+    
+
+⚠️ Queste battaglie dimostrarono la **disumanità della guerra moderna**: enormi perdite, pochissimi guadagni territoriali, e l’uso massiccio di **nuove armi** (mitragliatrici, gas asfissianti, artiglieria pesante).
+
+---
+
+### 🔹 Il fronte orientale: i russi in difficoltà
+
+Sul fronte orientale, la guerra restò **più mobile** ma non meno cruenta.
+
+- L’esercito russo, male equipaggiato e mal comandato, subì **pesanti sconfitte** in Polonia e Lituania ad opera dei tedeschi (1915).
+    
+- Le perdite furono enormi, e questo provocò un **crollo del morale** e **crisi interne** che porteranno poi alla **Rivoluzione russa del 1917**.
+    
+
+Nei **Balcani**, invece, le truppe **austro-tedesche e bulgare** occuparono la **Serbia**, eliminandola temporaneamente dal conflitto.
+
+---
+
+### ⚓ Il mare: il blocco britannico e la guerra sottomarina
+
+La **Gran Bretagna** continuò il **blocco navale della Germania**, impedendo l’arrivo di viveri e materie prime.  
+Questo causò **gravi difficoltà economiche e fame** per la popolazione tedesca.
+
+→ In risposta, la Germania avviò la **guerra sottomarina**: gli **U-Boot** attaccavano tutte le navi dirette verso l’Inghilterra, anche quelle civili.
+
+Ma questa strategia **irritò fortemente gli Stati Uniti**, perché molte navi americane vennero affondate (come il _Lusitania_ nel 1915).  
+➡️ Gli USA, ancora neutrali, iniziarono però a **guardare con ostilità la Germania** e a **rifornire di armi e cibo l’Intesa**, preparando il terreno al loro ingresso nel 1917.
+
+---
+
+## 🇮🇹 L’Italia nel 1915–1916
+
+### ⚔️ Il fronte dell’Isonzo
+
+L’esercito italiano, comandato dal generale **Luigi Cadorna**, affrontò l’Austria sul fronte alpino, in particolare lungo il fiume **Isonzo** (oggi in Slovenia).
+
+- Cadorna applicava una **strategia rigida e antiquata**: bombardamenti massicci seguiti da **assalti frontali**.  
+    → Ma gli austriaci erano ben difesi in posizioni elevate e fortificate.  
+    → Le truppe italiane, spesso male equipaggiate e guidate da ufficiali inesperti, **venivano massacrate** senza ottenere guadagni.
+    
+
+Tra il 1915 e il 1916 si combatterono **quattro battaglie dell’Isonzo**, tutte con **enormi perdite** e risultati quasi nulli.  
+👉 L’Italia aveva un esercito di contadini comandato da ufficiali della piccola borghesia: i soldati spesso **non capivano il senso della guerra**, e la disciplina era durissima (Cadorna prevedeva fucilazioni e punizioni collettive).
+
+---
+
+### ⚠️ La “spedizione punitiva” austriaca (1916)
+
+Nel maggio 1916 l’Austria organizzò una grande offensiva contro l’Italia: la **spedizione punitiva (Strafexpedition)**, per vendicarsi dell’entrata in guerra italiana.
+
+- Gli austriaci penetrarono in **Trentino** e minacciarono di scendere verso la pianura veneta (Battaglia di Asiago).
+    
+- L’offensiva venne fermata anche grazie a una **controffensiva russa sul fronte orientale**, che costrinse l’Austria a ritirare parte delle truppe.
+    
+
+➡️ Tuttavia, l’episodio rivelò la **fragilità militare e politica italiana**: il governo **Salandra** cadde e venne sostituito da **Paolo Boselli**.  
+Sotto il nuovo governo, l’Italia **dichiarò guerra anche alla Germania** (agosto 1916).
+
+---
+
+## ✝️ Le prime proposte di pace e il logoramento
+
+Nel 1916, la guerra sembrava **senza fine**. Tutti i Paesi erano stremati.
+
+- Il nuovo imperatore austriaco, **Carlo I d’Asburgo**, tentò di **negoziare la pace**, ma senza successo.
+    
+- Anche **Papa Benedetto XV** lanciò un appello, definendo il conflitto **“un’inutile strage”** (1917).  
+    → Questa frase è rimasta storica, perché esprime perfettamente il senso di **disperazione e assurdità** di una guerra che non portava risultati.
+    
+
+Ma i governi, spinti dall’orgoglio e dai sacrifici già compiuti, **rifiutarono ogni compromesso**: la guerra doveva essere “portata fino alla vittoria”.
+
+---
+
+## 🔴 I socialisti e le prime opposizioni
+
+Durante la guerra, il **movimento socialista europeo** si spaccò:
+
+- La **maggioranza** dei partiti socialisti dei vari Paesi finì per **appoggiare la guerra**, in nome della difesa della patria.
+    
+- In **Italia**, invece, il **PSI** rimase **neutralista**: “**né aderire né sabotare**” (cioè non partecipare ma neppure ostacolare lo sforzo bellico).
+    
+
+Tuttavia, cominciarono a emergere **minoranze rivoluzionarie** che volevano **trasformare la guerra in rivoluzione**:
+
+- In **Germania**, gli **spartachisti** (da _Spartacusbund_, “Lega di Spartaco”) → socialisti estremisti guidati da **Karl Liebknecht** e **Rosa Luxemburg**, contrari alla guerra e favorevoli a una rivoluzione proletaria.
+    
+- In **Russia**, **Lenin** e i **Bolscevichi** → volevano trasformare la guerra in una guerra civile contro i governi borghesi.
+    
+
+👉 Queste correnti rivoluzionarie resteranno minoritarie fino al 1917, ma segneranno profondamente il destino politico dell’Europa.
+
+---
+
+## 📊 Riepilogo sintetico (utile per la verifica)
+
+|Aspetto|Situazione 1915–1916|
+|---|---|
+|**Tipo di guerra**|Guerra di posizione e logoramento|
+|**Fronte occidentale**|Verdun e Somme, 1,5 milioni di morti senza risultati|
+|**Fronte orientale**|Sconfitte russe in Polonia e Lituania|
+|**Italia**|Quattro battaglie dell’Isonzo, spedizione punitiva, caduta Salandra|
+|**Mare**|Blocco britannico – guerra sottomarina tedesca – tensione con USA|
+|**Tentativi di pace**|Falliscono (Papa e Carlo I)|
+|**Socialisti**|Divisione tra interventisti e neutralisti; nascono correnti rivoluzionarie|
+
+---
+
+## 🔗 Collegamenti e interpretazioni
+
+- **Modernità della guerra** → uso massiccio di tecnologia e mezzi industriali: la guerra diventa una “fabbrica della morte”.
+    
+- **Società in trincea** → i contadini al fronte sono lontani dalle loro terre e non capiscono il senso del sacrificio: nasce la **sfiducia nello Stato**.
+    
+- **Benedetto XV** → unico leader che denuncia apertamente l’assurdità della guerra, posizione che lo rese impopolare presso i governi ma molto rispettato nel dopoguerra.
+    
+- **Socialismo rivoluzionario** → le idee di Lenin e degli spartachisti saranno decisive per le **rivoluzioni del 1917–1918**.
+    
+
+---
+
+Vuoi che ora continui con il **1917**, cioè **Caporetto, la Rivoluzione Russa e l’entrata in guerra degli Stati Uniti**? È la naturale continuazione di questa fase e fondamentale per capire la svolta del conflitto.
+la maggior parte della gente che va al fronte sono contadini, guidato da ufficiali della piccola borghesia liberali, tra il 15 e il 16 il fornte occidentale è stabile, ma quello orientale no con Russia Polonia. Cadorna conosceva una sola politica, prima bombardavano poi si andava di persona. con pugnali uccidevano.
+questa guerra è una strage, avviene sull'Isonzo(4 battaglie), massacri di tutti i tipi senza che si vada oltre nel territorio. attaccavano ma non riuscivano a sorpassare il fronte,forti nella difesa ma non nell'offesa. 
+gli americani prentendevano di continuare a anvigare per le acque europee come se non ci fosse  la guerra.
+austriaci fanno una spedizione punitiva, per poco riescono a bloccare gli italiani ad asiago e lo uccidono.
+l'Austria aveva capito che ormai la guerra non si poteva piu vincere quindi imperatore e papa dichiarano che era un'inutile strage.
+in tutti gli stati le maggioranze socialiste hanno aderito alla guerra tranne socialisti italiani, che non partecipavano e non disturbavano il suo corso.
+sabotare la guerra si diceva che c'era uno stato che bruciava le persone ma in realta bruciava i cavalli per ottenere delle sostanze.
+gli spartisti tedeschi(socialisti estremi) sono quelle forze tedesche che non sono d'accordo con partiti democratici e socialisti intermedi.
+anche lenin(estremista comunista) era una piccola minoranza.
+___
+
+
+## 🏭 IL FRONTE INTERNO E L’ECONOMIA DI GUERRA
+
+Durante la **guerra di logoramento** (dal 1915 in poi), il conflitto non si vinse più solo sui campi di battaglia, ma anche **nelle fabbriche, nelle campagne e nelle città**.  
+Tutti i Paesi belligeranti dovettero **trasformare radicalmente la propria economia e la propria società** per sostenere lo sforzo bellico.
+
+---
+
+### ⚙️ L’economia di guerra
+
+La guerra durava ormai da anni, e per sostenerla fu necessario mettere **tutta l’economia al servizio dell’esercito**:
+
+1. **Conversione delle industrie**
+    
+    - Le fabbriche civili vennero riconvertite alla **produzione militare**: armi, munizioni, uniformi, veicoli, viveri per l’esercito.
+        
+    - Le grandi industrie metallurgiche, chimiche e meccaniche (es. **FIAT**, **Ansaldo**, **Ilva**) si arricchirono enormemente.
+        
+2. **Razionamento**
+    
+    - Gli Stati introdussero un **controllo centralizzato dei beni** e **razionarono gli alimenti**:  
+        i prodotti agricoli e le materie prime venivano destinati **prima all’esercito**, poi alla popolazione.
+        
+    - Cibo, carbone e tessuti erano distribuiti in quantità limitate con **tessere annonarie**.  
+        → Questo causò **malcontento e fame** nelle città, soprattutto tra i ceti popolari.
+        
+3. **Controllo dei prezzi e dei salari**
+    
+    - Lo Stato fissava i prezzi dei beni principali, ma l’inflazione (aumento dei prezzi) restava altissima.
+        
+    - I salari non tenevano il passo, e il potere d’acquisto diminuiva.
+        
+4. **Prestiti di guerra**
+    
+    - Per finanziare le spese militari, gli Stati emisero **titoli pubblici** chiedendo ai cittadini di “prestare” soldi alla patria.
+        
+    - La propaganda li presentava come un gesto patriottico (“Chi ama l’Italia, sottoscriva il prestito di guerra”).
+        
+5. **Controlli e intervento statale**
+    
+    - Lo Stato accentuò il proprio potere sull’economia: fissava la produzione, i prezzi, i trasporti.
+        
+    - Nacquero **ministeri e uffici speciali** per gestire armi, carburanti e alimentazione.  
+        → In sostanza, la guerra segnò **l’inizio dell’economia pianificata**, in cui lo Stato dirige la produzione in funzione di obiettivi militari.
+        
+
+---
+
+### 💰 I grandi gruppi industriali
+
+Mentre la maggior parte della popolazione soffriva, i **grandi industriali** conobbero **profitti enormi**:
+
+- Le industrie legate alla guerra (acciaio, armi, chimica, automobili) **aumentarono la produzione** in modo vertiginoso.
+    
+- Lo Stato, pur di ottenere rapidamente armi e materiali, **accettava prezzi molto alti**, garantendo guadagni sicuri alle imprese.  
+    → Questa situazione fece nascere la figura dei **“pescecani di guerra”**, cioè imprenditori e speculatori che si arricchivano sulla pelle dei soldati.
+    
+
+---
+
+### 👩‍🏭 Il coinvolgimento della popolazione civile
+
+Il fronte interno fu altrettanto importante del fronte militare.  
+Tutti furono coinvolti nello sforzo bellico, anche chi non combatteva.
+
+1. **Le donne**
+    
+    - Con milioni di uomini al fronte, **le donne entrarono massicciamente nel mondo del lavoro**:  
+        fabbriche, uffici, ferrovie, ospedali, campi agricoli.
+        
+    - Assunsero ruoli prima considerati “maschili”, guadagnando **una maggiore autonomia e visibilità sociale**.  
+        → Questa esperienza sarà una **premessa importante per l’emancipazione femminile** nel dopoguerra.
+        
+2. **I bambini e gli anziani**
+    
+    - Partecipavano al lavoro nei campi e in famiglia, contribuendo come potevano alla sopravvivenza.
+        
+3. **Le città**
+    
+    - Subivano penurie alimentari, blackout notturni (per evitare bombardamenti) e l’impatto emotivo dei bollettini di guerra.
+        
+
+---
+
+### 🗞️ Il controllo dell’informazione e la propaganda
+
+Per mantenere alto il morale e nascondere le sconfitte, i governi **controllavano rigidamente la stampa e l’informazione**:
+
+- Nacque la **censura militare**: notizie sulle perdite o sugli errori strategici venivano nascoste.
+    
+- La **propaganda** diffondeva un’immagine eroica della guerra, con manifesti, film, giornali e discorsi patriottici.  
+    → Ogni Stato cercava di **convincere la popolazione** che la guerra fosse giusta, necessaria e che la vittoria fosse vicina.
+    
+- Le potenze usavano anche **manifesti e volantini** per colpire il morale del nemico o incitare alla diserzione.
+    
+
+Esempio:  
+🇬🇧 In **Gran Bretagna**, all’inizio la guerra si basava su **volontari** (“Your country needs you!”); poi, di fronte alle perdite, nel 1916 anche loro introdussero la **coscrizione obbligatoria** (servizio militare forzato).
+
+---
+
+### ⚠️ Conseguenze sociali
+
+- **Carestie e sacrifici**: il cibo scarseggiava, e le classi povere soffrivano più delle altre.
+    
+- **Scioperi e malcontento**: la popolazione iniziò a essere stanca della guerra e dei sacrifici.
+    
+- **Nuovo ruolo dello Stato**: la guerra portò a un **accentramento dei poteri**, con meno libertà politiche e più controllo sociale (censura, disciplina, repressione).
+    
+- **Differenze di classe**: mentre i poveri morivano o faticavano, i grandi industriali e gli ufficiali spesso si arricchivano — creando tensioni che esploderanno nel dopoguerra.
+    
+
+---
+
+## 📊 Riepilogo sintetico (utile per ripasso rapido)
+
+|Aspetto|Caratteristiche principali|
+|---|---|
+|**Economia di guerra**|Tutta la produzione destinata al fronte militare|
+|**Razionamento**|Cibo e beni limitati, priorità all’esercito|
+|**Grandi industrie**|Profitti enormi, “pescecani di guerra”|
+|**Ruolo dello Stato**|Controllo totale su produzione, prezzi e propaganda|
+|**Ruolo delle donne**|Lavorano nelle fabbriche e nei servizi pubblici|
+|**Propaganda e censura**|Controllo dell’informazione per mantenere il morale|
+|**Tensione sociale**|Disuguaglianze, fame, scioperi, malcontento|
+
+---
+
+## 🔗 Collegamenti utili per la verifica
+
+- **Economia di guerra → Stato moderno**: la guerra spinge verso un **nuovo modello di Stato interventista**, base dell’economia del Novecento.
+    
+- **Donne e guerra**: il lavoro femminile durante il conflitto sarà decisivo per ottenere, in molti Paesi, **il diritto di voto** nel dopoguerra (es. Inghilterra 1918).
+    
+- **Propaganda e consenso**: tecniche e linguaggi di propaganda sperimentati qui saranno poi riutilizzati dai **regimi totalitari** (fascismo e nazismo).
+    
+- **Disuguaglianze e rabbia sociale**: il contrasto tra chi si arricchisce e chi muore al fronte alimenterà i **movimenti rivoluzionari** e le tensioni del dopoguerra.
+## fronte interno e economia in guerra
+razionamento(vengono razionati gli alimenti per l'esercito, prima mandano i soldati poi gli altri), l'unico programma è la guerra , tutta l'economia quindi dipendeva da quella , grandi gruppi industriali fanno un sacco di soldi, perchè vendono molto di più, spesso lo stato pur di avere le armi in fretta aumenta i prezzi.
+le donne vengono impiegate nella produzione.
+informazione propaganda, gli inglesi all'inizio non avevano servizio militare obbligatorio, avevano solo volontari poi anche loro si trasformano.
+
+___
+
+
+## ⚔️ 1917-1918: LA FASE FINALE DELLA GRANDE GUERRA
+
+### 😩 Crisi e stanchezza generale
+
+Dopo anni di guerra di trincea, **nel 1917 il logoramento è totale**:
+
+- **I soldati** sono stanchi, delusi e spesso disperati: iniziano **diserzioni**, **ammutinamenti** (soprattutto nell’esercito francese dopo la disastrosa offensiva del generale Nivelle) e **autolesionismo** — molti si **sparano ai piedi o alle mani** per farsi mandare in ospedale ed evitare il fronte.
+    
+- **La popolazione civile** vive fame, freddo, razionamenti e lutti continui. Anche in Italia ci sono **moti popolari**, come quelli di **Torino nel 1917**, dove le donne protestano per la mancanza di pane e per la guerra.
+    
+
+Questa crisi morale, materiale e politica attraversa **tutti i Paesi belligeranti**, e in alcuni — come la Russia — fa **crollare l’intero sistema politico**.
+
+---
+
+## 🇷🇺 Le rivoluzioni russe del 1917
+
+### ✊ La rivoluzione di febbraio (marzo nel calendario occidentale)
+
+- In Russia, lo **zar Nicola II** è ormai odiato per la guerra, la fame e la povertà.
+    
+- Scoppiano **manifestazioni a Pietrogrado (San Pietroburgo)**; l’esercito si rifiuta di sparare sulla folla, e lo zar è costretto **ad abdicare**.
+    
+- Nasce un **governo provvisorio** (guidato da Kerenskij) che però **decide di continuare la guerra**, aggravando la crisi.
+    
+
+### 🌹 La rivoluzione di ottobre
+
+- I **Bolscevichi** (socialisti rivoluzionari guidati da **Lenin**) promettono **“pace, terra e pane”**.
+    
+- Con un colpo di Stato (ottobre 1917), **prendono il potere** e instaurano il **primo governo comunista** della storia.
+    
+- Lenin mantiene la promessa: firma con la Germania la **Pace di Brest-Litovsk** (marzo 1918), che **ritira la Russia dalla guerra** ma **cede enormi territori** (Polonia, Ucraina, Finlandia, Paesi baltici).
+    
+
+➡️ **Conseguenza:**  
+la Germania può **spostare le truppe dal fronte orientale a quello occidentale e italiano**, cercando un’ultima offensiva decisiva prima che arrivino in massa gli americani.
+
+---
+
+## 🇮🇹 Caporetto (ottobre 1917)
+
+### ⚠️ La disfatta
+
+- Il **24 ottobre 1917**, le forze **austro-tedesche** attaccano improvvisamente a **Caporetto** (oggi Kobarid, Slovenia).
+    
+- Gli italiani, sorpresi e male organizzati, **vengono travolti**: le linee cedono, molti soldati si arrendono o si ritirano nel panico.
+    
+- L’esercito si **ritira fino al Piave e al Monte Grappa**, dove finalmente riesce a stabilizzarsi.
+    
+
+👉 Le cause:
+
+- **Errori di comando** (in particolare di **Cadorna**, che insisteva sugli assalti frontali anche quando erano inutili).
+    
+- **Scarsa motivazione** dei soldati, logorati da anni di sacrifici e pessime condizioni di vita.
+    
+- **Organizzazione e comunicazione pessime**: reparti senza rifornimenti, ordini contraddittori.
+    
+- **Superiorità tattica tedesca**, che usò nuove tecniche d’infiltrazione rapida invece dei classici assalti.
+    
+
+### 🔍 Le conseguenze politiche e militari
+
+- Cadorna, incapace di ammettere gli errori propri e dei suoi ufficiali, **accusa i soldati di codardia** e i **socialisti e cattolici** di “disfattismo” (cioè di diffondere pessimismo e sfiducia).
+    
+- In realtà, **il comando italiano era il principale responsabile**: tra i suoi ufficiali c’era anche **Badoglio**, che commise gravi errori tattici ma riuscì comunque a farsi promuovere dopo la guerra (e riapparirà nel 1943, dopo la caduta del fascismo).
+    
+
+### 🇮🇹 La reazione italiana
+
+- Dopo Caporetto, nasce un **governo di unità nazionale** guidato da **Vittorio Emanuele Orlando**, sostenuto anche da parte dei **socialisti riformisti**, che pur non entrando nel governo **appoggiano la difesa nazionale** (“né sabotare né partecipare”).
+    
+- Cadorna viene sostituito dal nuovo comandante **Armando Diaz**, napoletano, più equilibrato e meno repressivo:
+    
+    - Migliora il **morale dei soldati** (più licenze, migliori rifornimenti, assistenza).
+        
+    - Organizza la difesa sul **Piave**, dove l’avanzata nemica viene **fermata**.
+        
+
+👉 Questo segna la **rinascita morale dell’esercito italiano**.
+
+---
+
+## 🇺🇸 L’entrata in guerra degli Stati Uniti (aprile 1917)
+
+### 💡 Le cause
+
+Il presidente americano **Woodrow Wilson** decide di entrare in guerra al fianco dell’Intesa per motivi:
+
+- **Economici**: le banche e le industrie americane avevano già finanziato Francia e Inghilterra; una sconfitta dell’Intesa avrebbe fatto perdere miliardi di dollari.
+    
+- **Morali e ideali**: Wilson parla di **“guerra per la democrazia”** e di difesa della libertà contro gli imperi autoritari (Germania, Austria, Turchia).
+    
+- **Militari**: la Germania aveva ripreso la **guerra sottomarina indiscriminata**, affondando anche navi civili (es. _Lusitania_, 1915).
+    
+
+### ⚙️ Il contributo americano
+
+- Arrivano **milioni di soldati freschi** (“doughboys”) e un **enorme supporto economico e logistico**.
+    
+- Gli Stati Uniti diventano il **creditore principale dell’Europa**, che si indebitò pesantemente con loro (questo influenzerà molto il dopoguerra).
+    
+
+---
+
+## ⚔️ 1918: le offensive finali e la vittoria dell’Intesa
+
+### 🇩🇪 L’offensiva tedesca (primavera 1918)
+
+- La Germania tenta **l’ultima offensiva** sul fronte occidentale, sperando di vincere prima che arrivino troppi americani.
+    
+- All’inizio avanza, ma poi **viene fermata nella Seconda battaglia della Marna** (luglio 1918).
+    
+- Da quel momento, gli Alleati passano **alla controffensiva generale**.
+    
+
+### 🇮🇹 Il fronte italiano
+
+- Gli **austriaci** tentano un’ultima offensiva sul **Piave** (giugno 1918), ma vengono **sconfitti**.
+    
+- L’esercito italiano è ormai più organizzato e motivato: Diaz coordina bene le forze e difende con successo la linea.
+    
+- Da lì a pochi mesi, l’Austria è allo stremo.
+    
+
+---
+
+## 🕊️ Il crollo degli Imperi centrali
+
+Tra l’estate e l’autunno 1918, la situazione per gli Imperi centrali diventa insostenibile:
+
+- **Austria-Ungheria** è sconvolta da rivolte interne (cechi, slovacchi, ungheresi vogliono l’indipendenza).
+    
+- **Germania** è colpita da fame, scioperi e una rivoluzione operaia che costringerà **Guglielmo II all’abdicazione** (novembre 1918).
+    
+- **Turchia e Bulgaria** chiedono l’armistizio.
+    
+
+L’Italia, nel frattempo, prepara la **controffensiva di Vittorio Veneto** (ottobre 1918), che segna il **crollo definitivo dell’Impero austro-ungarico** e la **fine della guerra per l’Italia**.
+
+---
+
+## 🧭 Riepilogo sintetico per il ripasso
+
+|Evento|Data|Conseguenze|
+|---|---|---|
+|Stanchezza generale|1917|Ammutinamenti, diserzioni, crisi interna|
+|Rivoluzioni russe|Febbraio e ottobre 1917|Caduta dello zar, governo bolscevico, pace di Brest-Litovsk|
+|Disfatta di Caporetto|Ottobre 1917|Ritirata sul Piave, crollo di Cadorna, nascita governo Orlando|
+|Entrata in guerra USA|Aprile 1917|Truppe fresche, sostegno economico, indebitamento Europa|
+|Offensiva tedesca|Primavera 1918|Fermata sulla Marna|
+|Vittoria italiana sul Piave|Giugno 1918|Difesa riuscita, rilancio morale|
+|Vittorio Veneto|Ottobre 1918|Fine della guerra sul fronte italiano|
+|Armistizio generale|11 novembre 1918|Fine della Grande Guerra|
+
+---
+
+## 🔗 Collegamenti utili
+
+- **Caporetto e morale nazionale** → simboleggia il punto più basso del conflitto, ma anche la rinascita grazie all’unità e alla difesa.
+    
+- **Rivoluzione russa** → primo Stato socialista: segna la fine del vecchio mondo zarista e ispira movimenti rivoluzionari in Europa.
+    
+- **Entrata USA → nuovo equilibrio mondiale**: da ora in poi gli Stati Uniti diventano una **superpotenza economica e politica**.
+    
+- **Crisi post-bellica** → inflazione, disoccupazione, rancore verso le élite: terreno fertile per i **movimenti nazionalisti e fascisti**.
+
+## 1917-18
+stanchezza da parte dei soldati.
+autolesionismo, tanti per non andare a guerra si sparano ai piedi.
+anche popolazione stanca, in particolare in Russia scoppia prima rivoluzione di febbraio che abbatte lo zar.
+Lenin viene mandato in Russia, perche si pensava che avrebbe creato una rivoluzione infatti non li deludeva.
+Russia arriva a non esserci piu, romania completamente invasa(da tedeschi austriaci e bulgari), Germania quindi vince la guerra dell'est.
+Lenin cede tantissimi territori pur di avere la pace, i tedeschi possono ritirare truppe dal fornte orientale e possono metterle sul fronte italiano. nel frattempo entrano americani nell'intesa.
+viene lanciata un'offensiva a caporetto, italiani erano arrivati vicini a sfondare il confien austriaco, ma con l'inverno si fermano prima, e non si sarebbero mai aspettati un possibile attacco.Gli Italiani si trovano gli amici che arrivano da dietro, non se lo aspettano, austriaci  e tedeschi sfondano tutte le linee italiane. la fortuna grossa è che le truppe italiane riescono a ritirarsi sul grappa e sul piave per cui riescono a difendersi meglio.
+Cadorna faceva solo assalto frontale non capiva le altre tecniche tipo assalto laterale
+Cadorna non trova meglio da fare che incolpare i socialisti italiani e cattolici e la propaganda per aver diffuso la voglia di combattere.
+
+il principale responsabile era Badolio, che dopo la guerra sara processato ma promosso anche se aveva fatto errori, ma ormai la colpa era stata data ai socialisti(comandante italiano ch ritroveremo nel 43).
+PSI non entra ma sostiene
+nuovo comandante napoletano, Diaz simile a Cadorna ma meno repressione, il fronte è piu stretto lo bloccano sul Piave.sui libri inglesi dicono che c'erano loro ad avere il controllo della zona ma in realta li avevano lasciati nel basso Garda perche si aspettavano un altro attacco dei austriaci
