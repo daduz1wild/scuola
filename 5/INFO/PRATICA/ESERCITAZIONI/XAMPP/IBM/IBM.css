@@ -1,0 +1,27 @@
+/* stile.css */
+
+/* Impostazioni generali */
+body {
+  background-color:aqua;
+  margin: 0;
+  padding: 20px;
+  font-weight: bold;
+}
+
+/* Tabella dei dati */
+table {
+  margin: 20px auto;
+  width: 50%;
+  background-color: whitesmoke;
+}
+
+td {
+  padding: 10px;
+  text-align: center;
+}
+.errore{
+    color:red;
+}
+
+
+

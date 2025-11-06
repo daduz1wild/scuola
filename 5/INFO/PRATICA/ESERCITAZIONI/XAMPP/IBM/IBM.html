@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>calcolo IBM</title>
+        <link rel="stylesheet" href="IBM.css">
+        <script src="funz.js"></script>
+    </head>
+    <body>
+        <form action="IBM.php" method="GET" onsubmit="return convalida(this);">
+            <label for="peso">Peso:</label>
+            <input type="text" name="peso" id="peso">
+            <span id="pesoError" class="errore"></span><br>
+
+            <label for="alt">Altezza:</label>
+            <input type="text" name="alt" id="alt">
+            <span id="altError" class="errore" ></span><br>
+
+            <input type="submit" value="Invia">
+        </form>
+
+    </body>
+</html>

@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>IBM e altro</title>
+        <link rel="stylesheet" href="IBM.css">
+        <script src="funz.js"></script>
+    </head>
+    <body>
+        <h1>INSERISCI I DATI</h1>
+        <form action="IBM.php" onsubmit="return check(this);" id="form">
+            <label for="nome">Nome:</label>
+            <input  type ="text" id="nome" name="nome">
+            <span id="nomeError" class="errore"></span><br>
+            <label for="sesso">Sesso:</label>
+            <select id="sesso" name="sesso">
+                <option value="" disabled selected>Seleziona Il sesso</option>
+                <option value="Maschio">Maschio</option>
+                <option value="Femmina">Femmina</option>
+            </select>
+            <span id="sessoError" class="errore"></span><br>
+            <label for="alt">Altezza:</label>
+            <input type="text" name="alt" id="alt">
+            <span id="altError" class="errore"></span><br>
+            <label for="peso">Peso:</label>
+            <input type="text" name="peso" id="peso">
+            <span id="pesoError" class="errore"></span><br>
+            <label for="email">Email:</label>
+            <input type="email" name="email" id="email">
+            <span id="emailError" class="errore"></span><br>
+            <label for="psw">password:</label>
+            <input type="password" name="psw" id="psw">
+            <span id="pswError" class="errore"></span><br>
+            <label for="confPsw"> Conferma password:</label>
+            <input type="password" name="confPsw" id="confPsw">
+            <span id="pswConfError" class="errore"></span><br>
+        </form>
+    </body>
+</html>
