@@ -15,3 +15,16 @@ arp lavoro a livello 3
 
 ogni 5 minuti la tabella arp viene cancellata( perche le comunicazioni sono state).
 
+dhcp livello 7
+dns livello 7perche oltre a lavorare con ip lavora anche con stringhe
+CSMA lavora a livello 2
+
+hub lavorando a livello fisico non lavora con indirizzo ip
+
+PP point to point
+
+con hub abbiamo piu macchine e un unico canale quindi dobbiamo usare  protocollo CSMA, le comunicaszioni saranno in broadcast
+
+segnale di jamming= segnale di ingorgo avvisa tutti gli altri host della comunicazione che è avvenuta una comunicazione, per questo non vanno a comunicare gli altri
+
+
