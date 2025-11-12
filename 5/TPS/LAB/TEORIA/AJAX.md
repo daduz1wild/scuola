@@ -14,6 +14,36 @@ pen permette di stabilire la connessione con il server , per inviare i dati util
 #ALCUNE PRPRIETA CHE CI INTERESSANO: onreadystatechange(viene eseguia ogni volta che c'è un cambio nello statodi prontezza quindi noi utilizzeremo onload() solitamente(che viene eseguito quando il ready state è a 4)(definisc una funzione richiamta al cambio della propreta ready state) quindi in general e per vedere se il server è pronto con le funzioni respondeXML o responseTEXT prendo la risaposta del server.
 
 
+# JSON
+Javascript Object Notation
+per scambio di dati client-server. è un formato che può essere utilizzato tramite classi di javascript.
+nato per rendere molto più semplice gestione di dati in lato web.
+dati che sopporta
+Booleani
+Interi e numeri di virgola
+stringhe
+Array
+Array associativi
+Null
+formato
+{
+	"nomeDelCampo" : "valoreDellaVariabile",
+	"nome" : "Mario",
+	"oggetto" : {
+		"campo" : "dato",
+		"giorno" : 1
+	},
+	"array" : [ "el1", "el2" ],
+	"lingue" : [ "it", "en" ]
+}
+semplice uso →
+JSON.parse();
+mi restituisce un oggetto javascript che poi da li posso prendere i campi
+ 
+json_encode(var);
+ 
+
+
 
 
 
