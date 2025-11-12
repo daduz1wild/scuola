@@ -893,3 +893,168 @@ Cadorna non trova meglio da fare che incolpare i socialisti italiani e cattolici
 il principale responsabile era Badolio, che dopo la guerra sara processato ma promosso anche se aveva fatto errori, ma ormai la colpa era stata data ai socialisti(comandante italiano ch ritroveremo nel 43).
 PSI non entra ma sostiene
 nuovo comandante napoletano, Diaz simile a Cadorna ma meno repressione, il fronte è piu stretto lo bloccano sul Piave.sui libri inglesi dicono che c'erano loro ad avere il controllo della zona ma in realta li avevano lasciati nel basso Garda perche si aspettavano un altro attacco dei austriaci
+
+
+---
+Perfetto 👍, qui siamo **alla fine della Grande Guerra**, quando gli Imperi centrali crollano uno dopo l’altro e nascono i nuovi Stati europei.  
+Le tue note sono molto precise — adesso ti spiego tutto in modo ordinato, approfondendo i punti chiave e i collegamenti importanti per capire **come finisce la guerra e come da questa fine nasceranno i problemi del dopoguerra** 👇
+
+---
+
+## 🕊️ LA FINE DELLA GRANDE GUERRA (1918)
+
+### 🇩🇪 La situazione nel 1918
+
+Dopo quattro anni di guerra, **gli Imperi centrali sono allo stremo**:
+
+- Le risorse economiche e militari sono esaurite.
+    
+- La popolazione è affamata, stanca, e scoppiano scioperi e rivolte.
+    
+- L’arrivo degli **americani** rafforza enormemente le forze dell’Intesa.
+    
+- La **Russia è uscita** dal conflitto (pace di Brest-Litovsk, marzo 1918), ma i tedeschi non riescono comunque a vincere in Occidente.
+    
+
+---
+
+## ⚔️ Le ultime offensive (1918)
+
+- In **primavera**, la Germania tenta l’**offensiva decisiva** sul fronte occidentale (la “Kaiserschlacht”, battaglia del Kaiser), ma viene **fermato sulla Marna**.
+    
+- Le forze dell’Intesa (con francesi, inglesi e americani) passano **alla controffensiva generale**.
+    
+- Intanto, nei Balcani e nel Medio Oriente **crollano gli alleati della Germania**:
+    
+    - 🇧🇬 **Bulgaria** firma l’armistizio (settembre 1918).
+        
+    - 🇹🇷 **Impero Ottomano** si arrende (ottobre 1918) dopo la sconfitta in Palestina.
+        
+
+---
+
+## 🇮🇹 L’offensiva di Vittorio Veneto
+
+### ⚔️ La battaglia decisiva (ottobre 1918)
+
+Sul fronte italiano, dopo aver resistito al Piave (giugno 1918), l’esercito guidato da **Armando Diaz** lancia la **grande offensiva finale a Vittorio Veneto** (24 ottobre – 3 novembre 1918).
+
+- Gli italiani **sfondano le linee austriache** e avanzano verso il Veneto e il Trentino.
+    
+- L’esercito austro-ungarico, ormai disgregato e minato da **rivolte interne** dei popoli slavi (cechi, slovacchi, croati, serbi, ungheresi), **si dissolve**.
+    
+
+### 🕊️ L’armistizio di Villa Giusti
+
+- Il **4 novembre 1918**, l’Austria-Ungheria firma l’**armistizio di Villa Giusti** (vicino a Padova).
+    
+- Il **fronte italiano è vittorioso**, ma l’Impero asburgico **cessa di esistere**:
+    
+    - nascono nuovi Stati indipendenti (Austria, Ungheria, Cecoslovacchia, Regno dei Serbi-Croati-Sloveni).
+        
+    - è la **fine di un impero millenario**.
+        
+
+---
+
+## 🇩🇪 Il crollo della Germania
+
+Anche in Germania la situazione precipita rapidamente.
+
+### ⚓ La rivolta della marina (ottobre 1918)
+
+- Mentre il governo tenta un **ultimo attacco navale contro l’Inghilterra**, i marinai di Kiel si **rifiutano di combattere**, giudicando l’ordine un **atto suicida**: la guerra era ormai persa.
+    
+- La rivolta si estende a **Berlino, Amburgo, Monaco**, con **bandiere rosse** e consigli di operai e soldati ispirati al modello sovietico.
+    
+
+### 👑 La caduta del Kaiser e la nascita della Repubblica
+
+- Davanti al rischio di una rivoluzione totale, il **Kaiser Guglielmo II** abdica (9 novembre 1918) e fugge in Olanda.
+    
+- I socialdemocratici (SPD) formano un **governo provvisorio** e proclamano la **Repubblica di Weimar**.
+    
+- Due giorni dopo, l’**11 novembre 1918**, la Germania firma l’**armistizio di Compiègne**, che pone ufficialmente fine alla guerra.
+    
+
+---
+
+## 📉 Le cause del crollo tedesco
+
+- **Sfinimento totale**: fame, mancanza di materie prime, esercito decimato.
+    
+- **Blocco navale britannico**: la popolazione era allo stremo (milioni di morti per fame e malattie).
+    
+- **Rivolte interne**: marinai, operai e soldati si ribellano contro la guerra.
+    
+- **Illusione tradita**: molti tedeschi credevano di ottenere una **“pace giusta”** ispirata ai **14 punti del presidente Wilson** (che parlavano di autodeterminazione e fine delle annessioni).  
+    → Invece scopriranno presto che i trattati saranno **punitivi e umilianti**.
+    
+
+---
+
+## 🧨 La leggenda della “pugnalata alle spalle”
+
+Dopo la guerra, i nazionalisti tedeschi — incapaci di accettare la sconfitta — diffusero la **“leggenda della pugnalata alle spalle”** (_Dolchstoßlegende_).  
+Secondo questa teoria:
+
+> la Germania non sarebbe stata sconfitta sul campo, ma “tradita” dai civili, dai socialisti, dai comunisti e dagli ebrei.
+
+👉 Questa **falsa narrazione** servì a:
+
+- giustificare la sconfitta senza ammettere i propri errori;
+    
+- alimentare odio verso ebrei e sinistra;
+    
+- diventare una delle **armi propagandistiche di Hitler** negli anni ’20 e ’30.
+    
+
+In realtà, nel 1918 la Germania era **militarmente e moralmente distrutta**, e non avrebbe potuto continuare.
+
+---
+
+## 📆 Riepilogo sintetico per il ripasso
+
+|Data|Evento|Conseguenze|
+|---|---|---|
+|Primavera 1918|Offensiva tedesca sul fronte occidentale|Fermata alla seconda Marna|
+|Settembre 1918|Crollo della Bulgaria|Primo alleato della Germania a cadere|
+|Ottobre 1918|Crollo dell’Impero ottomano|Fine del fronte mediorientale|
+|24 ott – 3 nov 1918|Vittorio Veneto|Vittoria italiana e dissoluzione dell’Impero asburgico|
+|4 novembre 1918|Armistizio di Villa Giusti|Fine della guerra per l’Italia|
+|9 novembre 1918|Abdicazione del Kaiser|Nascita della Repubblica di Weimar|
+|11 novembre 1918|Armistizio di Compiègne|Fine ufficiale della Grande Guerra|
+
+---
+
+## 🔗 Collegamenti e conseguenze più ampie
+
+- **Crollo degli imperi multinazionali** (austro-ungarico, tedesco, ottomano, russo) → nascita di **nuovi Stati nazionali**, ma anche **nuove tensioni** (soprattutto nei Balcani e in Europa orientale).
+    
+- **Germania umiliata** → sentimento di rivincita che sarà sfruttato dal nazismo.
+    
+- **Italia vincitrice ma insoddisfatta** → le promesse del Patto di Londra non verranno rispettate completamente → nascerà il mito della **“vittoria mutilata”**, base del futuro consenso fascista.
+    
+- **Fine del vecchio mondo**: quattro imperi cadono, e l’Europa entra in una **fase di disordine politico e sociale** (rivoluzioni, crisi economiche, nazionalismi esasperati).
+    
+
+---
+
+Vuoi che adesso prosegua con la parte successiva, cioè **i trattati di pace (1919-1920)** e **le conseguenze geopolitiche della guerra** (nuovi Stati, “vittoria mutilata”, Società delle Nazioni, ecc.)?  
+È il passaggio finale che chiude il programma della Prima guerra mondiale e prepara il terreno per il dopoguerra e l’ascesa del fascismo.
+
+offensiva finale vittorio veneto, italiani sfondano veneto, alla fine si chiede l'armistizio a villa giusti.
+la guerra in Europa orientale finisce ufficialmente nel 18 ma ci sono comunque vari scontri e guerre. l'11 novembre anche la germania si arrende, manda vanti un governo civile e viene chiesto l'armistizio. i  tedeschi pensavano di avere una pace favorevole con i punti di Wilson ma in realtà scoppia una guerra interna, perche viene ricevuto l'ordine di andare a combattere la Danimarca (guerra suicida), quindi navigatori o comunque coloro che avveano le barche iniziano a rivoltare andando in giro con bandiere rosse perche comunisti la maggior parte e poi quindi nasce una rivolta in tutta la germania.si forma un governo social democratico, la germania era gia sconfitta ma stava comunque cercando di non cedere.una delle leggende che mette in giro la legge tedesca è quella in cui i tedeschi stavano vincendo ma che gli ebrei hanno pugnalato alla schiena  e tradito i tedeschi  e questo verra riutilizzato nella 2a guerra mondiale da Hitler.
+
+---
+
+# le rivoluzione del 1917 in Russia 
+fai sempre la tua spiegazione , ma ti avviso che nei miei appunti vedrai anche cose che non ho capito:
+
+scioperi e proteste, febbraio 17 a Pietrogrado si riuniscono le truppe alla rivolta, lo zar viene sconfitto, e si forma un governo conservatore con a capo L'VOV, che all'interno vuole mantenere l'ordine ma all'esterno vuole continuare a combattere.
+lo zar viene costretto ad abdicare e arrestato.
+i soviet sono contro il governo provvisorio, contropotere, perche essi infatti vogliono la pace, e molto presenti tra le forze armate e non sono ancora guidate da bolscevichi.(non ho capito bene bolscevichi e menscevichi che posizione prendono).
+Lenin torna a Pietrogrado e voleva fare subito la rivoluzione, invece menscevichi erano delle idea che prima si dovesse fare una riforma graduata in cui si collabora con governo provvisorio con un'impostazione democratica.
+ottobre 1917 lenin decide che è il momento di prendere il potere, quindi febbraio rivoluzione democratica piu calma e sulla pace, ma ora cambia tutto con Lenin.assalto al palazzo d'inverno e proclamano un governo rivoluzionario di operai e soldati.
+menscevichi socialrivoluzionari erano insieme ma staccati dai bolscevichi non ho capito bene chi faceva coasa quindi spiegalo bene.
+
