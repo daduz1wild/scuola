@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CORSO_INGLESE_B2/1a lezione.md",
+                "file": "ITA/2° argomento/D'ANNUNZIO/D'Annunzio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1a lezione"
+              "title": "D'Annunzio"
             }
           }
         ],
@@ -184,9 +184,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "db6f3e65b938e460",
+  "active": "783f94d58ae5029b",
   "lastOpenFiles": [
+    "STORIA/edu civica 1° trimestre.md",
+    "ITA/2° argomento/D'ANNUNZIO/testi/Andrea Sperelli.md",
     "ITA/2° argomento/D'ANNUNZIO/D'Annunzio.md",
+    "ITA/2° argomento/D'ANNUNZIO/testi",
+    "ITA/2° argomento/D'ANNUNZIO/Untitled.md",
     "CORSO_INGLESE_B2/1a lezione.md",
     "CORSO_INGLESE_B2",
     "ITA/2° argomento/PASCOLI/RACCOLTE POETICHE.md",
@@ -203,7 +207,6 @@
     "ITA/2° argomento/PASCOLI/TESTI/lavandare.md",
     "ITA/2° argomento/PASCOLI/TESTI/la siepe.md",
     "ITA/2° argomento/PASCOLI/TESTI/L'ASSIUOLO.md",
-    "STORIA/edu civica 1° trimestre.md",
     "STORIA/1° argomento/LA STAGIONE DELLA BELLE EPOQUE.md",
     "STORIA/2° argomento/LA GRANDE GUERRA.md",
     "SISTEMI/TEORIA/APPUNTI/ARP.md",
@@ -211,7 +214,6 @@
     "INFO/PRATICA/ESERCITAZIONI/XAMPP/es1_cookies/pag2.php",
     "INFO/PRATICA/ESERCITAZIONI/XAMPP/es1_cookies/pag1.php",
     "INFO/PRATICA/ESERCITAZIONI/XAMPP/es1_cookies",
-    "INFO/PRATICA/ESERCITAZIONI/es1_cookies/pag3.php",
-    "INFO/PRATICA/ESERCITAZIONI/es1_cookies/pag2.php"
+    "INFO/PRATICA/ESERCITAZIONI/es1_cookies/pag3.php"
   ]
 }

@@ -41,4 +41,22 @@ il problema è che il papa come sempre arriva dopo, Gregorio XVI condanna la lib
 
 attualmente il cattolicesimo liberale è quello presente, chi è reazionario è pazzo e visto male.
 
+la crescita del proletariato di fabbrica porta a nuove dimensioni ,scoppia questione sociale, operai sono in situazioni dissamone, abitando nei quartri peggiori della citta con le loro famiglie, in questi quartieri c'era alcolismo malattie. qualcuno comincia a pensare che per risolvere la situazione, non basta il buon cuore dei borghesi che fanno le elemosina, ma ce bisogno di andare alla radice, alcuni intellettuali iniziano ad affermare che bisogna abbattere il potere della borghesia e del capitalismo, bisogna aumentare l'uguaglianza e la solidarieta, andando oltre uguaglianza formale a quella assoluta.
+produrre non per arricchire qualcuno ma fare in modo che i benefici dell'industrializzazione giovino a tutti.
+Viene data vita a varie organizzazione tra quella lega dei comunisti, che nel 48 pubblicano il proprio manifesto a Marx and Engels, pubblicato proprio da loro e miravano alla beneficienza.ma la carita arriva fino a un certo punto quindi ce da cambiare il potere.
+
+Marx e Engels respingono le vecchie teorie, loro sono convinti di aver fondato un socialismo scientifico, dietro la loro idea c'è un vera lettura della storia, che è fatta di questioni materiali, perché ciò che la fa andare avanti sono proprio gli interessi economici, in qualsiasi societa(conta la struttura cioe base economica). A comandare non sono coloro che hanno potere religioso(sovrastruttura che nasce della struttura, è figlia) ma economico.(dialettica economica=scontro fra diversi interessi, nel tempo cambiano, si e passato dal potere dei nobili a quello dei borghesi, soprattutto tramite rivoluzione commerciale, poi rivoluzione industriale).
+rivoluzioni borghesi sono il momento in cui la borghesia ha preso anche il potere politico dopo il potere economico.
+
+quindi secondo marx ripeto "il corso della storia è un succedersi di lotte di classe"
+la borghesia pero abbattendo il feudalesimo, creato il mondo moderno ma nel contempo ha creato la classe del proletariato, destinata a prendere il potere, perche secondo marx e engels il capitalismo non stara in piedi da solo, perche aveva troppe contraddizioni, tipo che le industrie piu grandi si prendono tutto, arrivando al punto in cui c'è una massa enorme di rivoluzionari che faranno una rivolta che buttera giu facilmente gli industriali. Anche se Marx era convinto, e affermava che era una cosa naturale,Questa visione non si è verificata anche per la frammentazione della classe operaia.
+pero il proletariato non puo fare da solo questa rivoluzione ma deve organizzarsi a livello internazionale e dopo una fase di dittatura del proletariqato per sconfiggere la rezione si potra passarre al comunismo.
+il capitalismo continua a svilupparsi e crea una societa di massa,a  fine 800 l'industrializzazione porta nei paesi avanzati  a una societa di massa. si diffonde l'urbanesimo, le citta si gonfiano, maggiore conttato fra gli uomini, ma questi erano rapporti anonimi e impersonali. Quindi è facile per i partiti intercettare questi singoli e  dargli una struttura. Le idee non passano piu attraverso le parrocchie o nel villaggio tra persone, ma attraverso le istituzioni politiche,  iniziando tramite la scuola, che impone delle dottrine, poi Serv. militare obb.  in cui le persone giravano per l'italia e dovevano imparare i vari dialetti.
+Una volta c'era la parrocchia accorno a cui giravano i religiosi e poi c'era il partito di cui le persone si sentivano parte. Il mercato diventa cio che regola l'economia tutti producono e tutti consumano.
+uniformarsi della mentalita e dei comportamenti secondo modelli generali tipo tutti si vestono uguali.
+
+
+
+
+
 
