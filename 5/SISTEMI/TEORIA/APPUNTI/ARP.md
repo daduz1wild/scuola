@@ -27,4 +27,21 @@ con hub abbiamo piu macchine e un unico canale quindi dobbiamo usare  protocollo
 
 segnale di jamming= segnale di ingorgo avvisa tutti gli altri host della comunicazione che è avvenuta una comunicazione, per questo non vanno a comunicare gli altri
 
+104 millisecondi collisione.
+switch lavora a livello 2 ed è un grado di inviare il segnale solo sulla porta a cui è collegato il destinatario
+tute le macchine connesse ad un hub fanno parte dello stesso dominio
+
+CSMA CD non serve con switch perche so su che porta inviare i messaggi
+
+
+Gli switch sono caratterizzati dalla presenza di una memoria interna nota come CAM (Content Addressable Memory), in cui vengono memorizzate le coppie indirizzo MAC sorgente/porta su cui è stato ricevuto un frame. Questa memoria permette allo switch di inoltrare i frame solo sulla porta corretta, riducendo il rischio di collisioni e garantendo un dominio di collisione dedicato per ciascuna porta.
+
+perchè il massimo di porte è 2 alla 16?  well known port prime mille porte
+porte sono virtuali, il sistema operativo le utlizza per comunicare.
+unico cavo che lavora su porte diverse virtuali 67/68 dhcp
+
+socket: permette di virtualizzare la comunicazione, identifica canale univoco trasmissione
+
+il browser lavora a livello 7 e composto da applicazione client e quella server
+
 
