@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>Catalogo Gelati</title>
+        <script src="script.js"></script>
+    </head>
+    <body>
+        <h1>Catalogo Gelati</h1>
+        <form name="frmGelati" onsubmit="return false;">
+            <label>Nome gelato:
+                <input type="text" name="nome" id="nome" 
+                       oninput="mostraGelati(frmGelati);">
+            </label>
+            <br><br>
+            <label>Data di scadenza (fino a):
+                <input type="date" name="dataScadenza" id="dataScadenza"
+                       oninput="mostraGelati(frmGelati);">
+            </label>
+            <br><br>
+            <label>Produttore:
+                <input type="text" name="produttore" id="produttore"
+                       oninput="mostraGelati(frmGelati);">
+            </label>
+        </form>
+
+        <hr>
+        <div id="ris"></div>
+    </body>
+</html>

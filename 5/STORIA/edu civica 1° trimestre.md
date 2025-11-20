@@ -56,6 +56,33 @@ Una volta c'era la parrocchia accorno a cui giravano i religiosi e poi c'era il 
 uniformarsi della mentalita e dei comportamenti secondo modelli generali tipo tutti si vestono uguali.
 
 
+la prima era molto varia, invece il marxismo(engels in particolare) 
+
+
+---
+abbiamo tesi revisionistiche:
+a livello internazionale abbiamo bernstein che porta avanti le tesi rivoluzionistiche, nel mentre che aspettava la rivoluzione portava avanti le forze democratiche e poi addirittura la rivoluzione poteva anche non esserci, perche sarebbe arrivata in modo calmo(riformistisco).
+i lavoratori non erano tutti istruiti quindi molto spesso non avevano una tesi e non si sentivano sfruttati , per questo erano da educare con riforme e tesi.
+
+abbiamo diverse correnti rivoluzionarie:
+- lenin: la sua idea è quella di fare un partito di elite(non di massa),fatto di poche persone, rivoluzionari di professione, gruppo clandestino con poco tempo per decidere da parte del capo Lenin.idea bolscevica, una volta preso il potere lo continuano a mantenere(decisioni le prendevano in pochi), e gli altri obbedivano.
+SINDACALISMO RIVOLUZIONARIO:
+Sorel: usa il sindacato non rivendicativa ma per educare  alla rivoluzione(educazione alla lotta)(QUESTO NON SONO SICURO VEDI TE SE è giusto)
+sindacato che diventa una forza rivoluzionaria, seguaci di Sorel
+
+
+---
+all'inizio la chiesa è spiazzata dalla rivoluzione infatti abituati a vivere in un mondo contadino, ma rimane comunque l'unica organizzazione in grado si supplire alla disgregazione sociale e alla pedita di identità
+iniziano a essere creati sindacati cattolici e socialisti, 
+
+---
+Leon XIII favorisce questa attivita sociale senza attenuare l'intransigenza dottrinaria
+socialismo condannato(rperche rivoluzionario), si sostituisce la lotta di classe con un riavvinamento tra le varie classi
+
+---
+
+
+
 
 
 

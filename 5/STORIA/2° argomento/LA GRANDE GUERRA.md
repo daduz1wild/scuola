@@ -1036,12 +1036,10 @@ In realtà, nel 1918 la Germania era **militarmente e moralmente distrutta**, e 
 - **Italia vincitrice ma insoddisfatta** → le promesse del Patto di Londra non verranno rispettate completamente → nascerà il mito della **“vittoria mutilata”**, base del futuro consenso fascista.
     
 - **Fine del vecchio mondo**: quattro imperi cadono, e l’Europa entra in una **fase di disordine politico e sociale** (rivoluzioni, crisi economiche, nazionalismi esasperati).
-    
+
 
 ---
 
-Vuoi che adesso prosegua con la parte successiva, cioè **i trattati di pace (1919-1920)** e **le conseguenze geopolitiche della guerra** (nuovi Stati, “vittoria mutilata”, Società delle Nazioni, ecc.)?  
-È il passaggio finale che chiude il programma della Prima guerra mondiale e prepara il terreno per il dopoguerra e l’ascesa del fascismo.
 
 offensiva finale vittorio veneto, italiani sfondano veneto, alla fine si chiede l'armistizio a villa giusti.
 la guerra in Europa orientale finisce ufficialmente nel 18 ma ci sono comunque vari scontri e guerre. l'11 novembre anche la germania si arrende, manda vanti un governo civile e viene chiesto l'armistizio. i  tedeschi pensavano di avere una pace favorevole con i punti di Wilson ma in realtà scoppia una guerra interna, perche viene ricevuto l'ordine di andare a combattere la Danimarca (guerra suicida), quindi navigatori o comunque coloro che avveano le barche iniziano a rivoltare andando in giro con bandiere rosse perche comunisti la maggior parte e poi quindi nasce una rivolta in tutta la germania.si forma un governo social democratico, la germania era gia sconfitta ma stava comunque cercando di non cedere.una delle leggende che mette in giro la legge tedesca è quella in cui i tedeschi stavano vincendo ma che gli ebrei hanno pugnalato alla schiena  e tradito i tedeschi  e questo verra riutilizzato nella 2a guerra mondiale da Hitler.
@@ -1057,4 +1055,39 @@ i soviet sono contro il governo provvisorio, contropotere, perche essi infatti v
 Lenin torna a Pietrogrado e voleva fare subito la rivoluzione, invece menscevichi erano delle idea che prima si dovesse fare una riforma graduata in cui si collabora con governo provvisorio con un'impostazione democratica.
 ottobre 1917 lenin decide che è il momento di prendere il potere, quindi febbraio rivoluzione democratica piu calma e sulla pace, ma ora cambia tutto con Lenin.assalto al palazzo d'inverno e proclamano un governo rivoluzionario di operai e soldati.
 menscevichi socialrivoluzionari erano insieme ma staccati dai bolscevichi non ho capito bene chi faceva coasa quindi spiegalo bene.
+
+
+--- 
+
+
+
+
+Lenin era convinto di andare in contro in questo modo alle richieste fatte in guerra, infatti esso non voleva fare la rivoluzione russa ma mondiale, infatti quella russa sarebbe stata la scintilla per portarla in germania e altri stati d'Europa, lanciva proclami rivoluzionari poi si trasferiva a Berlino e la comandava da li.Fa approvare un decreto per la pace e uno per la confisca, tutto cio per avere l'appoggio del popolo.c'erano miglioni di soldati armati che erano stanchi di fare la guerra, se riusciva a prenderseli avrebbe avuto molto potere.
+bolscevichi rimangono una piccola minoranaza, Lenin rompe con la democrazia(chi vince le elzioni governa), invece lenin che pensa che i soviet siano i piu portati per comandare crea un governo di bolscevichi che era in minoranza rispetto a...
+Lenin scioglie la costituente affermando che in rusia deve comandare la classe operaia(bolscevichi) dopodiche chiude la guerra contro la germania facendo la pace di breslitos che mette fine alla guerra sul fronte occidentale, cedendo anche Polonia, paesi baltici, finlandia, Ucraina, cede tutti questi territori pur di avere la pace. ma In realta la rivoluzione mondiale non scoppia per cui la russia si trova a gestire la rivoluzione da sola.I bloscevhichi erano molto forti nei paesi industriali.
+
+---
+scontro tra rossi() e bianchi(soldati e ufficiali dello zar tra cui liberali ma anceh monarchici)(armate bianche comandate da ufficiali zaristi e altri liberalisti) trasforma definitavamanete la russia in una dittatura, potere in mano dei bolscevichi, Trotsky(braccio destro)riorganizza l'armata rossa rivoluzionaria e riesce ad avere la meglio sui bianchi, riescono a riprendere i paesi dati per la pace.
+la maggior parte dei lavoratori
+
+---
+Lenin si inventa di ricorrere al comunismo di guerra e quindi assume il controllo della produzione, gli agricoltori versavano i loro raccolti agli ammassi(magazzini) quindi produzione controllata dallo stato, anche quella delle fabbriche. viene soppressa la liberta di opinione con la scusa della guerra, sospende il diritto di sciopero. a un certo punto introduce lavoro forzato, nascono i campi di lavoro, luoghi in cui si sfruttava la gente per farli lavorare(senza sterminare, non campi di sterminio).è DURANTE LA GUERRA CIVILE CH EFA QUESTE COSE.
+riesce  avincere la guerra civile, ma i contadini si ribellano, represse col terrore, e si ribellano i marinai di Crostar,. che avveano aderito prima alla rivoluzione, capiscono che erano finiti in un regime dittatoriale, chiedono diritto di parola e vogliono rivluzione.
+L'obiettivo di Lenin era sempre stato questo infatti voleva la dittatura per poi passare al comunismo, ma questo  modello non funziona bene.
+
+---
+quindi si passa dal comunismo di guerra alla nuova politica economica che è una liberalizzazione dell'economia.Lo stato mantiene le grandi fattorie e le grandi industrie e le banche, liberalizza dal punto di vista economico, liberalizza il piccolo commercio con conseguenze di maggiore liberta, ma questo ha delle conseguenze infatti ci sono contadini arricchiti, gli erpem che riescono a afare soldi con l'industria. Lenin capisce che la rivoluzione mondiale non è imminente e quindi cercsa paesi europei che lo aiutino per avere la rivoluzione. il primo stato ad accettare è l'Italia di Mussolini.
+vengono educati tutti, ma alla luce dell'ideologia marxista, basata sulla scienza e ...
+giovani indottrinati. quindi Lenin lascia perdere la rivoluzione e cerca rapporti diplomatici
+
+---
+nel 1922 nasce l'URSS sulla carta , teoricamente autonome ma di fatto governate dai comunisti(centro), sulla carta garantisce liberta di parola, costruita come una piramide di soviet, cittadini, regionali e poi quelli supremi.
+Le elezioni venivano fatte ma erano gia predecisi.
+i sindacati c'erano ma completamnete serviti al governo.
+tutto il potere nelle mani del partito comunista.
+il partito governava sullo stato infatti solo il partito è conosciuto oggi(Stalin).
+alla fine nel 24 lenin muore, a causa di ictus, paralizzato e quindi comincia a fare strada Stalin, non aveva una grande funzione, ma esso era bravissimo a mettere gli uni contro gli altri organizzando complotti. 
+
+---
+
 
