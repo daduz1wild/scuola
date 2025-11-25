@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5/STORIA/ED_CIVICA/edu civica 1° trimestre.md",
+                "file": "5/INFO/TEORIA/Passaggio a Logico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "edu civica 1° trimestre"
+              "title": "Passaggio a Logico"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4/SISTEMI/SISTEMI TEORIA/classi indirizzi ip.md",
+                "file": "5/INFO/TEORIA/Passaggio a Logico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for classi indirizzi ip"
+              "title": "Backlinks for Passaggio a Logico"
             }
           },
           {
@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,10 +182,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "e5d4b1bc5b0ae305",
+  "active": "14e12635b0d83a31",
   "lastOpenFiles": [
-    "5/STORIA/ED_CIVICA/idee politiche 4.pdf",
+    "5/SISTEMI/TEORIA/APPUNTI/ARP.md",
+    "5/INFO/TEORIA/Passaggio a Logico.md",
+    "5/SISTEMI/TEORIA/APPUNTI/proxy-firewall.md",
+    "5/SISTEMI/TEORIA/APPUNTI/07.10.2025.md",
+    "5/STORIA/2° argomento/trattati di pace.md",
     "5/STORIA/ED_CIVICA/edu civica 1° trimestre.md",
+    "5/STORIA/ED_CIVICA/idee politiche 4.pdf",
     "5/TPS/LAB/TEORIA/RELAZIONE SUPERMERCATO.md",
     "5/TPS/LAB/TEORIA/PROGETTAZIONE_SOFTWARE.md",
     "5/TPS/LAB/TEORIA/AJAX.md",
@@ -204,13 +208,9 @@
     "5/SISTEMI/LAB/TEORIA/proxy firewall.md",
     "5/SISTEMI/LAB/TEORIA/Mezzi-Trasmissivi_Davide-Benedetti.pdf",
     "5/STORIA/2° argomento/LA GRANDE GUERRA.md",
-    "5/STORIA/2° argomento/Untitled.md",
     "4/SISTEMI/SISTEMI TEORIA/classi indirizzi ip.md",
     "5/SISTEMI/TEORIA/APPUNTI/20 ottobre.md",
     "5/SISTEMI/TEORIA/APPUNTI/06.10.2025.md",
-    "5/SISTEMI/TEORIA/APPUNTI/07.10.2025.md",
-    "5/SISTEMI/TEORIA/APPUNTI/ARP.md",
-    "5/SISTEMI/TEORIA/APPUNTI/dhcp pdu.md",
-    "5/SISTEMI/TEORIA/APPUNTI/proxy-firewall.md"
+    "5/SISTEMI/TEORIA/APPUNTI/dhcp pdu.md"
   ]
 }

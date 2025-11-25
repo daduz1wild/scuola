@@ -6,7 +6,7 @@ porte livello udp stp ssh smtp pop3 http https, sp dhcp dns arp
 per vedere la tabella arp si fa arp -a
 
 nella tabella arp si vede anche gli indirizzi di tutte le macchine con cui il proprio pc ha comunicato
-la tabella è vuota finche il pc non ha comunicato con altri
+la tabella è vuota e il pc non ha comunicato con altri
 arp asalva MAC address
 
 arp= mappare indirirzzo IP con indirizzo fisico(MAC) di un host
