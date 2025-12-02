@@ -159,7 +159,7 @@ Mentre a ovest si combatteva nelle trincee, a **est** la situazione era diversa:
 - Ma i generali tedeschi **Hindenburg** e **Ludendorff** riuscirono a **fermare e distruggere** le forze russe nelle battaglie di **Tannenberg** (agosto 1914) e dei **laghi Masuri** (settembre 1914).
     
 
-➡️ La Germania ottenne così **grandi vittorie**, ma dovette comunque mantenere un vasto fronte di guerra contro la Russia e l’Austria, indebolendo la sua capacità di vincere rapidamente in occidente.
+➡️La Germania ottenne così grandi vittorie, ma dovette comunque mantenere un vasto fronte di guerra **contro la Russia a est**, a sostegno dell’Austria-Ungheria, **mentre combatteva contro Francia e Gran Bretagna a ovest**, indebolendo la sua capacità di vincere rapidamente in occidente
 
 ---
 
@@ -760,6 +760,40 @@ la Germania può **spostare le truppe dal fronte orientale a quello occidentale 
 - Gli italiani, sorpresi e male organizzati, **vengono travolti**: le linee cedono, molti soldati si arrendono o si ritirano nel panico.
     
 - L’esercito si **ritira fino al Piave e al Monte Grappa**, dove finalmente riesce a stabilizzarsi.
+
+## 🟦 IL PIAVE: SCONFITTA O SALVEZZA?
+
+Dopo il crollo di Caporetto:
+
+- l’esercito italiano **NON SCAPPA FINO AL SUD**
+    
+- ma:  
+    ✅ si riorganizza sul **Piave**  
+    ✅ e sul **Monte Grappa**
+    
+
+Con Diaz:
+
+- viene ricostruito l’esercito
+    
+- migliorano:
+    
+    - morale
+        
+    - difesa
+        
+    - rifornimenti
+        
+
+👉 Quindi:
+
+- **NON è vero che l’Italia ha perso la guerra a Caporetto**
+    
+- Caporetto è:
+    
+    - una **disfatta momentanea**
+        
+    - ma poi l’Italia **resiste e vince**
     
 
 👉 Le cause:
@@ -1758,7 +1792,7 @@ Vogliono:
     - oppure liberale-democratica
         
 
-⚠️ I **BANCHI SONO APPOGGIATI DALL’INTESA**  
+⚠️ I **BIANCHI SONO APPOGGIATI DALL’INTESA**  
 (Francia, Inghilterra, USA, Giappone), perché:
 
 - temono l’espansione del comunismo in Europa
@@ -2657,7 +2691,7 @@ Lo Stato è costruito come una **piramide di soviet**:
 
 ---
 
-## ⚠️ 3. LO STATO È SOLO UNA FICZIONE: COMANDA IL PARTITO
+## ⚠️ 3. LO STATO È SOLO UNA FINZIONE: COMANDA IL PARTITO
 
 Anche se sulla carta sembra uno Stato democratico, nella realtà:
 
