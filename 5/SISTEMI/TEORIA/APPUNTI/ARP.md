@@ -2,7 +2,13 @@ Ecco i tuoi appunti **riscritti in modo chiaro, corretto e ordinato**, senza per
 
 ---
 
+<<<<<<< HEAD
 # ✅ **ARP, MAC, IP e comunicazioni di rete**
+=======
+nella tabella arp si vede anche gli indirizzi di tutte le macchine con cui il proprio pc ha comunicato
+la tabella è vuota e il pc non ha comunicato con altri
+arp asalva MAC address
+>>>>>>> 18d9c38d4b4d287e0192e704082a071990d3d0c3
 
 ### **ARP: cos’è e a cosa serve**
 
