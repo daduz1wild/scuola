@@ -90,3 +90,6 @@ Se hai bisogno di chiarimenti o vuoi altri esempi, fammi sapere! 😊
 router serve per collegare reti diverse(si deve prima impostare il gateway del router nelle macchine).
 il router ha diversi indirizi ip e se vogliop inviare un messaggio da una rete ad un'altra rete imposto nel gateway indrizzo ip del router dalla parte dell'altra rete(ind. pubblico)
 
+lease: tempo di vitya di un indirizzo ip
+serve ntp: permette alle macchine di sincronizzare gli orari in base al fuso del luogo in cui ci si trova
+

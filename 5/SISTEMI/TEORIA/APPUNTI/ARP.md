@@ -1,47 +1,117 @@
-ha sostituito il MAC  del server con d
+Ecco i tuoi appunti **riscritti in modo chiaro, corretto e ordinato**, senza perdere nessuna informazione che hai scritto. Ho organizzato tutto per argomenti, corretto gli errori tecnici e aggiunto dove serviva per rendere i concetti comprensibili.
 
-host invia in broadcast messaggio per trovare lo switch e poi lo switch tramite la  tabella ARP ricava l'indirizzo ip e poi invia il mesaggio
- arp ci da la corrispondenza tra MAC e IP, 
-porte livello udp stp ssh smtp pop3 http https, sp dhcp dns arp
-per vedere la tabella arp si fa arp -a
+---
 
-nella tabella arp si vede anche gli indirizzi di tutte le macchine con cui il proprio pc ha comunicato
-la tabella è vuota finche il pc non ha comunicato con altri
-arp asalva MAC address
+# ✅ **ARP, MAC, IP e comunicazioni di rete**
 
-arp= mappare indirirzzo IP con indirizzo fisico(MAC) di un host
-arp lavoro a livello 3
- //NOME VIDEO PROTOCOLLO ARP in 2 minuti
+### **ARP: cos’è e a cosa serve**
 
-ogni 5 minuti la tabella arp viene cancellata( perche le comunicazioni sono state).
+* **ARP (Address Resolution Protocol)** serve a **mappare un indirizzo IP** con il relativo **indirizzo fisico (MAC)** di un host.
+* Lavora a **livello 2/3** (confine tra Data Link e Network).
+* La tabella ARP contiene le coppie:
+  **IP → MAC**
+* Per visualizzarla si usa:
 
-dhcp livello 7
-dns livello 7perche oltre a lavorare con ip lavora anche con stringhe
-CSMA lavora a livello 2
+  ```cmd
+  arp -a
+  ```
+* La tabella ARP è **vuota finché il PC non comunica con altri dispositivi**.
+* Le associazioni ARP vengono **cancellate automaticamente ogni ~5 minuti** (timeout) per evitare voci obsolete.
 
-hub lavorando a livello fisico non lavora con indirizzo ip
+### **Come funziona ARP**
 
-PP point to point
+1. L’host vuole inviare a un IP che non conosce.
+2. Invia un **messaggio ARP in broadcast** sulla rete locale.
+3. Tutti gli host lo ricevono; solo quello con l’IP richiesto risponde con il proprio **MAC address**.
+4. Lo switch usa la **tabella CAM (Content Addressable Memory)** per associare MAC → porta fisica.
+5. L’host salva nella tabella ARP la coppia IP/MAC.
 
-con hub abbiamo piu macchine e un unico canale quindi dobbiamo usare  protocollo CSMA, le comunicaszioni saranno in broadcast
+👉 **ARP trova MAC a partire da un IP. Non trova IP partendo dal MAC.**
 
-segnale di jamming= segnale di ingorgo avvisa tutti gli altri host della comunicazione che è avvenuta una comunicazione, per questo non vanno a comunicare gli altri
+---
 
-104 millisecondi collisione.
-switch lavora a livello 2 ed è un grado di inviare il segnale solo sulla porta a cui è collegato il destinatario
-tute le macchine connesse ad un hub fanno parte dello stesso dominio
+# ✅ **Switch, Hub, CSMA/CD e collisioni**
 
-CSMA CD non serve con switch perche so su che porta inviare i messaggi
+### **Hub**
 
+* Lavora a **livello 1 (Fisico)**.
+* Non usa IP o MAC.
+* Tutto ciò che riceve su una porta lo **replica in broadcast** su tutte le altre.
+* Tutte le macchine collegate a un hub sono nello stesso **dominio di collisione**.
+* Necessita del protocollo **CSMA/CD** per gestire le collisioni.
 
-Gli switch sono caratterizzati dalla presenza di una memoria interna nota come CAM (Content Addressable Memory), in cui vengono memorizzate le coppie indirizzo MAC sorgente/porta su cui è stato ricevuto un frame. Questa memoria permette allo switch di inoltrare i frame solo sulla porta corretta, riducendo il rischio di collisioni e garantendo un dominio di collisione dedicato per ciascuna porta.
+### **CSMA/CD**
 
-perchè il massimo di porte è 2 alla 16?  well known port prime mille porte
-porte sono virtuali, il sistema operativo le utlizza per comunicare.
-unico cavo che lavora su porte diverse virtuali 67/68 dhcp
+* Usato in Ethernet tradizionale (con hub).
+* Se due host trasmettono insieme → **collisione**.
+* Viene inviato un **jamming signal** per informare tutti della collisione.
+* Il tempo minimo per individuare una collisione è di circa **104 ms** (dipende dalla rete).
 
-socket: permette di virtualizzare la comunicazione, identifica canale univoco trasmissione
+### **Switch**
 
-il browser lavora a livello 7 e composto da applicazione client e quella server
+* Lavora a **livello 2 (Data Link)**.
+* Ogni porta è un **dominio di collisione separato** → niente CSMA/CD.
+* Inoltra frame **solo alla porta corretta**, grazie alla tabella **CAM** (MAC → Porta).
+* Rende la rete più veloce e senza collisioni.
 
+👉 *Con uno switch non serve CSMA/CD perché lo switch sa già su che porta inoltrare il frame.*
 
+---
+
+# ✅ **Porte, Socket e protocolli**
+
+### **Perché massimo 2¹⁶ porte?**
+
+* Le porte sono identificate da un numero a **16 bit** →
+  **2¹⁶ = 65536 porte** totali (0–65535).
+
+### **Tipi di porte**
+
+* **0–1023 → Well Known Ports** (HTTP 80, HTTPS 443, SSH 22, SMTP 25, DNS 53, DHCP 67/68…)
+* Le porte sono **virtuali**, gestite dal sistema operativo.
+
+### **Socket**
+
+Un **socket** identifica un canale univoco di comunicazione composto da:
+
+```
+IP sorgente + Porta sorgente + IP destinazione + Porta destinazione
+```
+
+Serve a creare un “tunnel logico” per una trasmissione.
+
+---
+
+# ✅ **Protocolli e livelli**
+
+* **UDP/TCP → Livello 4 (Trasporto)**
+* **DHCP → Livello 7 (Applicazione)**
+* **DNS → Livello 7 (Applicazione)**
+
+  * Lavora con IP, ma anche con **stringhe** (nomi di dominio)
+* **ARP → Livello 2/3**
+* **CSMA/CD → Livello 2 (Accesso al mezzo)**
+* **HTTP/HTTPS → Livello 7**
+* **SSH, SMTP, POP3 → Livello 7**
+
+---
+
+# ✅ **Hub e dominio di collisione**
+
+* Con un hub → **unico canale condiviso**
+  → necessità di CSMA/CD
+  → tutto avviene in broadcast.
+
+---
+
+# ✅ **Browser**
+
+* Lavora a **livello 7 (Applicazione)**.
+* È composto da:
+
+  * **Client** (sul tuo PC)
+  * **Server** (web server che risponde alla richiesta)
+
+---
+
+# Vuoi che trasformi questi appunti in una **mappa concettuale**, una **scheda per interrogazione**, o un **riassunto breve**?
