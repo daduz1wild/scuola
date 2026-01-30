@@ -8,49 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afe0f7b8ad87865e",
+            "id": "8706ef58ab193680",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5/STORIA/2° argomento/LA GRANDE GUERRA.md",
+                "file": "5/STORIA/PENTAMESTRE/IL FASCISMO.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LA GRANDE GUERRA"
+              "title": "IL FASCISMO"
             }
           },
           {
-            "id": "2817d4879e4c9a32",
+            "id": "a67ccd59a3cf2330",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5/STORIA/2° argomento/LE TRASFORMAIZONI POLITICHE DEL DOPOGUERRA.md",
+                "file": "5/ITA/PENTAMESTRE/SVEVo/testi/una vita.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LE TRASFORMAIZONI POLITICHE DEL DOPOGUERRA"
+              "title": "una vita"
             }
           },
           {
-            "id": "ece179bd27dac1c4",
+            "id": "476dd6ff1b2c4eae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5/STORIA/2° argomento/eventi piu importanti.md",
+                "file": "5/STORIA/PENTAMESTRE/L'ITALIA DAL DOPOGUERRA AL FASCISMO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "eventi piu importanti"
+              "title": "L'ITALIA DAL DOPOGUERRA AL FASCISMO"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "scenario è l'insieme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "46b6e8d329370a22",
@@ -213,38 +213,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "ece179bd27dac1c4",
+  "active": "dea65f1cffd87176",
   "lastOpenFiles": [
-    "5/STORIA/2° argomento/trattati di pace.md",
-    "5/STORIA/2° argomento/eventi piu importanti.md",
-    "5/STORIA/2° argomento/LE TRASFORMAIZONI POLITICHE DEL DOPOGUERRA.md",
-    "5/STORIA/2° argomento/LA GRANDE GUERRA.md",
-    "5/TPS/LAB/TEORIA/PROGETTAZIONE_SOFTWARE.md",
-    "5/TPS/TEORIA/appunti verifica trimestre.md",
-    "5/TPS/TEORIA/appunti tps.md",
-    "5/STORIA/ED_CIVICA/edu civica 1° trimestre.md",
-    "5/STORIA/ED_CIVICA/idee politiche 4.pdf",
-    "5/INFO/TEORIA/Passaggio a Logico.md",
-    "5/SISTEMI/TEORIA/APPUNTI/ARP.md",
-    "5/SISTEMI/TEORIA/APPUNTI/proxy-firewall.md",
-    "5/SISTEMI/TEORIA/APPUNTI/07.10.2025.md",
-    "5/TPS/LAB/TEORIA/RELAZIONE SUPERMERCATO.md",
-    "5/TPS/LAB/TEORIA/AJAX.md",
-    "5/TPS/LAB/TEORIA/JSON.pdf",
-    "5/TPS/LAB/TEORIA/AJAX.pdf",
-    "5/STORIA/edu civica 1° trimestre.md",
-    "5/SCUOLA/Untitled.canvas",
-    "5/SCUOLA/2025-11-06.md",
-    "5/CORSO_INGLESE_B2/2a lezione.md",
-    "5/CORSO_INGLESE_B2/1a lezione.md",
-    "5/SISTEMI/LAB/TEORIA/cablaggio strutturato.md",
-    "5/SISTEMI/LAB/TEORIA/cablaggio_2.md",
-    "5/SISTEMI/LAB/TEORIA/cablaggio.md",
-    "5/SISTEMI/LAB/TEORIA/xampp.md",
-    "5/SISTEMI/LAB/TEORIA/proxy firewall.md",
-    "5/SISTEMI/LAB/TEORIA/Mezzi-Trasmissivi_Davide-Benedetti.pdf",
-    "4/SISTEMI/SISTEMI TEORIA/classi indirizzi ip.md",
-    "5/SISTEMI/TEORIA/APPUNTI/20 ottobre.md",
-    "5/SISTEMI/TEORIA/APPUNTI/06.10.2025.md"
+    "5/STORIA/PDF/8 l'Italia dal dopoguerra al fascismo_251120_085945.pdf",
+    "5/ITA/PENTAMESTRE/SVEVo/La cultura di Svevo.md",
+    "5/ITA/PENTAMESTRE/SVEVo/L'evoluzione del romanzo.md",
+    "5/ITA/PENTAMESTRE/SVEVo/testi/una vita.md",
+    "5/STORIA/PENTAMESTRE/L'ITALIA DAL DOPOGUERRA AL FASCISMO.md",
+    "5/STORIA/PENTAMESTRE/IL FASCISMO.md",
+    "5/ITA/PENTAMESTRE/SVEVo/testi/profilo autobiografico.md",
+    "5/STORIA/PENTAMESTRE/fmkrd.md",
+    "5/SISTEMI/LAB/TEORIA/sistemi.md",
+    "5/TPS/LAB/PRATICA/TPS08/Diagramma senza titolo.drawio.png",
+    "5/TPS/LAB/PRATICA/Diagramma senza titolo.drawio.png",
+    "5/TPS/LAB/PRATICA/TPS08/gita.drawio",
+    "5/TPS/LAB/PRATICA/TPS08/Benedetti_Davide_TPS08_gestioneItinerari.pdf",
+    "5/TPS/LAB/PRATICA/TPS08",
+    "5/TPS/LAB/PRATICA/Nuova cartella",
+    "5/TPS/LAB/PRATICA/gita.drawio",
+    "5/INGLESE/esercizi_inglese.txt",
+    "5/INGLESE/invalsi inglese.pdf",
+    "5/INGLESE/Ben_Dav_5AI_Registrazione.pdf",
+    "5/TPS/LAB/PRATICA/Benedetti_Davide_TPS08_gestioneItinerari.pdf",
+    "5/ITA/PDF/15. SVEVO 2023.pdf",
+    "5/ITA/PENTAMESTRE/SVEVo/vita.md",
+    "5/INGLESE/ARTIFICIAL INTELLIGENCE.md",
+    "5/INGLESE/esercizi vacanze natale.md",
+    "5/ITA/PENTAMESTRE/ALTRI/KAFKA/MESSAGGIO IMPERIALE.md",
+    "5/ITA/PENTAMESTRE/SVEVO/Untitled.md",
+    "5/ITA/PENTAMESTRE/SVEVO/L'evoluzione del romanzo.md",
+    "5/EXTRA/maturita italiano.md",
+    "5/ITA/PENTAMESTRE/ALTRI/PROUST/ALLA RICERCA DEL TEMPO PERDUTO.md",
+    "5/ITA/PENTAMESTRE/SVEVo/L'evoluzione del romando.md",
+    "5/ITA/PENTAMESTRE/SVEVO/L'evoluzione del romanzo.md",
+    "5/ITA/PENTAMESTRE/D'ANNUNZIO/Il periodo notturno.md",
+    "5/ITA/PENTAMESTRE/Untitled.md",
+    "5/ITA/PENTAMESTRE/D'ANNUNZIO/La vita di D'Annunzio.md",
+    "5/ITA/PENTAMESTRE/D'ANNUNZIO/testi/I PASTORI.md",
+    "5/ITA/PENTAMESTRE/D'ANNUNZIO/testi/Andrea Sperelli.md",
+    "5/ITA/PENTAMESTRE/D'ANNUNZIO/testi/IL PROGRAMMA POLITICO DEL SUPERUOMO.md",
+    "5/ITA/PENTAMESTRE/D'ANNUNZIO/testi/LA PIOGGIA NEL PINETO.md",
+    "5/SCUOLA/Untitled.canvas"
   ]
 }

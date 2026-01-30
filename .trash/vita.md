@@ -1,0 +1,1 @@
+nasce a Trieste nel 1861 da famiglia di origine ebraica.

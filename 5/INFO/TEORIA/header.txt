@@ -1,0 +1,17 @@
+funzione in php che serve per reindirizzare a una pagina, puo servire per aggiornare a una pagina o per reindirizzare a un'altra. e funziona modificando la parte header di una richiesta http aggiungendo ciò che abbiamo messo all'interno della funzion,. Quindi il server invia un pacchetto http e il client si vede recapitare l'header cin il body vuoto e poi allora il client richiede di eseguire l'altra pagina richiesta all'interno della funzione header
+
+
+**La funzione `header()` in PHP** serve per inviare intestazioni HTTP al client. Viene spesso usata per **reindirizzare l’utente verso un’altra pagina** oppure per **aggiornare la pagina corrente**.
+
+Il reindirizzamento avviene modificando l’**header della risposta HTTP**, in particolare usando l’intestazione `Location`. Quando il server invia la risposta, non restituisce (di solito) alcun contenuto nel body, ma solo gli header.
+Il browser del client, ricevendo l’header `Location`, **interpreta la risposta come un reindirizzamento** e invia automaticamente una **nuova richiesta HTTP** verso l’URL indicato.
+
+È importante che la funzione `header()` venga chiamata **prima di qualsiasi output** (HTML, echo, spazi, ecc.), altrimenti gli header non possono più essere modificati.
+
+
+i file di testo sono belli se scrivi da zero aggiungi in coda, ma se devi modificare in mezzo è un casino, se fosse stato un file binario allora mi posizioni nel punto da modifica mi posizioni in quei byte ora addirittura ci sono database
+
+
+
+
+

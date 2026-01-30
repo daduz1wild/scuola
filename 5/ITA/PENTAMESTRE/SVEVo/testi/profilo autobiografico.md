@@ -1,0 +1,2 @@
+nasce a Trieste nel 1861 da famiglia di origine ebraica.
+Trieste era un ambiente multiculturale, russi tedeschi, autori che in Italia non erano molto noti, ma a Trieste si. Veluda diventa amico di Svevo. 
