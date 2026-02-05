@@ -1,20 +1,21 @@
 <?php
-if (!empty($_GET['colore'])) {
-    setcookie("colore", $_GET['colore'], time() + 60*60);
+if ($_SERVER['REQUEST_METHOD'] == "GET" && isset($_GET['colore'])) {
+    setcookie("colore", $_GET['colore'], time() + 60 * 60);
+    $colore = $_GET['colore'];
+} elseif (isset($_COOKIE['colore'])) {
+    $colore = $_COOKIE['colore'];
+} else {
+    $colore = "white";
 }
 ?>
+
 <!DOCTYPE html>
 <html>
 <head>
     <title>ES cookie</title>
     <style>
         body {
-            <?php
-                if (isset($_COOKIE['colore']))
-                    echo "background-color: " . $_COOKIE['colore'] . ";";
-                else
-                    echo "background-color: white;";
-            ?>
+            <?php echo "background-color: " . $colore . ";"; ?>
         }
     </style>
 </head>

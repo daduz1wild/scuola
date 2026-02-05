@@ -2,17 +2,17 @@
 
 # 📘 LE TRASFORMAZIONI POLITICHE NEL DOPOGUERRA
 
-La **Prima guerra mondiale** rappresenta una frattura profonda nella storia italiana. Il _conflitto_ non crea dal nulla nuovi problemi, ma **fa esplodere contraddizioni e divisioni già esistenti** nella società. Alla fine della guerra il Paese è attraversato da una grave crisi economica e sociale, che provoca una crescente **sfiducia nei confronti della classe dirigente liberale**, ritenuta incapace di guidare l’Italia nel nuovo contesto.
+La **Prima guerra mondiale** rappresenta una frattura profonda nella storia italiana. Il _conflitto fa esplodere contraddizioni e divisioni già esistenti nella società. Alla fine della guerra il Paese è attraversato da una grave crisi economica e sociale, che provoca una crescente **sfiducia nei confronti della classe dirigente liberale**, ritenuta incapace di guidare l’Italia nel nuovo contesto.
 
 Diversi gruppi sociali reagiscono in modo diverso alla situazione del dopoguerra:
 
-- I **nazionalisti** sono profondamente _delusi_ dall’esito del conflitto. Nonostante l’Italia sia formalmente tra i vincitori, ritengono insufficienti le conquiste territoriali e parlano di una **“Italia tradita” dagli alleati**, alimentando un forte sentimento di rivalsa nazionale.
-    
-- I **socialisti**, rafforzati dall’esempio della Rivoluzione russa del 1917, **predicano la rivoluzione**, suscitando paura e allarme tra **industriali e grandi proprietari terrieri (agrari)**, che temono la perdita dei propri beni e del controllo sociale.
-    
-- La **medio-piccola borghesia** (impiegati, commercianti, professionisti) è duramente colpita dalla crisi economica e dall’inflazione. Questa classe sociale teme il **declassamento sociale**, cioè di perdere il proprio status e scivolare verso la povertà.
-    
-- Gli **ex-combattenti**, dopo anni di guerra, incontrano enormi difficoltà nel **reinserirsi nella vita civile**. Molti di loro sono abituati alla violenza del fronte e tendono a **trasferire la violenza anche nella vita politica e sociale**, diventando una forza facilmente mobilitabile.
+- I *nazionalisti* sono *delusi* dalle conquiste e parlano di un'Italia tradita dagli alleati.
+
+- I *socialisti* predicano la rivoluzione mettendo in allarme *industriali e agrari*.
+
+- La *medio-piccola borghesia* colpita dalla crisi teme il *declassamento sociale*.
+
+- Gli *ex-combatenti* si trovano in *difficoltà* a reinserirsi e portati ad applicare la *violenza* anche nella vita civile.
     
 
 ---
@@ -45,7 +45,7 @@ Il partito è **appoggiato dalla CIL (Confederazione Italiana del Lavoro)** e pr
 - il rafforzamento delle **autonomie locali e regionali**.
     
 
-Il Partito Popolare ha una visione **interclassista**, cioè cerca di rappresentare interessi diversi, ma è particolarmente attento al **mondo contadino**, riuscendo così ad attirare consensi da varie classi sociali. Tuttavia, il partito risulta **più debole nel Sud**, dove i liberali continuano a controllare il consenso attraverso il sistema delle **clientele** (scambio di favori in cambio di voti).
+Il Partito Popolare ha una visione **interclassista**, ma è particolarmente attento al **mondo contadino**, riuscendo così ad attirare consensi da varie classi sociali. Tuttavia, il partito risulta **più debole nel Sud**, dove i liberali continuano a controllare il consenso attraverso il sistema delle **clientele** (scambio di favori in cambio di voti).
 
 ---
 
@@ -89,7 +89,7 @@ Nonostante la presenza di anime diverse, il fascismo si caratterizza fin dall’
 
 - l’esaltazione dell’**azione individuale**,
     
-- l’uso sistematico della **violenza** come strumento politico,
+- l’uso sistematico della **violenza** come strumento politico,9-
     
 - un forte **antiparlamentarismo**,
     
@@ -113,9 +113,7 @@ Se vuoi, nel prossimo messaggio possiamo:
 
 # 📘 LA CRISI DELLO STATO LIBERALE
 
-Oltre alle **gravi difficoltà economiche** e ai **forti contrasti sociali** del dopoguerra, l’Italia deve affrontare anche una profonda **frustrazione per l’esito della Prima guerra mondiale**. Nonostante la vittoria militare, molti italiani ritengono che il Paese non abbia ottenuto quanto promesso: nasce così il mito della **“vittoria mutilata”**.
-
-Secondo questa visione, le **richieste italiane** avanzate alla conferenza di pace — basate sul **Patto di Londra** e sulla rivendicazione di **Fiume** — vengono in gran parte **respinte dagli alleati**, soprattutto dal presidente statunitense **Wilson**, contrario alle annessioni territoriali non giustificate dal principio di autodeterminazione dei popoli.
+ Nonostante la vittoria militare, molti italiani ritengono che il Paese non abbia ottenuto quanto promesso: nasce così il mito della **“vittoria mutilata”**.Il *conflitto* fa esplodere contraddizioni e divisioni già esistenti e diffonde *sfiducia* nei confronti della *classe dirigente*._°:qAWE-+Secondo questa visione, le **richieste italiane** avanzate alla conferenza di pace — basate sul **Patto di Londra** e sulla rivendicazione di **Fiume** — vengono in gran parte **respinte dagli alleati**, soprattutto dal presidente statunitense **Wilson**, contrario alle annessioni territoriali non giustificate dal principio di autodeterminazione dei popoli.
 
 ---
 

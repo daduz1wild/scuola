@@ -1,0 +1,4 @@
+sviluppa le sue idee dall'idea in un filosofo francese, La realtà è un continuo cambiamento.
+Questo è un flusso continuo ma se noi ci stacchiamo dal flusso, se noi cerchiamo di bloccare il flusso, allora la forma diventa strana, gli individui sono in cotninua trasformazione ma tendono a fissarsi in una forma illusoria , che è una maschera sotto la quale continua il flusso indistinto e incoerente di stati in perenne trasformazione, anche gli altri danno una maschera fissa e se non si mantiene quella vieni visto in modo anomalo, spesso ci sono maschere dieverse con ogni persona e quindi diventiamo siamo persone diverse.
+
+c'è un momento che prima o poi arriva e in cui tutte le nostre forme fittizie crollano miseramente, e ci si accorge  he si sta portando un a maschera, e si può scegliere, tra toglierla e diventare pazzo oppure, rimetterla nella posizione giusta, e resistere togliendola solo nei momenti giusti

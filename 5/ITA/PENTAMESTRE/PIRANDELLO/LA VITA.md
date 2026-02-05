@@ -1,0 +1,1 @@
+ALIENANTE perché l'uomo del popolo è più spontaneo, non si fa problemi di rispettabilità borghese, l'operaio ha la dimensione collettiva, stando compatti prendiamo ogni cosa con scioperi e gruppi. I borghesi invece piuttosto di vestirsi bene non mangiavano e quindi si puo dire che gli operai stavano meglio di loro.
