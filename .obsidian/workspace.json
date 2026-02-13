@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5/ITA/PENTAMESTRE/PIRANDELLO/VISIONE DEL MONDO.md",
+                "file": "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/IL TRENO A FISCHIATO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VISIONE DEL MONDO"
+              "title": "IL TRENO A FISCHIATO"
             }
           }
         ],
@@ -199,12 +199,14 @@
   },
   "active": "d7c75d0c22a92a56",
   "lastOpenFiles": [
-    "5/ITA/PENTAMESTRE/PIRANDELLO/NOVELLE PER UN ANNO.md",
-    "5/ITA/PDF/16. PIRANDELLO 2023.pdf",
-    "5/ITA/PENTAMESTRE/PIRANDELLO/VISIONE DEL MONDO.md",
     "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/LA POETICA - UMORISMO.md",
-    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/IL TRENO A FISCHIATO.md",
     "5/ITA/PENTAMESTRE/PIRANDELLO/LA VITA.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/NOVELLE PER UN ANNO.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/VISIONE DEL MONDO.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/LA VISIONE DEL MONDO.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/LA POETICA.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/IL TRENO A FISCHIATO.md",
+    "5/ITA/PDF/16. PIRANDELLO 2023.pdf",
     "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI",
     "5/INFO/TEORIA/Normalizzazione.md",
     "5/ITA/PENTAMESTRE/SVEVo/correzone.md",
@@ -235,7 +237,6 @@
     "5/TPS/LAB/PRATICA/gita.drawio",
     "5/ITA/PENTAMESTRE/SVEVo/vita.md",
     "5/INGLESE/ARTIFICIAL INTELLIGENCE.md",
-    "5/INGLESE/esercizi vacanze natale.md",
     "5/SCUOLA/Untitled.canvas"
   ]
 }

@@ -1,94 +1,233 @@
-## **Visione del mondo secondo Pirandello**
+## **Visione del mondo di Luigi Pirandello**
 
-### 1. **Origine filosofica**
+---
 
-- La concezione di Pirandello deriva dal **vitalismo** del filosofo francese **Henri Bergson**.
+### **1. Origine filosofica: la realtà come flusso**
+
+- La visione del mondo di Pirandello si sviluppa a partire dal **vitalismo** del filosofo francese Henri Bergson.
     
-- La realtà non è statica: è un **flusso continuo**, un **movimento incessante di trasformazione**.
+- Secondo questa concezione:
     
-- Tutto ciò che cerca di staccarsi dal flusso per diventare stabile (una forma, un’idea, una personalità coerente) rischia di **irrigidire e morire**, perché non riflette più il movimento vitale della realtà.
+    - la **realtà è un continuo cambiamento**
+        
+    - la vita è un **flusso incessante**, mobile, instabile, mai uguale a sé stessa
+        
+- Ogni tentativo di **fermare questo flusso**, di bloccarlo in una forma stabile, è artificiale e produce deformazioni.
     
 
 ---
 
-### 2. **Frantumazione dell’io**
+### **2. Vita e forma: nascita della maschera**
 
-- Anche gli **individui sono in continuo cambiamento**, ma tendono a fissarsi in una **forma illusoria di personalità coerente**.
+- Gli individui, pur essendo in continua trasformazione, **tendono a fissarsi in una forma**:
     
-- Questa forma è una **maschera**, sotto la quale continua il flusso indistinto e incoerente dei nostri stati interiori.
+    - un carattere
+        
+    - un ruolo
+        
+    - un’identità coerente
+        
+- Questa forma è una **maschera**, cioè:
     
-- Gli **altri ci percepiscono sempre in modi diversi**, creando maschere diverse per ogni persona.
+    - un’immagine fittizia e rigida
+        
+    - sotto la quale continua il flusso caotico e incoerente della vita interiore
+        
+- La maschera serve per:
     
-- Ecco perché, come in **“Uno, Nessuno e Centomila”**, ciascuno di noi è **uno, nessuno e centomila individui allo stesso tempo**.
+    - vivere in società
+        
+    - essere riconosciuti dagli altri
+        
+- Ma è anche una **prigione**.
     
 
 ---
 
-### 3. **La vita come flusso e le maschere**
+### **3. Frantumazione dell’io e molteplicità delle maschere**
 
-- La vita è un **flusso continuo che cerchiamo di fermare**, dentro e fuori di noi, attraverso:
+- Non esiste un’identità unica e stabile:
     
-    - concetti, ideali, abitudini, ruoli sociali
+    - ogni persona ci vede in modo diverso
         
-    - affetti e doveri che ci imponiamo
+    - ogni relazione ci assegna una maschera diversa
         
-- Queste forme ci danno **illusione di stabilità**, ma in realtà sono **fittizie**.
+- Per questo:
     
-- Ci sono momenti “tempestosi” in cui queste maschere **crollano miseramente**: ci accorgiamo di portare una maschera, di non essere completamente noi stessi.
+    - siamo **persone diverse con persone diverse**
+        
+    - l’io è frammentato
+        
+- Nasce così il **relativismo**:
+    
+    - ognuno ha la propria verità
+        
+    - non esiste una visione oggettiva della realtà
+        
+- Questo rende **impossibile la comunicazione autentica**.
     
 
 ---
 
-### 4. **Scelte di fronte al crollo delle maschere**
+### **4. Il crollo delle forme**
 
-- Di fronte a questa crisi, l’individuo può:
+- Prima o poi arriva un momento di crisi:
     
-    1. **Abbandonare la maschera**, seguendo il flusso della vita indistinta → rischio di **follia** o ritiro dalla società
+    - le maschere **crollano**
         
-    2. **Rimettere la maschera nella posizione giusta**, continuando a vivere secondo le convenzioni sociali → resistenza e controllo dei momenti in cui la maschera viene tolta
+    - l’individuo si accorge di non vivere la propria vera vita
         
-
----
-
-### 5. **Il relativismo conoscitivo**
-
-- Se la realtà è in **perpetuo cambiamento**, non esiste una verità assoluta: ciascuno vede la realtà in modo diverso.
+- Ci si rende conto di:
     
-- Questo porta all’**incomunicabilità**: nessuno può conoscere veramente gli altri, perché ognuno percepisce forme diverse e in continua trasformazione.
-    
-
----
-
-### 6. **Critica della società e della famiglia**
-
-- Le **convenzioni sociali**, il lavoro monotono e la famiglia oppressiva agiscono come **trappole** che irrigidiscono l’individuo:
-    
-    - La società diventa una **“enorme pupazzata”**, che nega autenticità e spontaneità
+    - stare recitando una parte
         
-    - Anche nella famiglia e nel lavoro, l’uomo è costretto in ruoli fissi, spesso alienanti
+    - essere intrappolati in una forma imposta dalla società
         
-- Pirandello non cerca un **cambiamento sociale**: la condizione è **universale e immodificabile**.
+- Questo momento è spesso causato da:
     
-- L’unica via di fuga possibile è **l’irrazionale o la follia**, come rifiuto della realtà sociale.
-    
-
----
-
-### 7. **“Filosofia del lontano”**
-
-- I personaggi pirandelliani osservano la realtà **da fuori**, svelando l’assurdità di situazioni considerate normali.
-    
-- La frantumazione dell’io e il relativismo conoscitivo diventano strumenti per mostrare:
-    
-    - la **maschera sociale**
+    - un evento minimo e insignificante
         
-    - l’**alienazione**
-        
-    - la **contraddizione tra vita interna e forma esterna**
+    - una rivelazione improvvisa (epifania)
         
 
 ---
 
-Se vuoi, posso ora fare una **mappa concettuale super sintetica** che riassuma **vita + visione + maschere + relativismo + società**, perfetta da stampare e studiare velocemente.
+### **5. Le due possibili scelte**
 
-Vuoi che lo faccia?
+Di fronte al crollo della maschera, l’individuo può scegliere:
+
+1. **Toglierla definitivamente**
+    
+    - seguire il flusso della vita senza forme
+        
+    - uscire dalla società
+        
+    - essere giudicato **pazzo**
+        
+    - la follia diventa una forma di libertà
+        
+2. **Rimetterla consapevolmente**
+    
+    - tornare nella società
+        
+    - accettare la maschera sapendo che è fittizia
+        
+    - indossarla “meglio”, con distacco
+        
+    - toglierla solo nei momenti necessari
+        
+
+👉 La maschera, dopo essere stata rotta, **torna spesso più forte di prima**, ma l’individuo ora ne è consapevole.
+
+---
+
+### **6. Alienazione nella civiltà moderna**
+
+- La modernità ha **alienato l’uomo**:
+    
+    - lavoro ripetitivo
+        
+    - meccanizzazione
+        
+    - perdita dell’identità personale
+        
+- L’uomo diventa:
+    
+    - una funzione
+        
+    - un oggetto
+        
+    - un ingranaggio
+        
+- Pirandello paragona la società a:
+    
+    - una **“enorme pupazzata”** (come i pupi siciliani)
+        
+    - una realtà di marionette mosse da fili invisibili
+        
+- Anche la famiglia borghese diventa una **trappola**:
+    
+    - ruoli rigidi
+        
+    - aspettative sociali
+        
+    - figli costretti a conformarsi
+        
+
+---
+
+### **7. Assurdità della vita e “filosofia del lontano”**
+
+- Vivendo immersi nella realtà, non ci rendiamo conto della sua assurdità.
+    
+- Se però la osservassimo **da fuori**, come spettatori:
+    
+    - apparirebbe ridicola
+        
+    - grottesca
+        
+    - tragica
+        
+- Pirandello smaschera questa assurdità attraverso:
+    
+    - l’umorismo
+        
+    - il distacco
+        
+    - la riflessione amara
+        
+
+---
+
+### **8. Relativismo e verità**
+
+- Non esiste una **verità unica e assoluta**.
+    
+- La verità:
+    
+    - è nascosta
+        
+    - è mutevole
+        
+    - spesso è **impossibile da conoscere**
+        
+- Ognuno possiede solo:
+    
+    - una versione parziale
+        
+    - soggettiva
+        
+    - relativa della realtà
+        
+- Da qui nascono:
+    
+    - incomunicabilità
+        
+    - solitudine
+        
+    - incomprensione reciproca
+        
+
+---
+
+### **9. Visione finale**
+
+- Pirandello **non crede nella rivoluzione sociale**:
+    
+    - tutte le società funzionano allo stesso modo
+        
+    - l’alienazione è universale
+        
+- L’uomo è condannato a scegliere tra:
+    
+    - follia
+        
+    - adattamento
+        
+- La sua opera non offre soluzioni, ma:
+    
+    - mostra
+        
+    - denuncia
+        
+    - smaschera
