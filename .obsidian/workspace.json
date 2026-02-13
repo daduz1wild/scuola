@@ -8,47 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "476dd6ff1b2c4eae",
+            "id": "18d3d175a84e2f04",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "5/ITA/PDF/15. SVEVO 2023.pdf"
+                "file": "5/ITA/PDF/16. PIRANDELLO 2023.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "15. SVEVO 2023"
+              "title": "16. PIRANDELLO 2023"
             }
           },
           {
-            "id": "bebf959d549d115c",
+            "id": "d7c75d0c22a92a56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5/INFO/TEORIA/Normalizzazione.md",
+                "file": "5/ITA/PENTAMESTRE/PIRANDELLO/NOVELLE PER UN ANNO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Normalizzazione"
-            }
-          },
-          {
-            "id": "18d3d175a84e2f04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5/ITA/PENTAMESTRE/SVEVo/correzone.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "correzone"
+              "title": "NOVELLE PER UN ANNO"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,15 +197,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "18d3d175a84e2f04",
+  "active": "d7c75d0c22a92a56",
   "lastOpenFiles": [
+    "5/ITA/PDF/16. PIRANDELLO 2023.pdf",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/VISIONE DEL MONDO.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/NOVELLE PER UN ANNO.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/LA POETICA - UMORISMO.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/IL TRENO A FISCHIATO.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/LA VITA.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI",
+    "5/INFO/TEORIA/Normalizzazione.md",
     "5/ITA/PENTAMESTRE/SVEVo/correzone.md",
     "5/ITA/PENTAMESTRE/SVEVo/testi/IL FUMO.md",
-    "5/INFO/TEORIA/Normalizzazione.md",
-    "5/ITA/PENTAMESTRE/PIRANDELLO/VISIONE DEL MONDO.md",
     "5/ITA/PDF/15. SVEVO 2023.pdf",
     "5/ITA/PENTAMESTRE/SVEVo/testi/senilità.md",
-    "5/ITA/PENTAMESTRE/PIRANDELLO/LA VITA.md",
     "5/ITA/PENTAMESTRE/SVEVo/testi/una vita.md",
     "5/ITA/PENTAMESTRE/SVEVo/testi/profilo autobiografico.md",
     "5/ITA/PENTAMESTRE/SVEVo/testi/profezia dell'apocalisse.md",
@@ -242,15 +233,9 @@
     "5/TPS/LAB/PRATICA/TPS08",
     "5/TPS/LAB/PRATICA/Nuova cartella",
     "5/TPS/LAB/PRATICA/gita.drawio",
-    "5/INGLESE/esercizi_inglese.txt",
-    "5/INGLESE/invalsi inglese.pdf",
     "5/ITA/PENTAMESTRE/SVEVo/vita.md",
     "5/INGLESE/ARTIFICIAL INTELLIGENCE.md",
     "5/INGLESE/esercizi vacanze natale.md",
-    "5/ITA/PENTAMESTRE/ALTRI/KAFKA/MESSAGGIO IMPERIALE.md",
-    "5/ITA/PENTAMESTRE/SVEVO/Untitled.md",
-    "5/ITA/PENTAMESTRE/SVEVO/L'evoluzione del romanzo.md",
-    "5/EXTRA/maturita italiano.md",
     "5/SCUOLA/Untitled.canvas"
   ]
 }
