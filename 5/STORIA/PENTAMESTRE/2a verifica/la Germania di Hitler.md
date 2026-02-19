@@ -750,3 +750,183 @@ Con lo scoppio della **Seconda guerra mondiale**, la politica antisemita si radi
 - Emarginazione → persecuzione → sterminio
     
 - Ideologia → politiche di Stato → genocidio
+
+
+
+---
+
+# **L’AGGRESSIVA POLITICA ESTERA DI HITLER**
+
+## 1. Obiettivi fondamentali della politica estera nazista
+
+Fin dall’inizio del suo governo, Hitler si mostra deciso a:
+
+- **distruggere l’assetto di Versailles**,
+    
+- superare lo **spirito di Locarno**,
+    
+- riportare la Germania al ruolo di grande potenza,
+    
+- riunire tutti i tedeschi in una **Grande Germania**,
+    
+- conquistare lo **spazio vitale** (_Lebensraum_).
+    
+
+👉 La politica estera è parte integrante dell’ideologia nazista.
+
+---
+
+## 2. La rottura dell’ordine internazionale (1933–1935)
+
+Nel **1933**, la Germania esce dalla **Società delle Nazioni**, rifiutando ogni vincolo internazionale.
+
+Subito dopo, Hitler avvia un **massiccio riarmo**:
+
+- sviluppo dell’industria bellica,
+    
+- potenziamento dell’esercito,
+    
+- **reintroduzione del servizio militare obbligatorio** (1935).
+    
+
+Nel **Convegno di Stresa**, **Italia, Francia e Gran Bretagna** condannano il riarmo tedesco, ma **non adottano misure concrete**.
+
+👉 Questa passività incoraggia ulteriori aggressioni.
+
+---
+
+## 3. La rimilitarizzazione della Renania (1936)
+
+Nel **1936**, Hitler rimanda le truppe in **Renania**, violando apertamente il Trattato di Versailles.
+
+Francia e Gran Bretagna:
+
+- non intervengono,
+    
+- accettano il fatto compiuto.
+    
+
+👉 È un successo politico enorme per Hitler e una prova della debolezza occidentale.
+
+---
+
+## 4. Le nuove alleanze: l’Asse e il Patto anticomintern
+
+Nel **1936**, Hitler si riavvicina all’Italia di **Benito Mussolini** con la nascita dell’**Asse Roma-Berlino**.
+
+Nello stesso anno la Germania firma con il Giappone (già impegnato nell’invasione della Manciuria) il **Patto anticomintern**, diretto contro l’URSS e il comunismo internazionale.
+
+Nel **1937**, anche l’Italia aderisce al patto.
+
+👉 Nasce il blocco delle **potenze revisioniste**.
+
+---
+
+## 5. L’Anschluss e la Grande Germania (1938)
+
+L’obiettivo di riunire tutti i tedeschi era già stato tentato nel **1934**, ma bloccato dall’opposizione italiana.
+
+Nel **marzo 1938**, Hitler realizza l’**Anschluss**, l’annessione dell’Austria alla Germania.
+
+Mussolini accetta l’evento in cambio di un impegno formale a rispettare il **Passo del Brennero**.
+
+👉 L’Anschluss avviene senza alcuna reazione militare delle potenze occidentali.
+
+---
+
+## 6. La crisi dei Sudeti e gli Accordi di Monaco (1938)
+
+Subito dopo, Hitler rivendica i **Sudeti**, territorio della **Cecoslovacchia** abitato in parte da tedeschi.
+
+La Cecoslovacchia:
+
+- è l’unica vera democrazia dell’Europa centro-orientale,
+    
+- è alleata della Francia.
+    
+
+Tuttavia, Francia e Gran Bretagna scelgono la politica dell’**appeasement** e firmano con Hitler gli **Accordi di Monaco** (settembre 1938):
+
+- Hitler ottiene i Sudeti,
+    
+- promette di non avanzare ulteriori pretese territoriali.
+    
+
+👉 Promessa che verrà subito tradita.
+
+---
+
+## 7. La fine della Cecoslovacchia (1939)
+
+Nel **marzo 1939**, Hitler invade ciò che resta della Cecoslovacchia:
+
+- nasce il **Protettorato di Boemia e Moravia**,
+    
+- la Slovacchia diventa uno **Stato satellite**.
+    
+
+👉 Per la prima volta Hitler conquista un territorio **non tedesco**, mostrando il vero volto espansionistico del regime.
+
+---
+
+## 8. La crisi di Danzica e le nuove alleanze
+
+Il nuovo obiettivo è il **Corridoio di Danzica**, appartenente alla **Polonia**.
+
+Questa volta:
+
+- **Francia e Gran Bretagna** garantiscono la difesa della Polonia.
+    
+
+Hitler reagisce con due mosse decisive:
+
+1. firma con l’Italia il **Patto d’Acciaio**, promettendo tre anni di pace;
+    
+2. **senza avvisare Mussolini**, firma il **23 agosto 1939** il **Patto Molotov-Ribbentrop** con l’URSS.
+    
+
+Il patto include un **protocollo segreto** che prevede:
+
+- la spartizione della Polonia,
+    
+- la divisione dell’Europa orientale in sfere d’influenza.
+    
+
+👉 La Germania si assicura le spalle a est per colpire a ovest.
+
+---
+
+## 9. Il ruolo dell’URSS
+
+L’URSS accetta l’accordo:
+
+- per l’isolamento diplomatico imposto dalle potenze occidentali,
+    
+- per ottenere **vantaggi territoriali**,
+    
+- per guadagnare tempo in vista di un futuro conflitto.
+    
+
+---
+
+### 📌 **Schema conclusivo da memorizzare**
+
+- Distruzione di Versailles
+    
+- Riarmo e alleanze revisioniste
+    
+- Successi grazie all’appeasement
+    
+- Annessioni territoriali
+    
+- Accordi tattici per preparare la guerra
+    
+
+👉 **La politica estera aggressiva di Hitler rende la guerra inevitabile.**
+
+---
+
+Se vuoi, posso:  
+✔️ prepararti **un super ripasso finale di tutto il capitolo sui totalitarismi**  
+✔️ simulare **un’interrogazione con domande e risposte**  
+✔️ creare **schemi ultra-sintetici da 5 minuti prima dell’interrogazione** 🎯📚
