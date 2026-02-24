@@ -7,3 +7,14 @@
 - DCL
 noi usiamo MariaDB che è un fork di MySQL
 InnoDB è il motore interno che usa MariaDB
+
+
+SELECT region, COUNT(*) AS '#'
+FROM countries
+GROUP BY REGION;
+
+
+SELECT region, COUNT(*) AS '#'
+FROM countries
+GROUP BY REGION
+HAVING country>=15  WHERE area>300000
