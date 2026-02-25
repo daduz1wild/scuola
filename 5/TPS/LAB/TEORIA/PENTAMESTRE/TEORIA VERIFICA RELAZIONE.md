@@ -6,22 +6,119 @@ Il **diagramma di contesto** serve a rappresentare **a grandi linee il sistema e
 
 - **Sistema:** rappresentato con un rettangolo tratteggiato (contiene i casi d’uso).
     
-- **Attori:** entità che interagiscono col sistema (possono essere persone, altri sistemi, ecc.). Si distinguono in:
+### Attore
+
+Un attore NON è necessariamente un essere umano.  
+È qualsiasi entità interna o esterna che interagisce con il sistema.
+
+Regole fondamentali:
+
+- Deve essere identificato in modo univoco
     
-    - **Attore principale:** porta a termine un caso d’uso (es. Cliente che effettua un noleggio).
-        
-    - **Attore secondario:** partecipa solo ad alcune fasi, non porta a termine il caso d’uso (es. Sistema Bancario che verifica pagamento).
-        
-- **Casi d’uso:** rappresentano le funzionalità principali che il sistema offre. Collegate agli attori tramite linee continue.
+- Si rappresenta con uno stickman
     
-- **Associazioni tra casi d’uso:** possono essere di vari tipi:
+- Non deve mai chiamarsi “Sistema”
     
-    - **Include (`<<include>>`):** il caso d’uso “incluso” deve essere eseguito obbligatoriamente per il caso d’uso principale.
+
+Si distinguono:
+
+- **Attore principale** → porta a termine il caso d’uso e ne beneficia  
+    (esempio: utente che acquista un prodotto)
+    
+- **Attore secondario** → partecipa a una o più fasi del caso d’uso ma non lo termina  
+    (esempio: sistema bancario che gestisce il pagamento)
+    
+    
         
-    - **Extend (`<<extend>>`):** caso d’uso facoltativo che si attiva solo in certe condizioni.
-        
-    - **Generalizzazione:** eredita le caratteristiche di un caso d’uso o di un attore principale (es. Cliente → Privato e Azienda).
-        
+- **Casi d’uso:** Il caso d’uso è la modalità con cui un attore utilizza una funzionalità del sistema. Collegate agli attori tramite linee continue.
+    - **Funzionalità** = azione o servizio che il sistema offre
+	- **Scenario** = insieme dei passi necessari per completare un caso d’uso
+Ogni caso d’uso può avere:
+
+- Uno scenario principale
+    
+- Più scenari alternativi
+    
+- In alcuni casi, infiniti scenari possibili
+    
+
+Portare a termine un caso d’uso significa completare l’obiettivo (esempio: acquisto concluso con successo).
+### Associazioni
+
+Le associazioni sono linee continue che collegano attore e caso d’uso.
+
+Un caso d’uso può essere collegato a più attori.
+
+Se dobbiamo distinguere attore principale e secondario, utilizziamo una freccia piena verso l’attore secondario.
+
+---
+
+## Relazioni tra casi d’uso
+
+### 🔹 Inclusione (<>)
+
+Si usa quando un caso d’uso dipende obbligatoriamente da un altro.
+
+Esempio:  
+Acquisto prodotto include Login.
+
+Significa che l’acquisto può essere effettuato solo se prima è stato eseguito il login.
+
+Si rappresenta con:
+
+- Freccia tratteggiata
+    
+- Punta piena
+    
+- Scritta <>
+    
+- Direzione: dal caso d’uso che richiede, verso quello richiesto
+    
+
+Non si vincola la Registrazione al Login, perché un utente non registrato non può comunque accedere alle funzioni riservate.
+
+---
+
+### 🔹 Estensione (<>)
+
+Indica un comportamento facoltativo.
+
+Esempio:  
+Durante l’acquisto, l’utente può richiedere Assistenza online.
+
+Si rappresenta con:
+
+- Freccia tratteggiata
+    
+- Punta piena
+    
+- Scritta <>
+    
+- Direzione: dal caso facoltativo verso quello principale
+    
+
+---
+
+### 🔹 Generalizzazione
+è un tipo di associazione in cui andiamo a scomporre un caso d'uso o attore principale in più categorie che hanno delle specifiche aggiuntive rispetto a quello principale.
+
+
+Nel diagramma:
+
+- Si usa una linea continua
+    
+- Freccia con punta vuota
+    
+
+Esempi:
+
+- Acquisto CD e Acquisto libro possono generalizzare Acquisto prodotto.
+    
+- Cliente azienda e Cliente privato possono generalizzare Cliente registrato.
+    
+
+Tutti ereditano anche i vincoli (esempio: obbligo di login).
+
 
 **Consigli pratici per la verifica:**
 
@@ -84,51 +181,6 @@ Il **diagramma di Jacobson** è più dettagliato e serve a descrivere **ogni cas
 - Se c’è un **estensione o inclusione**, indicala nella riga corrispondente (`UseCase d’Extend`).
     
 
----
-
-## 3️⃣ Casi d’uso: teoria pratica
-
-- **Caso d’uso:** modalità con cui un attore usufruisce di una funzionalità.
-    
-- **Scenario:** insieme di passi che l’attore deve eseguire per completare il caso d’uso.
-    
-    - **Principale:** il percorso “normale” senza eccezioni.
-        
-    - **Alternativo:** percorsi diversi, a volte causati da eccezioni.
-        
-- **Include:** vincolo obbligatorio (freccia tratteggiata con `<<include>>` dal caso principale a quello incluso).
-    
-- **Extend:** funzionalità facoltativa (freccia tratteggiata con `<<extend>>` dal caso opzionale a quello principale).
-    
-- **Generalizzazione:** ereditarietà (freccia vuota) per attori o casi d’uso più specifici.
-    
-- **Associazioni:** linee continue tra attore e caso d’uso principale; frecce piene verso casi in cui l’attore secondario partecipa.
-    
-
-**Esempio pratico (basato sui tuoi appunti del museo):**
-
-- Attore principale: Utente registrato
-    
-- Attore secondario: Sistema Bancario
-    
-- Caso d’uso principale: Acquista Biglietto
-    
-- Scenario principale:
-    
-    1. Utente seleziona data e ora.
-        
-    2. Sistema mostra disponibilità.
-        
-    3. Utente inserisce numero di biglietti e dati partecipanti.
-        
-    4. Sistema calcola eventuali sconti.
-        
-    5. Utente inserisce dati pagamento.
-        
-    6. Sistema Bancario verifica pagamento.
-        
-    7. Sistema invia biglietti via email. ✅ Exit condition.
-        
 
 ---
 
@@ -171,19 +223,19 @@ ESEMPIO JACOBSON
 
 diagramma di contesto
 
-Noleggio
+NOME: Noleggio
 
-Il cliente effettua un noleggio di un veicolo scelto dal catalogo
+DESCRIZIONE: Il cliente effettua un noleggio di un veicolo scelto dal catalogo
 
-Scopo(insiemi generali dei passi da seguire) Scelta del Veicolo, inserimento dei dati temporali e spaziali, inserimento dati di pagamento, conferma noleggio
+SCOPO:(insiemi generali dei passi da seguire) Scelta del Veicolo, inserimento dei dati temporali e spaziali, inserimento dati di pagamento, conferma noleggio
 
-Cliente, Sistema Bancario
+ATTORI: Cliente, Sistema Bancario
 
-Cliente
+ATTORE PRIMARIO: Cliente
 
-Richiesta Optional
+USE CASE D'EXTEND: Richiesta Optional
 
-Noleggio di un veicolo senza richiesta di optional
+SCENARIO PRINCIPALE:Noleggio di un veicolo senza richiesta di optional
 
 entry condition(quale è la condizione necessaria affinché io posso noleggiare): il cliente deve avere effettuato la registrazione e il login.
 
