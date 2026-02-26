@@ -1,0 +1,133 @@
+Perfetto 👍 questi esercizi sono tipici del database Northwind.
+Ti scrivo direttamente le query corrette con una breve spiegazione così capisci anche come ragionare.
+
+✅ 7 - Nome prodotto e categoria
+
+Serve una JOIN tra Products e Categories.
+
+SELECT p.ProductName, c.CategoryName
+FROM Products p
+JOIN Categories c ON p.CategoryID = c.CategoryID;
+
+📌 Regola: quando ti chiedono dati da due tabelle → quasi sempre serve JOIN.
+
+✅ 8 - Righe ordine 10309
+
+Qui serve:
+
+Order Details
+
+Products
+
+calcolo del totale riga (UnitPrice × Quantity)
+
+⚠ La tabella ha uno spazio → va tra parentesi quadre.
+
+SELECT p.ProductName,
+       od.UnitPrice,
+       od.Quantity,
+       (od.UnitPrice * od.Quantity) AS TotaleRiga
+FROM [Order Details] od
+JOIN Products p ON od.ProductID = p.ProductID
+WHERE od.OrderID = 10309;
+✅ 9 - Totale ordine 10309
+
+Serve una SUM()
+
+SELECT SUM(UnitPrice * Quantity) AS TotaleOrdine
+FROM [Order Details]
+WHERE OrderID = 10309;
+✅ 10 - Somma di tutti gli ordini
+SELECT SUM(UnitPrice * Quantity) AS TotaleComplessivo
+FROM [Order Details];
+✅ 11 - Totale per ogni ordine
+
+Qui serve GROUP BY
+
+SELECT OrderID,
+       SUM(UnitPrice * Quantity) AS TotaleOrdine
+FROM [Order Details]
+GROUP BY OrderID;
+
+📌 Regola: se chiedono “per ogni …” → quasi sempre GROUP BY.
+
+✅ 12 - Numero clienti per nazione
+
+Serve:
+
+COUNT()
+
+GROUP BY
+
+ORDER BY DESC
+
+SELECT Country,
+       COUNT(*) AS NumeroClienti
+FROM Customers
+GROUP BY Country
+ORDER BY NumeroClienti DESC;
+✅ 13 - Nazioni con almeno 8 clienti
+
+Qui serve HAVING (non WHERE!)
+
+SELECT Country,
+       COUNT(*) AS NumeroClienti
+FROM Customers
+GROUP BY Country
+HAVING COUNT(*) >= 8
+ORDER BY NumeroClienti DESC;
+
+📌 Regola importante:
+
+WHERE filtra prima del GROUP BY
+
+HAVING filtra dopo il GROUP BY
+
+✅ 14 - Categorie con più di 10 prodotti
+SELECT c.CategoryName,
+       COUNT(*) AS NumeroProdotti
+FROM Products p
+JOIN Categories c ON p.CategoryID = c.CategoryID
+GROUP BY c.CategoryName
+HAVING COUNT(*) > 10;
+✅ 15 - Nazioni con almeno 2 bevande
+
+Serve:
+
+Products
+
+Categories
+
+Suppliers
+
+filtro categoria = 'Beverages'
+
+GROUP BY
+
+HAVING
+
+SELECT s.Country,
+       COUNT(*) AS NumeroBevande
+FROM Products p
+JOIN Categories c ON p.CategoryID = c.CategoryID
+JOIN Suppliers s ON p.SupplierID = s.SupplierID
+WHERE c.CategoryName = 'Beverages'
+GROUP BY s.Country
+HAVING COUNT(*) >= 2
+ORDER BY NumeroBevande DESC;
+✅ 16 - Importo medio degli ordini
+
+Prima calcoliamo il totale per ordine, poi facciamo la media.
+
+SELECT AVG(TotaleOrdine) AS MediaOrdini
+FROM (
+    SELECT OrderID,
+           SUM(UnitPrice * Quantity) AS TotaleOrdine
+    FROM [Order Details]
+    GROUP BY OrderID
+) AS Totali;
+
+
+SELECT ProductName, CategoryName FROM products AS p
+JOIN categories AS c
+ON p.categoryID = c.CategoryID;
