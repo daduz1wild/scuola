@@ -8,13 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b962e9c56ef50aa",
+            "id": "91f4914e173dcdeb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "5/INFO/PRATICA/APPUNTI/PDF/02 - Architetture client-server.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "02 - Architetture client-server"
             }
           }
         ]
@@ -40,7 +42,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Esplora risorse"
             }
           },
           {
@@ -171,53 +173,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false
     }
   },
-  "active": "7b962e9c56ef50aa",
+  "active": "dea65f1cffd87176",
   "lastOpenFiles": [
-    "5/TPS/TEORIA/interrogazione.md",
-    "5/STORIA/PENTAMESTRE/2a verifica/FASCISMO E DEMOCRAZIE IN EUROPA.md",
+    "5/INFO/PRATICA/APPUNTI/PDF/01 - Form HTML.pdf",
+    "5/INFO/PRATICA/APPUNTI/PDF/02 - Architetture client-server.pdf",
     "5/STORIA/PENTAMESTRE/2a verifica/COMUNISMO DI STALIN.md",
-    "5/STORIA/PDF/10 L'URSS di Stalin.pdf",
-    "5/STORIA/PDF/9. la Germania da Weimar al Terzo Reich.pdf",
-    "5/STORIA/PDF/8 l'Italia dal dopoguerra al fascismo_251120_085945.pdf",
-    "5/STORIA/PDF/10 L'URSS di Stalin_251120_090746 (1).pdf",
+    "5/STORIA/PENTAMESTRE/2a verifica/FASCISMO E DEMOCRAZIE IN EUROPA.md",
     "5/STORIA/PENTAMESTRE/2a verifica/la Germania di Hitler.md",
-    "5/TPS/TEORIA/appunti verifica trimestre.md",
-    "5/TPS/TEORIA/prodottoSoftware.pdf",
-    "5/TPS/LAB/TEORIA/PENTAMESTRE/TEORIA VERIFICA RELAZIONE.md",
-    "5/TPS/LAB/TEORIA/PENTAMESTRE/tps relazione ecc.md",
-    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/UNO NESSUNO E CENTOMILA.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/6 PERSONAGGI IN CERCA DI AUTORE.md",
     "5/ITA/PDF/16. PIRANDELLO 2023.pdf",
-    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/UNA GIORNATA.md",
-    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/SECONDA PREMESSA.md",
-    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/QUADERNI SI SERAFINO GUBBIO.md",
-    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/LA POETICA - UMORISMO.md",
-    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/LA PATENTE.md",
-    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/IO PASCAL.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/6 personaggi.md",
+    "5/ITA/PDF/15. SVEVO 2023.pdf",
+    "5/INFO/PRATICA/APPUNTI/PDF/32 - DQL .pdf",
+    "5/INFO/PRATICA/APPUNTI/PDF/31 - DQL (1).pdf",
+    "5/INFO/PRATICA/APPUNTI/PDF/31 - DML.pdf",
+    "5/INFO/PRATICA/APPUNTI/PDF/30 - DDL (1).pdf",
+    "5/INFO/PRATICA/APPUNTI/PDF/29 - SQL .pdf",
+    "5/INFO/PRATICA/APPUNTI/PDF/28 - Esercitazione MYSQL.pdf",
+    "5/INFO/PRATICA/APPUNTI/PDF/27 - Normalizzazione.pdf",
     "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/CONCLUSIONE IL FU MATTIA PASCAL.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/IO PASCAL.md",
     "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/IL TRENO HA FISCHIATO.md",
-    "5/INFO/PRATICA/APPUNTI/sql.md",
-    "5/TPS/LAB/TEORIA/PENTAMESTRE",
-    "5/TPS/LAB/TEORIA/TRIMESTRE",
-    "5/ITA/PENTAMESTRE/PIRANDELLO/EVOLUZIONE DEI ROMANZI DI PIRANDELLO.md",
-    "5/ITA/PENTAMESTRE/PIRANDELLO/VISIONE DEL MONDO.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/LA PATENTE.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/LA POETICA - UMORISMO.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/QUADERNI SI SERAFINO GUBBIO.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/SECONDA PREMESSA.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/UNO NESSUNO E CENTOMILA.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/UNA GIORNATA.md",
     "5/ITA/PENTAMESTRE/PIRANDELLO/NOVELLE PER UN ANNO.md",
     "5/ITA/PENTAMESTRE/PIRANDELLO/LA VITA.md",
     "5/ITA/PENTAMESTRE/PIRANDELLO/I ROMANZI.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/EVOLUZIONE DEI ROMANZI DI PIRANDELLO.md",
+    "5/TPS/TEORIA/interrogazione.md",
+    "5/TPS/TEORIA/appunti verifica trimestre.md",
+    "5/TPS/LAB/TEORIA/PENTAMESTRE/TEORIA VERIFICA RELAZIONE.md",
+    "5/TPS/LAB/TEORIA/PENTAMESTRE/tps relazione ecc.md",
+    "5/INFO/PRATICA/APPUNTI/sql.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/VISIONE DEL MONDO.md",
     "5/SISTEMI/TEORIA/APPUNTI/ricoda per maturita.md",
-    "5/SISTEMI/TEORIA/APPUNTI/06.10.2025.md",
-    "5/SISTEMI/TEORIA/APPUNTI/07.10.2025.md",
-    "5/INFO/PRATICA/APPUNTI/codificaCreazioneDatabaseBollette.md",
-    "5/SISTEMI/LAB/TEORIA/Mezzi-Trasmissivi_Davide-Benedetti.pdf",
-    "5/ITA/PDF/testi letteratura Quinta.docx.pdf",
     "5/TPS/LAB/PRATICA/TPS08/Diagramma senza titolo.drawio.png",
     "5/TPS/LAB/PRATICA/Diagramma senza titolo.drawio.png",
     "5/SCUOLA/Untitled.canvas"
