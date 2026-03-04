@@ -481,3 +481,160 @@ La guerra di Spagna:
 
 
 
+Perfetto, questa parte sposta lo sguardo **fuori dall’Europa**, ma è sempre collegata allo stesso periodo storico (tra le due guerre mondiali). Ti faccio una **spiegazione chiara, ordinata e completa**, così puoi capirla bene e usarla alla verifica.
+
+---
+
+# 🌏 CINA E GIAPPONE TRA LE DUE GUERRE MONDIALI
+
+## 1️⃣ La fine dell’impero cinese (1912)
+
+Per più di **duemila anni** la Cina era stata governata da un **impero monarchico** guidato da diverse dinastie. L’ultima era la **dinastia Qing**.
+
+All’inizio del Novecento però la Cina attraversa una grave crisi:
+
+- arretratezza economica;
+    
+- pressioni delle potenze straniere;
+    
+- rivolte interne;
+    
+- debolezza dello Stato.
+    
+
+Nel **1911-1912** una rivoluzione rovescia l’impero.
+
+Nasce così la **Repubblica cinese**, fondata da **Sun Yat-sen**, uno dei principali leader del nazionalismo cinese.
+
+👉 Il suo obiettivo era modernizzare il paese e renderlo indipendente dalle potenze straniere.
+
+---
+
+## 2️⃣ La nascita dei due grandi partiti cinesi
+
+Dopo la nascita della repubblica la Cina resta molto instabile e divisa. In questo contesto emergono due grandi forze politiche.
+
+### 🇨🇳 Il Partito Nazionalista (Guomindang)
+
+Fondato da **Sun Yat-sen** e poi guidato da **Chiang Kai-shek**.
+
+I nazionalisti vogliono:
+
+- unificare la Cina;
+    
+- rafforzare lo Stato;
+    
+- modernizzare il paese;
+    
+- combattere l’influenza straniera.
+    
+
+---
+
+### ☭ Il Partito Comunista Cinese
+
+Fondato negli anni ’20 e guidato da **Mao Zedong**.
+
+A differenza del comunismo sovietico, Mao basa la rivoluzione non sugli operai delle città ma sui **contadini**, che erano la grande maggioranza della popolazione cinese.
+
+---
+
+## 3️⃣ La guerra civile cinese
+
+All’inizio nazionalisti e comunisti collaborano per unificare il paese, ma presto entrano in conflitto.
+
+Scoppia una **guerra civile** tra:
+
+- il **Guomindang** di Chiang Kai-shek
+    
+- i **comunisti** di Mao Zedong.
+    
+
+Chiang Kai-shek cerca di distruggere i comunisti e lancia una violenta repressione.
+
+---
+
+## 4️⃣ La “Lunga Marcia” (1934-1935)
+
+I comunisti rischiano di essere annientati.
+
+Per salvarsi compiono la **Lunga Marcia**: una gigantesca ritirata militare attraverso la Cina.
+
+- percorrono circa **10.000 km**;
+    
+- attraversano montagne e regioni difficilissime;
+    
+- molti muoiono lungo il percorso.
+    
+
+La Lunga Marcia diventa un evento simbolico perché:
+
+- salva il movimento comunista;
+    
+- rafforza il prestigio di **Mao Zedong** come leader.
+    
+
+---
+
+## 5️⃣ L’espansionismo del Giappone
+
+Nel frattempo un altro fattore cambia la situazione: il **Giappone**.
+
+Il Giappone, già modernizzato e industrializzato, adotta una politica:
+
+- **autoritaria**;
+    
+- **militarista**;
+    
+- **imperialista**.
+    
+
+Vuole espandersi in Asia per ottenere:
+
+- materie prime;
+    
+- territori;
+    
+- potere politico.
+    
+
+Nel **1931** il Giappone **occupa la Manciuria**, una regione molto ricca nel nord della Cina.
+
+---
+
+## 6️⃣ L’alleanza contro il Giappone
+
+La minaccia giapponese diventa così grave che nel **1937** i due nemici interni, nazionalisti e comunisti, sono costretti a **collaborare temporaneamente**.
+
+Nasce una **alleanza contro il Giappone** per difendere la Cina dall’invasione.
+
+---
+
+# 🎯 Perché questa parte è importante
+
+Questi eventi sono fondamentali perché:
+
+- mostrano la crisi della Cina dopo la fine dell’impero;
+    
+- spiegano l’ascesa di **Mao Zedong**;
+    
+- anticipano la futura **rivoluzione comunista cinese del 1949**;
+    
+- collegano l’Asia alla storia della **Seconda Guerra Mondiale**.
+    
+
+---
+
+## Frase perfetta per la verifica
+
+> Dopo la fine dell’impero cinese nel 1912 la Cina visse una lunga fase di instabilità caratterizzata dal conflitto tra nazionalisti e comunisti. L’espansionismo del Giappone, che nel 1931 occupò la Manciuria, costrinse i due schieramenti a collaborare temporaneamente contro l’invasione straniera.
+
+---
+
+Se vuoi, nel prossimo messaggio posso anche farti:
+
+- **uno schema chiarissimo Cina vs Giappone** (molto utile per la verifica)
+    
+- oppure una **timeline super semplice da ricordare**.
+
+
