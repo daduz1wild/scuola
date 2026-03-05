@@ -13,43 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5/STORIA/PENTAMESTRE/2a verifica/LA 2a guerra mondiale.md",
+                "file": "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/ENRICO IV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LA 2a guerra mondiale"
+              "title": "ENRICO IV"
             }
           },
           {
-            "id": "6db73cb4089cb00c",
+            "id": "541a4226f9727fc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "5/STORIA/PENTAMESTRE/2a verifica/LA 2a guerra mondiale.md",
-                "mode": "source",
-                "source": false
+                "file": "5/ITA/PDF/17. LIRICA DEL NOVECENTO 2023.pdf"
               },
-              "icon": "lucide-file",
-              "title": "LA 2a guerra mondiale"
-            }
-          },
-          {
-            "id": "076ef89348a278cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5/TPS/LAB/TEORIA/PENTAMESTRE/AJAX e JSON.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AJAX e JSON"
+              "icon": "lucide-file-text",
+              "title": "17. LIRICA DEL NOVECENTO 2023"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,13 +197,34 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "91f4914e173dcdeb",
+  "active": "541a4226f9727fc4",
   "lastOpenFiles": [
+    "5/ITA/PDF/16. PIRANDELLO 2023.pdf",
+    "5/ITA/PDF/15. SVEVO 2023.pdf",
+    "5/ITA/PDF/14. D'ANNUNZIO 2023.pdf",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/CONCLUSIONE PIRANDELLO.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/ENRICO IV.md",
+    "5/ITA/PDF/testi letteratura Quinta.docx.pdf",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/6 PERSONAGGI IN CERCA DI AUTORE.md",
+    "5/STORIA/PENTAMESTRE/2a verifica/LA 2a guerra mondiale.md",
+    "5/TPS/LAB/TEORIA/PENTAMESTRE/AJAX e JSON.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/CONCLUSIONE IL FU MATTIA PASCAL.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/UNA GIORNATA.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/UNO NESSUNO E CENTOMILA.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/SECONDA PREMESSA.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/QUADERNI SI SERAFINO GUBBIO.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/LA POETICA - UMORISMO.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/LA PATENTE.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/IO PASCAL.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/IL TRENO HA FISCHIATO.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/I ROMANZI.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/EVOLUZIONE DEI ROMANZI DI PIRANDELLO.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/LA VITA.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/NOVELLE PER UN ANNO.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/VISIONE DEL MONDO.md",
     "5/STORIA/PENTAMESTRE/2a verifica/la Germania di Hitler.md",
     "5/STORIA/PENTAMESTRE/2a verifica/EDUCAZIONE CIVICA.md",
     "5/STORIA/PENTAMESTRE/2a verifica/FASCISMO E DEMOCRAZIE IN EUROPA.md",
-    "5/STORIA/PENTAMESTRE/2a verifica/LA 2a guerra mondiale.md",
-    "5/TPS/LAB/TEORIA/PENTAMESTRE/AJAX e JSON.md",
     "5/STORIA/PDF/11 L'Europa e il mondo tra fascismo e democrazia_251120_090803.pdf",
     "5/STORIA/PDF/9. la Germania da Weimar al Terzo Reich.pdf",
     "5/STORIA/PDF/10 L'URSS di Stalin.pdf",
@@ -227,29 +233,8 @@
     "5/STORIA/PDF/8 l'Italia dal dopoguerra al fascismo_251120_085945.pdf",
     "5/TPS/LAB/TEORIA/PENTAMESTRE/16-Types-of-networks.pdf",
     "5/TPS/LAB/TEORIA/PENTAMESTRE/Non confermato 968456.crdownload",
-    "5/TPS/LAB/TEORIA/PENTAMESTRE/AJAX.pdf",
-    "5/TPS/LAB/TEORIA/PENTAMESTRE/Non confermato 12421.crdownload",
-    "5/TPS/LAB/TEORIA/PENTAMESTRE/JSON.pdf",
     "5/TPS/LAB/TEORIA/PENTAMESTRE/tps relazione ecc.md",
     "5/TPS/LAB/TEORIA/PENTAMESTRE/TEORIA VERIFICA RELAZIONE.md",
-    "5/SISTEMI/LAB/TEORIA/CISCO/CLI_packet.md",
-    "5/SISTEMI/LAB/TEORIA/CLI_packet.md",
-    "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/PASSATEMPO/LIBRI/lista.md",
-    "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/PASSATEMPO/SERIETV/lista.md",
-    "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/PASSATEMPO/SERIETV/lista definitiva.md",
-    "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/PASSATEMPO/SERIETV/alto prototipo di lista.md",
-    "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/PASSATEMPO/FILM/lista film.md",
-    "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/INFORMATICA/git e github/APPUNTI IMPORTANTI.md",
-    "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/INFORMATICA/PROGRAMMA STUDIO.md",
-    "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/CRESCITA_PERSONALE/TIPE/simulazioni.md",
-    "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/CRESCITA_PERSONALE/TIPE/piano settimanale e battute-tips.md",
-    "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/CRESCITA_PERSONALE/TIPE/gestire al meglio una Samicizia.md",
-    "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/CRESCITA_PERSONALE/TIPE/frasi e tecniche per rimorchiare in discoteca.md",
-    "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/CRESCITA_PERSONALE/SOCIALITÁ/TESTO PIÚ LUNGO.md",
-    "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/CRESCITA_PERSONALE/SOCIALITÁ/TESTO PIÚ CORTO.md",
-    "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/CRESCITA_PERSONALE/SOCIALITÁ/RAGAZZINE.md",
-    "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/CRESCITA_PERSONALE/SOCIALITÁ/carisma.md",
-    "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/CRESCITA_PERSONALE/podcast e video/finanza.md",
     "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/Pasted image 20251004211500.png",
     "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/Pasted image 20251004211447.png",
     "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/Pasted image 20251004211435.png",
