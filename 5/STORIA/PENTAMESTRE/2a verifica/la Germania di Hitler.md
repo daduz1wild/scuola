@@ -860,7 +860,7 @@ Tuttavia, Francia e Gran Bretagna scelgono la politica dell’**appeasement** e 
 
 Nel **marzo 1939**, Hitler invade ciò che resta della Cecoslovacchia:
 
-- nasce il **Protettorato di Boemia e Moravia**,
+- nasce il **Protettorato di Boemia e Moravia**, territorio sudeti
     
 - la Slovacchia diventa uno **Stato satellite**.
     

@@ -210,3 +210,494 @@ Se vuoi, nel prossimo messaggio posso anche spiegarti:
     
 
 che sono **il passo successivo della guerra** e quasi sicuramente **le prossime cose che il prof spiegherà**.
+
+
+
+# ULTIMA LEZIONE
+
+# ⚔️ LA SECONDA GUERRA MONDIALE
+
+## Il crollo della Francia e l’ingresso dell’Italia (1940)
+
+### 1️⃣ L’entrata in guerra dell’Italia
+
+Nel **1940** la Germania ha ottenuto una serie di rapide vittorie in Europa.
+
+La Francia è ormai vicina alla sconfitta.  
+Mussolini teme di restare escluso dalla vittoria e decide di entrare in guerra **quando pensa che il conflitto sia ormai deciso**.
+
+👉 **10 giugno 1940**: l’Italia dichiara guerra a **Francia e Gran Bretagna**.
+
+L’obiettivo di Mussolini è ottenere **facili conquiste territoriali** e partecipare alla futura divisione dei territori conquistati dai tedeschi.
+
+---
+
+# 🇫🇷 La caduta della Francia
+
+Pochi giorni dopo l’entrata in guerra dell’Italia, la situazione francese crolla.
+
+👉 **14 giugno 1940**: i tedeschi entrano a **Parigi**.
+
+La Francia è costretta a chiedere l’**armistizio**.
+
+Il paese viene diviso in due parti:
+
+### 1️⃣ Zona occupata
+
+- controllata direttamente dalla Germania.
+    
+
+### 2️⃣ Stato francese di Vichy
+
+- guidato dal maresciallo **Philippe Pétain**;
+    
+- regime **autoritario e collaborazionista** con i nazisti;
+    
+- capitale nella città di **Vichy**.
+    
+
+---
+
+# 🇫🇷 La resistenza francese
+
+Non tutti i francesi accettano la sconfitta.
+
+Il generale **Charles De Gaulle**, rifugiato a **Londra**, lancia un appello alla popolazione francese per continuare la lotta contro i nazisti.
+
+Nasce così il movimento della **Francia Libera**, che rappresenta la resistenza francese all’occupazione.
+
+---
+
+# 🇮🇹 Il fallimento dell’attacco italiano alla Francia
+
+Nel frattempo l’esercito italiano tenta un attacco contro la Francia sulle **Alpi**.
+
+La campagna militare è però **molto debole e poco efficace**.
+
+Alla fine della guerra contro la Francia, l’Italia ottiene solo **una piccola zona di occupazione** al confine.
+
+Questo dimostra già le **gravi difficoltà militari italiane**.
+
+---
+
+# 🇬🇧 La Gran Bretagna resta sola
+
+Dopo la caduta della Francia, **la Gran Bretagna rimane l’unico grande paese europeo ancora in guerra contro la Germania**.
+
+Hitler propone più volte una **pace negoziata**, ma il nuovo governo britannico guidato da **Winston Churchill** rifiuta qualsiasi accordo.
+
+Churchill forma un **governo di unità nazionale** e decide di continuare la guerra.
+
+---
+
+# ✈️ La Battaglia d’Inghilterra
+
+Per invadere la Gran Bretagna, Hitler deve prima ottenere il **controllo dei cieli**.
+
+Per questo la Germania lancia una grande offensiva aerea contro l’Inghilterra.
+
+Questo scontro è chiamato **Battaglia d’Inghilterra** (1940).
+
+Si affrontano:
+
+- **Luftwaffe** → aviazione tedesca
+    
+- **RAF (Royal Air Force)** → aviazione britannica
+    
+
+Grazie a:
+
+- un sistema radar avanzato,
+    
+- una difesa aerea efficace,
+    
+- grande resistenza della popolazione,
+    
+
+la **RAF riesce a respingere gli attacchi tedeschi**.
+
+👉 Hitler è costretto ad **abbandonare il progetto di invasione dell’Inghilterra**.
+
+È la **prima grande sconfitta della Germania** nella guerra.
+
+---
+
+# ⚔️ La “guerra parallela” di Mussolini
+
+Mussolini vuole dimostrare che l’Italia può combattere **una guerra autonoma rispetto alla Germania**.
+
+Per questo avvia la cosiddetta **“guerra parallela”**, cioè una serie di campagne militari indipendenti.
+
+---
+
+## 1️⃣ La guerra in Africa
+
+L’Italia attacca le posizioni britanniche in Africa:
+
+- occupa la **Somalia britannica**;
+    
+- avanza in **Egitto** dalla Libia;
+    
+- bombarda l’isola di **Malta**, base strategica britannica nel Mediterraneo.
+    
+
+---
+
+## 2️⃣ L’attacco alla Grecia (1940)
+
+Nell’**ottobre 1940** l’Italia attacca la **Grecia** partendo dall’Albania.
+
+Mussolini pensa di ottenere una vittoria facile.
+
+In realtà succede il contrario:
+
+- l’esercito greco resiste;
+    
+- i greci passano al contrattacco;
+    
+- l’Italia subisce una **pesante sconfitta**.
+    
+
+---
+
+# 🇬🇧 La controffensiva britannica
+
+Nel frattempo gli inglesi attaccano le forze italiane in **Nord Africa**.
+
+Gli inglesi riescono a occupare la **Cirenaica** (parte orientale della Libia).
+
+Questo segna il fallimento della strategia italiana.
+
+👉 La “guerra parallela” di Mussolini **finisce rapidamente**.
+
+---
+
+# 🇩🇪 L’intervento della Germania
+
+Per salvare la situazione dei suoi alleati italiani, Hitler decide di intervenire.
+
+Nel **1941** la Germania:
+
+- invade **Jugoslavia e Grecia**;
+    
+- conquista anche l’isola di **Creta**;
+    
+- invia in Africa il famoso **Afrika Korps**, guidato dal generale **Erwin Rommel**.
+    
+
+---
+l'etiopia cade nelle mani degli inglesi
+# 🌍 La perdita dell’Impero italiano
+
+Mentre la Germania interviene in Europa e in Africa, l’Italia perde le sue colonie africane.
+
+L’**Impero dell’Africa Orientale Italiana** cade:
+
+- gli **inglesi** avanzano;
+    
+- gli **etiopici ribelli** combattono contro gli italiani.
+    
+
+Alla fine l’Etiopia torna indipendente.
+
+---
+
+# 🎯 Idea chiave da ricordare
+
+Questa fase della guerra mostra chiaramente che:
+
+- la Germania domina l’Europa continentale;
+    
+- la Gran Bretagna riesce a resistere;
+    
+- l’Italia dimostra una **grave debolezza militare**, costringendo la Germania a intervenire.
+    
+
+---
+
+## Frase perfetta per la verifica
+
+> Dopo la caduta della Francia nel 1940 la Gran Bretagna rimase l’unico paese europeo in guerra contro la Germania. La vittoria britannica nella Battaglia d’Inghilterra impedì l’invasione tedesca, mentre i fallimenti militari italiani in Grecia e in Africa costrinsero la Germania a intervenire per sostenere l’alleato fascista.
+
+---
+
+Se vuoi, nel prossimo passo posso spiegarti la **fase successiva della guerra**, cioè:
+
+- **Operazione Barbarossa (attacco alla Russia)**
+    
+- **entrata in guerra degli Stati Uniti**
+    
+- **Pearl Harbor**
+    
+
+che sono **il vero punto di svolta della guerra**
+
+
+
+# ⚔️ LA SVOLTA DEL 1941
+
+## 1️⃣ L’Europa sotto il controllo della Germania
+
+All’inizio del 1941 la Germania nazista domina gran parte dell’Europa.
+
+Molti paesi dell’Europa orientale entrano nell’alleanza con Germania, Italia e Giappone, cioè il **Patto Tripartito**.
+
+Tra questi stati ci sono:
+
+- **Ungheria**
+    
+- **Romania**
+    
+- **Slovacchia**
+    
+- **Bulgaria**
+    
+- **Croazia**( che viene fatta a pezzi e ne nasce una indipendente)
+    
+
+Questi paesi diventano di fatto **satelliti della Germania**, cioè stati formalmente indipendenti ma **subordinati alla politica tedesca**.
+
+---
+
+# 🇷🇺 L’Operazione Barbarossa (22 giugno 1941)
+
+Il **22 giugno 1941** Hitler compie una decisione fondamentale:  
+lancia l’**Operazione Barbarossa**, cioè l’**invasione dell’Unione Sovietica**, con 3000 carrarmati.
+
+Con questa operazione Hitler rompe il **Patto Molotov-Ribbentrop** firmato con Stalin nel 1939.
+
+### Gli obiettivi di Hitler
+
+L’invasione della Russia aveva diversi obiettivi:
+
+- distruggere il **comunismo sovietico**;
+    
+- conquistare territori e risorse;
+    
+- creare lo **“spazio vitale” (Lebensraum)** per il popolo tedesco.
+    
+
+---
+
+## L’avanzata tedesca
+
+All’inizio l’offensiva tedesca è **travolgente**.
+
+L’esercito tedesco avanza rapidamente verso:
+
+- **Mosca**
+    
+- **Leningrado**
+    
+- **Ucraina**
+    
+
+Le truppe sovietiche subiscono enormi perdite.
+
+---
+
+## La strategia sovietica: terra bruciata
+
+I sovietici adottano una strategia chiamata **terra bruciata**.
+
+Significa che:
+
+- distruggono raccolti, fabbriche e infrastrutture;
+    
+- lasciano il territorio devastato;
+    
+- rendono difficile l’approvvigionamento dei tedeschi.
+    
+
+Contemporaneamente organizzano una **resistenza dietro le linee nemiche** con gruppi di guerriglia chiamati **partigiani**.
+
+---
+
+## La resistenza sovietica
+
+I tedeschi arrivano vicino a:
+
+- **Mosca**
+    
+- **Leningrado**
+    
+
+Ma vengono fermati.
+
+La resistenza sovietica è guidata dal generale **Žukov**.
+
+L’inverno russo e la resistenza dell’esercito sovietico bloccano l’avanzata tedesca.
+
+👉 È il **primo grande arresto dell’espansione nazista**.
+
+---
+
+# 🇮🇹 Il corpo di spedizione italiano
+
+Mussolini vuole partecipare alla guerra contro l’URSS.
+
+Per questo invia un **corpo di spedizione italiano**.
+
+Nel **1942** questo contingente diventa l’**ARMIR**:
+
+👉 Armata Italiana in Russia  
+👉 circa **200.000 soldati italiani**
+
+Gli italiani vengono schierati soprattutto **nelle pianure del fronte orientale**, un territorio molto difficile da difendere perché privo di ostacoli naturali.
+L’esercito italiano però è **male equipaggiato** e soffrirà moltissimo sul fronte russo.
+
+---
+
+# 🇺🇸 Gli Stati Uniti aiutano gli alleati
+
+Anche se **non sono ancora entrati in guerra**, gli Stati Uniti iniziano a sostenere i paesi che combattono contro la Germania.
+
+Lo fanno attraverso la **legge Affitti e Prestiti (Lend-Lease Act)**.
+
+Questa legge permette agli USA di:
+
+- fornire armi
+    
+- mezzi
+    
+- rifornimenti
+    
+
+agli stati in guerra contro le potenze dell’Asse.
+
+Per questo gli Stati Uniti vengono chiamati:
+
+👉 **“l’arsenale delle democrazie”**.
+
+---
+
+# 📜 La Carta Atlantica (agosto 1941)
+
+Nell’agosto 1941 il presidente americano **Franklin Roosevelt** e il primo ministro britannico **Winston Churchill** si incontrano a **Terranova**.
+
+Firmano la **Carta Atlantica**, un documento che stabilisce i principi del mondo dopo la guerra.
+
+Tra questi principi:
+
+- difesa della democrazia
+    
+- diritto dei popoli all’autodeterminazione
+    
+- libertà economica
+    
+- cooperazione internazionale
+    
+
+Questo documento rappresenta la base per il futuro ordine internazionale.
+
+---
+
+# 🌍 Il Patto delle Nazioni Unite (1942)
+
+Nel **1942** i paesi che combattono contro Germania, Italia e Giappone firmano il **Patto delle Nazioni Unite**.
+
+Questa alleanza riunisce i principali paesi anti-nazisti.
+
+È il primo passo verso la futura **Organizzazione delle Nazioni Unite (ONU)**.
+
+---
+
+# 🇯🇵 L’espansionismo del Giappone
+
+Nel frattempo il **Giappone** porta avanti un progetto di espansione in Asia.
+
+L’obiettivo è creare una **“Grande Asia” sotto il dominio giapponese**.
+
+Il Giappone:
+
+- è già impegnato nella guerra in **Cina**;
+    
+- approfitta della sconfitta di Francia e Olanda per occupare:
+    
+    - **Indocina**
+        
+    - **Indie Orientali** (ricche di materie prime).
+        
+
+---
+
+# 🇺🇸 L’embargo americano
+
+Gli Stati Uniti reagiscono imponendo un **embargo economico** al Giappone.
+
+Significa:
+
+- blocco delle esportazioni;
+    
+- soprattutto del **petrolio**, fondamentale per l’esercito giapponese.
+    
+
+Questo mette il Giappone in grande difficoltà.
+
+---
+
+# ⚓ L’attacco a Pearl Harbor
+
+Per evitare il blocco americano, il Giappone decide di colpire per primo.
+
+👉 **7 dicembre 1941**
+
+Il Giappone attacca a sorpresa la **flotta americana a Pearl Harbor**, nelle Hawaii.
+
+L’attacco distrugge molte navi e aerei statunitensi.
+
+---
+
+# 🌍 Conseguenze di Pearl Harbor
+
+L’attacco provoca una svolta decisiva:
+
+- **gli Stati Uniti entrano in guerra**;
+    
+- il conflitto diventa davvero **mondiale**.
+    
+
+Ora la guerra vede contrapposti due grandi blocchi:
+
+### Asse
+
+- Germania
+    
+- Italia
+    
+- Giappone
+    
+
+### Alleati
+
+- Gran Bretagna
+    
+- Unione Sovietica
+    
+- Stati Uniti
+    
+- altri paesi alleati
+    
+
+---
+
+# 🎯 Idea chiave da ricordare
+
+Il **1941 è l’anno della svolta** perché:
+
+1️⃣ la Germania invade l’URSS  
+2️⃣ il Giappone attacca gli Stati Uniti  
+3️⃣ il conflitto diventa una **guerra mondiale totale**
+
+---
+
+## Frase perfetta per la verifica
+
+> Il 1941 rappresenta una svolta nella Seconda Guerra Mondiale perché l’invasione dell’Unione Sovietica da parte della Germania e l’attacco giapponese a Pearl Harbor portarono all’entrata in guerra di nuove grandi potenze, trasformando il conflitto in una guerra realmente mondiale.
+
+---
+
+Se vuoi, nel prossimo messaggio posso spiegarti **la fase successiva della guerra**, che è molto importante:
+
+👉 **la svolta militare del 1942-1943**  
+(Stalingrado, Midway, El Alamein).

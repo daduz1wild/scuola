@@ -1,0 +1,110 @@
+MariaDB [(none)]> CREATE DATABASE aziendaZambelli;
+Query OK, 1 row affected (0.059 sec)
+
+MariaDB [aziendaZambelli]> SHOW DATABASES;
++--------------------+
+| Database           |
++--------------------+
+| aziendazambelli    |
+| bollette           |
+| information_schema |
+| mysql              |
+| performance_schema |
+| phpmyadmin         |
+| pippo              |
+| test               |
++--------------------+
+8 rows in set (0.057 sec)
+
+MariaDB [(none)]> USE aziendaZambelli;
+Database changed
+MariaDB [aziendaZambelli]> CREATE TABLE Dipartimenti (
+    ->     Codice VARCHAR(10) PRIMARY KEY,
+    ->     Descrizione TEXT,
+    ->     Sede VARCHAR(50) NOT NULL
+    -> );
+Query OK, 0 rows affected (0.455 sec)
+
+MariaDB [aziendaZambelli]> DESCRIBE Dipartimenti;
++-------------+-------------+------+-----+---------+-------+
+| Field       | Type        | Null | Key | Default | Extra |
++-------------+-------------+------+-----+---------+-------+
+| Codice      | varchar(10) | NO   | PRI | NULL    |       |
+| Descrizione | text        | YES  |     | NULL    |       |
+| Sede        | varchar(50) | NO   |     | NULL    |       |
++-------------+-------------+------+-----+---------+-------+
+3 rows in set (0.132 sec)
+
+MariaDB [aziendaZambelli]> CREATE TABLE Impiegati (
+    ->     ID INT AUTO_INCREMENT PRIMARY KEY,
+    ->     Nome VARCHAR(50) NOT NULL,
+    ->     Cognome VARCHAR(50) NOT NULL,
+    ->     Residenza VARCHAR(60),
+    ->     Stipendio DOUBLE(12,2) NOT NULL,
+    ->     Dipartimento VARCHAR(10) NOT NULL,
+    ->     
+    ->     FOREIGN KEY (Dipartimento) 
+    ->     REFERENCES Dipartimenti(Codice)
+    -> );
+Query OK, 0 rows affected (0.113 sec)
+
+MariaDB [aziendaZambelli]> DESCRIBE Impiegati;
++--------------+--------------+------+-----+---------+----------------+
+| Field        | Type         | Null | Key | Default | Extra          |
++--------------+--------------+------+-----+---------+----------------+
+| ID           | int(11)      | NO   | PRI | NULL    | auto_increment |
+| Nome         | varchar(50)  | NO   |     | NULL    |                |
+| Cognome      | varchar(50)  | NO   |     | NULL    |                |
+| Residenza    | varchar(60)  | YES  |     | NULL    |                |
+| Stipendio    | double(12,2) | NO   |     | NULL    |                |
+| Dipartimento | varchar(10)  | NO   | MUL | NULL    |                |
++--------------+--------------+------+-----+---------+----------------+
+6 rows in set (0.111 sec)
+
+MariaDB [aziendaZambelli]> CREATE TABLE Progetti (
+    ->     CodProg INT AUTO_INCREMENT PRIMARY KEY,
+    ->     NomeProgetto VARCHAR(50) NOT NULL,
+    ->     Durata INT NOT NULL,
+    ->     Budget DOUBLE(12,2) NOT NULL
+    -> );
+Query OK, 0 rows affected (0.100 sec)
+
+MariaDB [aziendaZambelli]> DESCRIBE Progetti;
++--------------+--------------+------+-----+---------+----------------+
+| Field        | Type         | Null | Key | Default | Extra          |
++--------------+--------------+------+-----+---------+----------------+
+| CodProg      | int(11)      | NO   | PRI | NULL    | auto_increment |
+| NomeProgetto | varchar(50)  | NO   |     | NULL    |                |
+| Durata       | int(11)      | NO   |     | NULL    |                |
+| Budget       | double(12,2) | NO   |     | NULL    |                |
++--------------+--------------+------+-----+---------+----------------+
+4 rows in set (0.111 sec)
+
+MariaDB [aziendaZambelli]> CREATE TABLE ImpiegatiProgetti (
+    ->     ID INT AUTO_INCREMENT PRIMARY KEY,
+    ->     CodProg INT NOT NULL,
+    ->     IdImpiegato INT NOT NULL,
+    ->     Ruolo VARCHAR(50) NOT NULL,
+    ->     Percentuale DOUBLE(4,2) NOT NULL,
+    ->     
+    ->     FOREIGN KEY (CodProg) 
+    ->     REFERENCES Progetti(CodProg),
+    ->     
+    ->     FOREIGN KEY (IdImpiegato) 
+    ->     REFERENCES Impiegati(ID)
+    -> );
+Query OK, 0 rows affected (0.208 sec)
+
+MariaDB [aziendaZambelli]> DESCRIBE ImpiegatiProgetti;
++-------------+-------------+------+-----+---------+----------------+
+| Field       | Type        | Null | Key | Default | Extra          |
++-------------+-------------+------+-----+---------+----------------+
+| ID          | int(11)     | NO   | PRI | NULL    | auto_increment |
+| CodProg     | int(11)     | NO   | MUL | NULL    |                |
+| IdImpiegato | int(11)     | NO   | MUL | NULL    |                |
+| Ruolo       | varchar(50) | NO   |     | NULL    |                |
+| Percentuale | double(4,2) | NO   |     | NULL    |                |
++-------------+-------------+------+-----+---------+----------------+
+5 rows in set (0.117 sec)
+
+MariaDB [aziendaZambelli]> \t
