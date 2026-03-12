@@ -60,6 +60,7 @@ Queste poesie sono caratterizzate da:
 - **parole isolate**
     
 - **poesia essenziale**
+mette al centro la parola
     
 
 ### Perché scrive così?

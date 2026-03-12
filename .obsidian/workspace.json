@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5/INFO/PRATICA/APPUNTI/sql.md",
+                "file": "5/ITA/PENTAMESTRE/PIRANDELLO/RISPOSTE VERIFICA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sql"
+              "title": "RISPOSTE VERIFICA"
             }
           },
           {
@@ -82,9 +82,23 @@
               "icon": "lucide-file-text",
               "title": "29 - SQL"
             }
+          },
+          {
+            "id": "1656ccf8166b638b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/ITA/PENTAMESTRE/UNGARETTI/TESTI/L'ALLEGRIA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "L'ALLEGRIA"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,32 +261,34 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "5c00ad3c42451fca",
+  "active": "77f2088393d98544",
   "lastOpenFiles": [
-    "5/INFO/PRATICA/APPUNTI/PDF/30 - DDL (1).pdf",
-    "5/INFO/PRATICA/APPUNTI/PDF/32 - DQL .pdf",
-    "5/INFO/PRATICA/APPUNTI/sql.md",
-    "5/INFO/PRATICA/APPUNTI/PDF/31 - DML.pdf",
-    "5/INFO/PRATICA/APPUNTI/PDF/29 - SQL .pdf",
+    "5/INFO/PRATICA/APPUNTI/PDF/19 - Archivi.pdf",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/RISPOSTE VERIFICA.md",
     "5/INFO/PRATICA/ESERCITAZIONI/esercizi.md",
+    "5/INFO/PRATICA/APPUNTI/PDF/22 - Progettazione concettuale.pdf",
+    "5/INFO/PRATICA/APPUNTI/PDF/23 - Esercizi modello ER.pdf",
+    "5/INFO/PRATICA/APPUNTI/PDF/24 - Modello relazionale.pdf",
+    "5/INFO/PRATICA/APPUNTI/PDF/21 - Introduzione ai database.pdf",
+    "5/INFO/PRATICA/APPUNTI/PDF/13 - Cookies.pdf",
+    "5/INFO/PRATICA/APPUNTI/PDF/16 - Redirezione.pdf",
+    "5/INFO/PRATICA/APPUNTI/PDF/17 - Sessioni.pdf",
+    "5/INFO/PRATICA/APPUNTI/PDF/18 - Lettura e scrittura di file di testo.pdf",
+    "5/INFO/PRATICA/APPUNTI/PDF/20 - Limiti degli archivi tradizionali.pdf",
+    "5/INFO/PRATICA/APPUNTI/sql.md",
+    "5/ITA/PENTAMESTRE/UNGARETTI/TESTI/L'ALLEGRIA.md",
+    "5/ITA/PENTAMESTRE/UNGARETTI/LA VITA.md",
     "5/INFO/PRATICA/APPUNTI/regexp.md",
     "5/INFO/PRATICA/APPUNTI/postback.md",
     "5/INFO/PRATICA/APPUNTI/form.md",
     "5/INFO/PRATICA/APPUNTI/discorsi presentazione.md",
     "5/INFO/PRATICA/APPUNTI/cookies.md",
     "5/INFO/PRATICA/APPUNTI/codificaCreazioneDatabaseBollette.md",
-    "5/INFO/PRATICA/APPUNTI/PDF/27 - Normalizzazione.pdf",
-    "5/INFO/PRATICA/APPUNTI/PDF/28 - Esercitazione MYSQL.pdf",
     "5/STORIA/PENTAMESTRE/2a verifica/LA 2a guerra mondiale.md",
     "5/STORIA/PENTAMESTRE/2a verifica/COMUNISMO DI STALIN.md",
     "5/STORIA/PENTAMESTRE/2a verifica/FASCISMO E DEMOCRAZIE IN EUROPA.md",
     "5/STORIA/PENTAMESTRE/2a verifica/EDUCAZIONE CIVICA.md",
-    "5/STORIA/PDF/12 la seconda guerra mondiale_251120_090819.pdf",
     "5/STORIA/PENTAMESTRE/2a verifica/la Germania di Hitler.md",
-    "5/STORIA/PDF/12 la seconda guerra mondiale_251120_090819 (1).pdf",
-    "5/ITA/PENTAMESTRE/UNGARETTI/LA VITA.md",
-    "5/ITA/PDF/17. LIRICA DEL NOVECENTO 2023.pdf",
-    "5/ITA/PENTAMESTRE/UNGARETTI",
     "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/ENRICO IV.md",
     "5/ITA/PENTAMESTRE/PIRANDELLO/CONCLUSIONE PIRANDELLO.md",
     "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/6 PERSONAGGI IN CERCA DI AUTORE.md",
@@ -282,8 +298,6 @@
     "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/UNO NESSUNO E CENTOMILA.md",
     "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/SECONDA PREMESSA.md",
     "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/QUADERNI SI SERAFINO GUBBIO.md",
-    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/LA POETICA - UMORISMO.md",
-    "5/ITA/PENTAMESTRE/PIRANDELLO/TESTI/LA PATENTE.md",
     "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/Pasted image 20251004211500.png",
     "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/Pasted image 20251004211447.png",
     "5/SISTEMI/TEORIA/APPUNTI/PRIVATO/Pasted image 20251004211435.png",
