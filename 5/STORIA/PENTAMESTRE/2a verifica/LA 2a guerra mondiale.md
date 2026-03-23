@@ -701,3 +701,837 @@ Se vuoi, nel prossimo messaggio posso spiegarti **la fase successiva della guerr
 
 👉 **la svolta militare del 1942-1943**  
 (Stalingrado, Midway, El Alamein).
+
+
+---
+
+# ⚔️ LA CONTROFFENSIVA DEGLI ALLEATI (1942-1943)
+
+## 1️⃣ La situazione all’inizio del 1942
+
+All’inizio del **1942** sembra che le potenze dell’**Asse** (Germania, Italia e Giappone) siano ancora in vantaggio.
+
+Infatti:
+
+- i **giapponesi** hanno conquistato gran parte dell’Asia orientale e del Pacifico;
+    
+- l’**Asse** avanza in **Nord Africa**;
+    
+- l’esercito tedesco continua l’offensiva nella **Russia meridionale**, arrivando fino alla città di **Stalingrado**.
+    
+
+Il Giappone controlla una vastissima area e minaccia persino:
+
+- **l’India** (colonia britannica);
+    
+- **l’Australia**.
+    
+
+Sembra quindi che l’Asse stia dominando la guerra.
+
+---
+
+## 2️⃣ I limiti dell’espansione dell’Asse
+
+Tuttavia questa enorme espansione crea un problema importante:  
+👉 **le linee di rifornimento diventano troppo lunghe e difficili da difendere**.
+
+Gli eserciti dell’Asse devono rifornire truppe molto lontane dalla madrepatria:
+
+- carburante,
+    
+- armi,
+    
+- cibo,
+    
+- munizioni.
+    
+
+Questo rende più difficile continuare l’offensiva.
+
+---
+
+## 3️⃣ Il vantaggio degli Alleati
+
+Gli **Alleati** invece hanno un enorme vantaggio: il sostegno degli **Stati Uniti**.
+
+Gli Stati Uniti possiedono:
+
+- una grande capacità **industriale**;
+    
+- una produzione enorme di **armi, carri armati, aerei e navi**.
+    
+
+L’industria americana non è danneggiata dalla guerra perché il territorio degli USA non è stato invaso.
+
+Per questo gli Stati Uniti diventano il principale **arsenale degli Alleati**.
+
+---
+
+## 4️⃣ I bombardamenti sulle città europee
+
+Nel frattempo gli Alleati iniziano **massicci bombardamenti sulle città controllate dalla Germania**.
+
+Questi bombardamenti hanno lo scopo di:
+
+- distruggere fabbriche e infrastrutture;
+    
+- indebolire la produzione militare tedesca;
+    
+- **spezzare il morale della popolazione civile**.
+    
+
+Questa strategia segna l’inizio della **guerra totale**, che colpisce direttamente anche i civili.
+
+---
+
+# 🔄 La svolta della guerra
+
+La guerra cambia direzione grazie a tre grandi vittorie degli Alleati.
+
+---
+
+# 🇷🇺 1️⃣ La battaglia di Stalingrado
+
+La prima grande svolta avviene sul **fronte orientale**.
+
+I tedeschi cercano di conquistare **Stalingrado**, una città strategica sul fiume Volga e simbolicamente importante perché porta il nome di **Stalin**.
+
+La battaglia è durissima e dura molti mesi.
+
+Nel **1942** l’Armata Rossa lancia una grande **controffensiva**.
+
+I sovietici circondano l’esercito tedesco guidato dal generale **Von Paulus**.
+
+L’intera armata tedesca rimane intrappolata nella città e alla fine **si arrende nel febbraio 1943**.
+
+👉 È la **prima grande sconfitta della Germania nazista**.
+
+---
+
+## Il coinvolgimento degli italiani
+
+La battaglia di Stalingrado coinvolge anche l’esercito italiano.
+
+L’**ARMIR**, l’armata italiana in Russia, viene travolta dall’offensiva sovietica.
+
+I soldati italiani sono costretti a una **drammatica ritirata nella steppa gelata**.
+
+L’episodio più famoso di questa ritirata è la **battaglia di Nikolajewka**, durante la quale i soldati italiani riescono a rompere l’accerchiamento sovietico.
+
+La ritirata provoca **enormi perdite umane**.
+
+---
+
+# 🌍 2️⃣ La svolta in Nord Africa
+
+Un’altra svolta avviene nel **Nord Africa**.
+
+Nel **1942** i britannici guidati dal generale **Montgomery** fermano e sconfiggono le truppe italo-tedesche guidate dal generale **Rommel** nella **battaglia di El Alamein**.
+
+Questa vittoria britannica segna l’inizio della ritirata delle forze dell’Asse in Africa.
+
+---
+
+## Lo sbarco degli americani
+
+Nel frattempo gli Stati Uniti sbarcano in **Marocco e Algeria** (Operazione Torch).
+
+Le forze dell’Asse rimangono così schiacciate tra:
+
+- gli inglesi che avanzano da est;
+    
+- gli americani che arrivano da ovest.
+    
+
+L’ultima resistenza italo-tedesca in **Tunisia** termina nel **maggio 1943**.
+
+Gli Alleati conquistano così **tutto il Nord Africa**.
+
+---
+
+# 🌊 3️⃣ La svolta nel Pacifico
+
+La terza grande svolta avviene nel **Pacifico**.
+
+Gli Stati Uniti riescono a fermare l’espansione giapponese grazie a due importanti battaglie navali:
+
+- **Battaglia di Midway (1942)**
+    
+- **Battaglia di Guadalcanal (1942-1943)**
+    
+
+A **Midway** la marina americana distrugge gran parte della flotta giapponese.
+
+Questo cambia completamente l’equilibrio della guerra nel Pacifico.
+
+Da questo momento gli Stati Uniti iniziano una **lenta riconquista delle isole occupate dal Giappone**.
+
+---
+
+# 🎯 Perché il 1942-1943 è la vera svolta della guerra
+
+Tra il **1942 e il 1943** l’Asse perde l’iniziativa militare.
+
+Le tre grandi sconfitte sono:
+
+- **Stalingrado** → Germania fermata in Russia
+    
+- **El Alamein** → sconfitta in Nord Africa
+    
+- **Midway** → arresto dell’espansione giapponese
+    
+
+Da questo momento gli **Alleati passano all’offensiva**.
+
+---
+
+## Frase perfetta per la verifica
+
+> Tra il 1942 e il 1943 la guerra subì una svolta decisiva grazie alle vittorie degli Alleati a Stalingrado, El Alamein e Midway, che segnarono la fine dell’espansione delle potenze dell’Asse e l’inizio della controffensiva alleata.
+
+---
+
+Se vuoi, nel prossimo messaggio posso spiegarti **la fase finale della guerra**, che è l’ultima parte del programma:
+
+- **lo sbarco in Italia e la caduta di Mussolini**
+    
+- **lo sbarco in Normandia**
+    
+- **la caduta della Germania e del Giappone**.
+
+---
+
+# ⚫ IL NUOVO ORDINE NAZISTA E LA SHOAH
+
+## 1️⃣ Il progetto nazista per l’Europa
+
+Quando la Germania conquista gran parte dell’Europa (tra il 1939 e il 1941), Hitler può iniziare a realizzare il suo progetto politico chiamato **“Nuovo Ordine Europeo”**.
+
+Questo progetto si basa sulle **idee razziste del nazismo**.
+
+Secondo l’ideologia nazista:
+
+- la **razza ariana** (tedesca) era superiore;
+    
+- altri popoli erano considerati **inferiori** o addirittura **nemici biologici**.
+    
+
+In particolare:
+
+- i **popoli slavi** dell’Europa orientale dovevano essere **ridotti in schiavitù** e sfruttati;
+    
+- gli **ebrei** dovevano essere **eliminati completamente**.
+    
+
+---
+
+# 🏴 L’Europa dominata dalla Germania
+
+Nel progetto nazista l’Europa doveva essere organizzata in una **gerarchia di potere**.
+
+Al vertice:
+
+- **Germania nazista**, potenza dominante.
+    
+
+In posizione subordinata:
+
+- **Italia fascista**;
+    
+- gli altri stati alleati o satelliti.
+    
+
+Gli altri territori conquistati diventavano **colonie di sfruttamento economico**.
+
+Questo significava:
+
+- requisizione di **risorse alimentari**;
+    
+- sfruttamento di **materie prime**;
+    
+- deportazione di **lavoratori forzati** nelle fabbriche tedesche.
+    
+
+Milioni di persone furono costrette a lavorare per l’economia di guerra nazista.
+
+---
+
+# ✡️ La persecuzione degli ebrei
+
+Uno degli elementi centrali del progetto nazista era la cosiddetta **“questione ebraica”**.
+
+La persecuzione degli ebrei avviene in **diverse fasi progressive**.
+
+---
+
+## 1️⃣ Le prime deportazioni
+
+All’inizio gli ebrei vengono:
+
+- allontanati dalle loro case;
+    
+- deportati in alcune regioni controllate dai nazisti, come la **Pomerania**.
+    
+
+---
+
+## 2️⃣ I ghetti
+
+Dopo la conquista della **Polonia**, i nazisti impongono agli ebrei di vivere nei **ghetti**.
+
+I ghetti erano quartieri chiusi e sorvegliati dove gli ebrei venivano concentrati.
+
+Le condizioni erano terribili:
+
+- sovraffollamento;
+    
+- fame;
+    
+- malattie.
+    
+
+Gli ebrei erano inoltre obbligati a portare **la stella gialla cucita sugli abiti**, per essere facilmente riconoscibili.
+
+---
+
+## 3️⃣ Lo svuotamento dei ghetti
+
+A partire dal **1943**, i ghetti vengono progressivamente **svuotati**.
+
+La popolazione ebraica viene deportata nei **campi di concentramento e di sterminio**.
+
+In alcuni casi gli ebrei tentarono di resistere.
+
+L’episodio più famoso è la **rivolta del ghetto di Varsavia (1943)**, repressa brutalmente dai nazisti.
+
+---
+
+# ☠️ La “Soluzione Finale”
+
+Il progetto di sterminio totale degli ebrei prende forma soprattutto dopo l’invasione dell’Unione Sovietica nel **1941**.
+
+Questa politica viene chiamata **“Soluzione Finale della questione ebraica”**.
+
+Consiste nello **sterminio sistematico degli ebrei europei**.
+
+---
+
+# 🏭 Il sistema dei campi
+
+I nazisti costruiscono un vasto sistema di campi.
+
+Esistevano due principali tipi di campi:
+
+### Campi di concentramento
+
+- destinati allo sfruttamento del lavoro forzato;
+    
+- condizioni durissime, con fame, malattie e violenze.
+    
+
+### Campi di sterminio
+
+- costruiti appositamente per uccidere in massa.
+    
+
+In questi campi lo sterminio avveniva in modo **industriale e organizzato**.
+
+---
+
+## Come avveniva lo sterminio
+
+Quando i deportati arrivavano nei campi:
+
+1️⃣ avveniva una **selezione**  
+2️⃣ chi era giudicato **inabile al lavoro** veniva ucciso subito
+
+Le uccisioni avvenivano tramite:
+
+- **camere a gas**
+    
+- **forni crematori** per eliminare i corpi.
+    
+
+Alcuni prigionieri venivano utilizzati anche per **esperimenti medici su esseri umani**.
+
+---
+
+# 🧍‍♂️ Chi veniva perseguitato
+
+Lo sterminio non colpì solo gli ebrei.
+
+Furono perseguitati anche:
+
+- **rom (zingari)**
+    
+- **comunisti**
+    
+- **oppositori politici**
+    
+- **omosessuali**
+    
+- **testimoni di Geova**
+    
+- **persone con disabilità fisiche o mentali**
+    
+- persone considerate “indesiderabili” dal regime.
+    
+
+---
+
+# 🤝 La collaborazione dei governi alleati dei nazisti
+
+In molti paesi occupati o alleati della Germania, i governi collaborazionisti parteciparono alla persecuzione degli ebrei.
+
+Tra questi:
+
+- il **regime di Vichy** in Francia;
+    
+- la **Repubblica Sociale Italiana** (il regime fascista creato da Mussolini nel 1943 sotto controllo tedesco).
+    
+
+Questi governi aiutarono i nazisti nella **cattura e deportazione degli ebrei**.
+
+---
+
+# ⚠️ Il significato storico della Shoah
+
+La **Shoah** rappresenta uno dei crimini più gravi della storia.
+
+Si tratta di un genocidio pianificato e organizzato dallo Stato nazista, che portò alla morte di circa **sei milioni di ebrei**.
+
+Questo sterminio dimostra fino a che punto può arrivare un sistema politico basato su:
+
+- razzismo;
+    
+- odio;
+    
+- disumanizzazione degli altri popoli.
+    
+
+---
+
+# 🎯 Idea chiave da ricordare
+
+Il **Nuovo Ordine nazista** prevedeva il dominio della Germania sull’Europa e lo sfruttamento dei popoli conquistati, mentre la **Shoah** fu il genocidio sistematico degli ebrei e di altri gruppi perseguitati dal regime nazista.
+
+---
+
+## Frase perfetta per la verifica
+
+> Il progetto del Nuovo Ordine nazista prevedeva il dominio della Germania sull’Europa e lo sfruttamento dei popoli considerati inferiori, mentre la “soluzione finale” portò allo sterminio sistematico degli ebrei e di altri gruppi perseguitati nei campi di concentramento e di sterminio.
+
+---
+
+Se vuoi, nel prossimo messaggio posso anche spiegarti **l’ultima fase della guerra**, cioè:
+
+- **lo sbarco in Italia e la caduta di Mussolini**
+    
+- **lo sbarco in Normandia**
+    
+- **la fine della guerra e la sconfitta della Germania e del Giappone**
+    
+
+che è probabilmente **l’ultimo blocco del programma della verifica**.
+
+
+---
+
+# ⚔️ LA GUERRA DEI CIVILI
+
+## 1️⃣ La guerra totale
+
+Durante la Seconda Guerra Mondiale la guerra non riguarda solo i soldati al fronte, ma **coinvolge l’intera popolazione civile**.
+
+Per questo si parla di **guerra totale**.
+
+Gli Stati mobilitano **tutte le risorse del paese** per sostenere il conflitto:
+
+- industria
+    
+- agricoltura
+    
+- trasporti
+    
+- lavoro
+    
+
+L’intero **apparato produttivo** viene orientato verso la produzione militare:
+
+- armi
+    
+- carri armati
+    
+- aerei
+    
+- navi
+    
+- munizioni
+    
+
+Questo significa che anche la vita quotidiana dei cittadini cambia completamente.
+
+---
+
+# 🥖 Il razionamento e il mercato nero
+
+Poiché molte risorse vengono destinate all’esercito, nei paesi in guerra si diffonde il **razionamento**.
+
+Il razionamento consiste nel limitare la quantità di beni che ogni persona può acquistare.
+
+Per esempio:
+
+- cibo
+    
+- carburante
+    
+- vestiti
+    
+- sapone
+    
+
+Ogni famiglia riceve delle **tessere annonarie** con cui può acquistare solo una quantità limitata di prodotti.
+
+Tuttavia le quantità spesso non bastano per vivere.
+
+Per questo si sviluppa il **mercato nero**, cioè un commercio illegale di beni venduti a prezzi molto alti.
+
+La situazione in molti paesi europei migliora solo grazie ai **massicci aiuti economici e alimentari degli Stati Uniti**.
+
+---
+
+# 💣 I civili diventano bersagli
+
+Nella Seconda Guerra Mondiale viene meno la distinzione tra **militari e civili**.
+
+Per la prima volta nella storia moderna **oltre la metà delle vittime della guerra sono civili**.
+
+Uno dei motivi principali sono i **bombardamenti aerei sulle città**.
+
+Questi bombardamenti colpiscono:
+
+- fabbriche
+    
+- ferrovie
+    
+- infrastrutture
+    
+- interi quartieri urbani
+    
+
+All’inizio i bombardamenti sono usati dalla Germania contro l’Inghilterra (come nella **Battaglia d’Inghilterra**).
+
+Successivamente gli Alleati bombardano:
+
+- **Italia**
+    
+- soprattutto **Germania**
+    
+
+Molte città vengono devastate, causando enormi perdite tra la popolazione.
+
+---
+
+# 🪖 La nascita della Resistenza
+
+L’occupazione nazista di molti paesi europei provoca la nascita della **Resistenza**.
+
+La Resistenza è il movimento di opposizione armata contro l’occupazione tedesca e i regimi fascisti collaborazionisti.
+
+All’inizio la resistenza è limitata ad attività clandestine come:
+
+- **spionaggio**
+    
+- **sabotaggio**
+    
+- diffusione di **stampa clandestina**
+    
+
+Con il passare del tempo diventa una vera **lotta armata**, con gruppi di partigiani che combattono contro i tedeschi.
+
+---
+
+# ⚔️ La repressione nazista
+
+La Resistenza crea grandi difficoltà agli eserciti tedeschi, perché li costringe a utilizzare molte truppe per controllare i territori occupati.
+
+Per contrastarla, i nazisti rispondono con una repressione durissima:
+
+- **rappresaglie**
+    
+- **fucilazioni di massa**
+    
+- distruzione di villaggi
+    
+
+Spesso venivano uccisi **civili innocenti** come punizione per gli attacchi dei partigiani.
+
+---
+
+# 🌍 La Resistenza nei diversi paesi
+
+La Resistenza assume caratteristiche diverse nei vari paesi occupati.
+
+### 🇮🇹 Italia
+
+La resistenza nasce dopo la caduta di Mussolini e si collega alla tradizione **antifascista degli anni Trenta**.
+
+I partigiani combattono contro i nazisti e contro la **Repubblica Sociale Italiana**.
+
+---
+
+### 🇫🇷 Francia
+
+In Francia la resistenza si organizza attorno alla **Francia Libera** guidata da **Charles De Gaulle**.
+
+Molti francesi combattono contro il regime collaborazionista di **Vichy**.
+
+---
+
+### 🇳🇴 🇧🇪 🇳🇱 Norvegia, Belgio e Olanda
+
+In questi paesi la resistenza agisce spesso in collegamento con i **governi in esilio**, che operano dall’estero.
+
+---
+
+### 🇷🇺 Unione Sovietica
+
+In URSS la resistenza dei **partigiani sovietici** è molto importante.
+
+Essi attaccano le linee di rifornimento tedesche e sfruttano l’odio della popolazione per la brutalità dell’occupazione nazista.
+
+---
+
+### 🇷🇸 Jugoslavia
+
+In Jugoslavia la situazione è ancora più complessa.
+
+Qui si combatte anche una **guerra civile** tra diversi gruppi:
+
+- i **partigiani comunisti** guidati da **Tito**
+    
+- i **cetnici monarchici**
+    
+- gli **ustascia**, regime fascista filonazista
+    
+
+Nonostante le divisioni, i partigiani di Tito riusciranno alla fine a liberare gran parte del paese.
+
+---
+
+# 🎯 Il significato storico della guerra dei civili
+
+La Seconda Guerra Mondiale dimostra che il conflitto moderno non riguarda solo gli eserciti.
+
+Coinvolge:
+
+- l’economia
+    
+- la società
+    
+- la popolazione civile
+    
+
+Per questo si parla di **guerra totale**, una guerra che mobilita e colpisce l’intera società.
+
+---
+
+# Frase perfetta per la verifica
+
+> Durante la Seconda Guerra Mondiale il conflitto assunse il carattere di guerra totale: l’economia e la società furono mobilitate per lo sforzo bellico, i civili divennero spesso vittime dei bombardamenti e nei territori occupati nacquero movimenti di Resistenza contro il dominio nazista.
+
+---
+
+Se vuoi, nel prossimo messaggio posso spiegarti **l’ultima parte della guerra**, cioè:
+
+- **lo sbarco in Italia**
+    
+- **la caduta del fascismo**
+    
+- **lo sbarco in Normandia**
+    
+- **la fine della guerra nel 1945**
+    
+
+che è quasi sicuramente **l’ultima parte del programma della verifica**.
+
+
+
+---
+
+# 🇮🇹 IL CROLLO DEL FASCISMO (1943)
+
+## 1️⃣ La decisione degli Alleati: attaccare l’Italia
+
+Nel **gennaio 1943**, durante la **Conferenza di Casablanca**, i leader degli Alleati:
+
+- **Franklin Roosevelt** (USA)
+    
+- **Winston Churchill** (Gran Bretagna)
+    
+
+decidono di **attaccare l’Italia**.
+
+L’Italia viene considerata il **punto debole dell’Asse**, perché:
+
+- l’esercito italiano ha subito molte sconfitte;
+    
+- la popolazione è stanca della guerra;
+    
+- il regime fascista sta perdendo consenso.
+    
+
+L’obiettivo degli Alleati è **far uscire l’Italia dalla guerra e indebolire la Germania**.
+
+---
+
+# 2️⃣ La crisi interna dell’Italia
+
+Nel frattempo in Italia la situazione è sempre più grave.
+
+Succedono tre cose molto importanti:
+
+### Scioperi operai
+
+Nel **Nord Italia** ricominciano **grandi scioperi operai** nelle fabbriche.
+
+Questo è molto importante perché:
+
+- durante il fascismo gli scioperi erano vietati;
+    
+- dimostra che il regime sta perdendo il controllo della società.
+    
+
+---
+
+### Bombardamenti alleati
+
+Gli Alleati iniziano **bombardamenti sempre più intensi sulle città italiane**.
+
+Le città vengono colpite per:
+
+- distruggere fabbriche e infrastrutture;
+    
+- indebolire il morale della popolazione.
+    
+
+I bombardamenti aumentano il **malcontento contro il fascismo e la guerra**.
+
+---
+
+### Crisi del regime fascista
+
+Di fronte a queste difficoltà, anche dentro il potere fascista nascono dubbi.
+
+Alcuni settori iniziano a pensare che sia necessario **staccarsi dalla Germania**.
+
+Tra questi:
+
+- parte della **monarchia**;
+    
+- alcuni **generali dell’esercito**;
+    
+- il **fascismo moderato**.
+    
+
+Questi gruppi vogliono **salvare l’Italia dalla sconfitta totale**, eliminando Mussolini.
+
+---
+
+# 3️⃣ Lo sbarco degli Alleati in Sicilia
+
+Il **10 luglio 1943** gli Alleati sbarcano in **Sicilia**.
+
+È una grande operazione militare.
+
+L’esercito italiano e quello tedesco non riescono a fermare l’avanzata alleata.
+
+Subito dopo gli Alleati **bombardano Roma**, aumentando la pressione sul regime.
+
+Questo evento dimostra chiaramente che **la guerra è ormai arrivata in Italia**.
+
+---
+
+# 4️⃣ La caduta di Mussolini (25 luglio 1943)
+
+La situazione diventa insostenibile.
+
+Il **25 luglio 1943** si riunisce il **Gran Consiglio del Fascismo**, che era l’organo più importante del regime.
+
+Il Gran Consiglio vota un **ordine del giorno** che restituisce al **re Vittorio Emanuele III il comando dell’esercito**.
+
+Questo voto di fatto **toglie il potere a Mussolini**.
+
+---
+
+### L’arresto di Mussolini
+
+Subito dopo l’incontro con il re:
+
+- **Mussolini viene arrestato**.
+    
+
+Il re affida il governo al **maresciallo Pietro Badoglio**.
+
+Con questo evento:
+
+👉 **il regime fascista finisce ufficialmente dopo più di vent’anni di potere (1922-1943).**
+
+---
+
+# 5️⃣ La reazione della popolazione
+
+La popolazione reagisce con **grandissimo entusiasmo**.
+
+Molte persone pensano che:
+
+- il fascismo sia finito;
+    
+- la guerra stia per terminare.
+    
+
+In molte città ci sono **manifestazioni e feste spontanee**.
+
+---
+
+# 6️⃣ La posizione di Badoglio
+
+Badoglio però dichiara pubblicamente che:
+
+> “La guerra continua”.
+
+In realtà il nuovo governo **inizia trattative segrete con gli Alleati** per uscire dalla guerra e firmare un armistizio.
+
+---
+
+# 🎯 Idea chiave da ricordare
+
+Il fascismo crolla nel **luglio 1943** a causa:
+
+- delle sconfitte militari;
+    
+- degli scioperi e del malcontento popolare;
+    
+- dello sbarco alleato in Sicilia;
+    
+- della decisione della monarchia e dei vertici militari di eliminare Mussolini.
+    
+
+---
+
+✔️ **Frase perfetta per la verifica:**
+
+> Nel 1943, dopo lo sbarco alleato in Sicilia e il crescente malcontento della popolazione, il Gran Consiglio del Fascismo votò la sfiducia a Mussolini. Il re Vittorio Emanuele III lo fece arrestare e affidò il governo al maresciallo Badoglio, segnando la caduta del regime fascista.
+
+---
+
+Se vuoi, nel prossimo messaggio ti spiego **la seconda parte del paragrafo**, che è molto importante e spesso esce nelle verifiche:
+
+- **l’8 settembre**
+    
+- **l’occupazione tedesca**
+    
+- **la Repubblica Sociale Italiana**
+    
+- **l’inizio della Resistenza e della guerra civile in Italia**.

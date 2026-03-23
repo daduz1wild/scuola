@@ -1,4 +1,4 @@
-## **Vita di Luigi Pirandello (1867-1936)**
+3## **Vita di Luigi Pirandello (1867-1936)**
 
 ### 1. **Origini e formazione**
 
