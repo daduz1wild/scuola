@@ -1,0 +1,2 @@
+dal periodo prima dlel'ascesa di hitler quindi dal 29, tutta parte che riguarda politica interna e estera, fino al giorno prima dell'attacco alla polonia, stalin attraversa il potere occupazione interna, espansione economica, conmunismo economico, parte della guerra civile spagnola quindi guerra di spagna
+comunismo, neonazismo fino alla scoppio della guerra mondiale, fascismo quindi parte della guerra civile spagnola , educazione civica: in cosa consistono i regimi fascisti

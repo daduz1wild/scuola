@@ -286,9 +286,9 @@ Quindi è **dopo la costruzione dello Stato fascista**, ma è collegata direttam
 
 ---
 
-# 🇪🇸 ORA TI SPIEGO BENE LA GUERRA CIVILE SPAGNOLA
+# LA GUERRA CIVILE SPAGNOLA
 
-La sistemiamo in modo chiaro, perché nei tuoi appunti ci sono idee giuste ma un po’ confuse.
+
 
 ---
 
