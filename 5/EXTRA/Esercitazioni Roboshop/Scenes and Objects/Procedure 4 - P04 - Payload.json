@@ -1,0 +1,37 @@
+{
+    "Document": "Comau Roboshop SimulationApp Project File",
+    "SceneObjects": [
+        {
+            "center": {
+                "vector3D": [
+                    2400,
+                    2400,
+                    350
+                ]
+            },
+            "color": {
+                "color": [
+                    0.39215686274509803,
+                    0.39215686274509803,
+                    0.39215686274509803,
+                    1
+                ]
+            },
+            "dimensions": {
+                "vector2D": [
+                    250,
+                    700
+                ]
+            },
+            "orientation": {
+                "vector3D": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "type": "CylinderItemNode"
+        }
+    ],
+    "Version": "1.0.1"
+}

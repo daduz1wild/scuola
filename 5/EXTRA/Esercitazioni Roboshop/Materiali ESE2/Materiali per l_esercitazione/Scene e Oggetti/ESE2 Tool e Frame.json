@@ -1,0 +1,84 @@
+{
+    "Document": "Comau Roboshop SimulationApp Project File",
+    "SceneObjects": [
+        {
+            "armIndex": 0,
+            "center": {
+                "vector3D": [
+                    5,
+                    15,
+                    0
+                ]
+            },
+            "controllerName": "NJ_165_30",
+            "orientation": {
+                "vector3D": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "path": "objects/Pen_toolmaster.obj",
+            "scale": 3000,
+            "type": "AttachedObjectItemNode"
+        },
+        {
+            "center": {
+                "vector3D": [
+                    1800,
+                    0,
+                    0
+                ]
+            },
+            "orientation": {
+                "vector3D": [
+                    90,
+                    0,
+                    0
+                ]
+            },
+            "path": "objects/table.obj",
+            "scale": 1000,
+            "type": "ImportedObjectItemNode"
+        },
+        {
+            "center": {
+                "vector3D": [
+                    0,
+                    -1500,
+                    0
+                ]
+            },
+            "orientation": {
+                "vector3D": [
+                    90,
+                    0,
+                    0
+                ]
+            },
+            "path": "objects/Reference_Point.obj",
+            "scale": 2000,
+            "type": "ImportedObjectItemNode"
+        },
+        {
+            "center": {
+                "vector3D": [
+                    1450,
+                    -500,
+                    425
+                ]
+            },
+            "orientation": {
+                "vector3D": [
+                    90,
+                    0,
+                    0
+                ]
+            },
+            "path": "objects/Origin.obj",
+            "scale": 3000,
+            "type": "ImportedObjectItemNode"
+        }
+    ],
+    "Version": "1.0.1"
+}

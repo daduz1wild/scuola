@@ -1,0 +1,44 @@
+{
+    "Document": "Comau Roboshop SimulationApp Project File",
+    "SceneObjects": [
+        {
+            "center": {
+                "vector3D": [
+                    400,
+                    0,
+                    0
+                ]
+            },
+            "orientation": {
+                "vector3D": [
+                    90,
+                    0,
+                    0
+                ]
+            },
+            "path": "objects/table.obj",
+            "scale": 500,
+            "type": "ImportedObjectItemNode"
+        },
+        {
+            "center": {
+                "vector3D": [
+                    215,
+                    -240,
+                    220
+                ]
+            },
+            "orientation": {
+                "vector3D": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "path": "objects/Origin.obj",
+            "scale": 1500,
+            "type": "ImportedObjectItemNode"
+        }
+    ],
+    "Version": "1.0.1"
+}

@@ -1,0 +1,170 @@
+{
+    "Document": "Comau Roboshop SimulationApp Project File",
+    "SceneObjects": [
+        {
+            "armIndex": 0,
+            "center": {
+                "vector3D": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "controllerName": "Racer3",
+            "orientation": {
+                "vector3D": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "path": "objects/Pen_tool.obj",
+            "scale": 1000,
+            "type": "AttachedObjectItemNode"
+        },
+        {
+            "center": {
+                "vector3D": [
+                    600,
+                    0,
+                    -100
+                ]
+            },
+			"color": {
+                "color": [
+                    1,
+                    1,
+                    0,
+                    1
+                ]
+            },
+            "orientation": {
+                "vector3D": [
+                    90,
+                    0,
+                    0
+                ]
+            },
+            "path": "objects/table.obj",
+            "scale": 1000,
+            "type": "ImportedObjectItemNode"
+        },
+        {
+            "center": {
+                "vector3D": [
+                    300,
+                    0,
+                    325
+                ]
+            },
+            "orientation": {
+                "vector3D": [
+                    90,
+                    0,
+                    0
+                ]
+            },
+            "path": "objects/Square_Points.obj",
+            "scale": 1000,
+            "type": "ImportedObjectItemNode"
+        },
+        {
+            "center": {
+                "vector3D": [
+                    -100,
+                    750,
+                    -100
+                ]
+            },
+            "orientation": {
+                "vector3D": [
+                    90,
+                    0,
+                    0
+                ]
+            },
+            "path": "objects/table.obj",
+            "scale": 1000,
+            "type": "ImportedObjectItemNode"
+        },
+        {
+            "center": {
+                "vector3D": [
+                    0,
+                    300,
+                    325
+                ]
+            },
+            "orientation": {
+                "vector3D": [
+                    90,
+                    0,
+                    90
+                ]
+            },
+            "path": "objects/Trapezoid_Points.obj",
+            "scale": 1000,
+            "type": "ImportedObjectItemNode"
+        },
+        {
+            "center": {
+                "vector3D": [
+                    270,
+                    350,
+                    400
+                ]
+            },
+            "color": {
+                "color": [
+                    1,
+                    1,
+                    0,
+                    1
+                ]
+            },
+            "dimensions": {
+                "vector3D": [
+                    50,
+                    150,
+                    500
+                ]
+            },
+            "orientation": {
+                "vector3D": [
+                    0,
+                    0,
+                    -45
+                ]
+            },
+            "type": "CubeItemNode"
+        },
+        {
+            "center": {
+                "vector3D": [
+                    300,
+                    -300,
+                    325
+                ]
+            },
+			"color": {
+                "color": [
+                    0.39215686274509803,
+                    0.39215686274509803,
+                    0.39215686274509803,
+                    1
+                ]
+            },
+            "orientation": {
+                "vector3D": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "path": "objects/Circle_Points.stl",
+            "scale": 1,
+            "type": "ImportedObjectItemNode"
+        }
+    ],
+    "Version": "1.0.1"
+}

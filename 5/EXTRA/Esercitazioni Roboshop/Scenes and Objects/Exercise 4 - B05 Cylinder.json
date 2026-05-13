@@ -1,0 +1,75 @@
+{
+    "Document": "Comau Roboshop SimulationApp Project File",
+    "SceneObjects": [
+        {
+            "center": {
+                "vector3D": [
+                    400,
+                    0,
+                    0
+                ]
+            },
+            "orientation": {
+                "vector3D": [
+                    90,
+                    0,
+                    0
+                ]
+            },
+            "path": "objects/table.obj",
+            "scale": 500,
+            "type": "ImportedObjectItemNode"
+        },
+        {
+            "center": {
+                "vector3D": [
+                    310,
+                    -100,
+                    220
+                ]
+            },
+            "orientation": {
+                "vector3D": [
+                    90,
+                    0,
+                    0
+                ]
+            },
+            "path": "objects/Circle_Points.obj",
+            "scale": 1500,
+            "type": "ImportedObjectItemNode"
+        },
+        {
+            "center": {
+                "vector3D": [
+                    390,
+                    -20,
+                    220
+                ]
+            },
+            "color": {
+                "color": [
+                    0.39215686274509803,
+                    0.39215686274509803,
+                    0.39215686274509803,
+                    1
+                ]
+            },
+            "dimensions": {
+                "vector2D": [
+                    113,
+                    100
+                ]
+            },
+            "orientation": {
+                "vector3D": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "type": "CylinderItemNode"
+        }
+    ],
+    "Version": "1.0.1"
+}
