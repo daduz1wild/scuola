@@ -142,110 +142,6 @@ Since computers only understand machine code, we need **translation programs**.
 
 ---
 
-# 🧠 **Generations of Programming Languages**
-
-Programming languages evolved over time with computer technology.
-
----
-
-## 🔸 **First Generation (1940s) – Machine Language**
-
-- binary code (0s and 1s)
-    
-- used with early computers (vacuum tubes)
-    
-
-✔ Very fast  
-❌ Extremely difficult and error-prone  
-❌ Machine-dependent
-
-👉 Before this, programmers even used **physical switches**!
-
----
-
-## 🔸 **Second Generation (1950s) – Assembly Language**
-
-- uses **mnemonics** (like: ADD, LOAD, STORE)
-    
-- replaces binary with readable symbols
-    
-
-✔ Easier than machine language  
-✔ More understandable
-
-❌ Still machine-dependent  
-❌ Still complex
-
----
-
-## 🔸 **Third Generation – High-Level Languages**
-
-Developed with **integrated circuits**.
-
-### ✔ Characteristics:
-
-- closer to natural language
-    
-- machine-independent
-    
-- easier to use
-    
-- more structured
-    
-
-👉 These are also called **procedural languages**.
-
----
-
-# 🔧 **Procedural Languages**
-
-A procedural language:  
-👉 solves problems as a **sequence of steps (procedures)**
-
-### 🔹 Examples:
-
-- **COBOL** → business
-    
-- **FORTRAN** → scientific
-    
-- **PASCAL, BASIC** → general-purpose
-    
-
----
-
-# 🧩 **Modular and Structured Programming**
-
-## 🔹 **Modular Programming**
-
-- programs are divided into **modules (subroutines)**
-    
-
-✔ Advantages:
-
-- easier to manage
-    
-- reusable code
-    
-- easier to modify
-    
-
----
-
-## 🔹 **Structured Programming**
-
-- programs are organised into **clear blocks of code**
-    
-
-✔ Improves:
-
-- readability
-    
-- reliability
-    
-- debugging
-    
-
----
 
 # 📘 **Glossary (Key Terms)**
 
@@ -578,221 +474,7 @@ Although programming languages are very different from natural ones, **high-leve
 
 Another major difference concerns **formality**. Natural languages can be both **formal** and **informal**, adapting to the situation or audience. In contrast, programming languages are always **formal** — they follow only one rigid structure, with no variation allowed.
 
-Finally, natural languages have a **creative aspect** that programming languages lack. Humans use natural language to create poetry, metaphors, and literary expressions — forms of creativity that cannot be represented in computer code. Natural languages evolve, change, and allow emotional expression, while programming languages remain fixed, precise, and purely functional.
-
 In conclusion, computer languages and natural languages serve entirely different purposes. Programming languages provide a structured, logical means of communication between humans and machines, while natural languages are flexible tools for human thought, emotion, and expression. High-level languages bring programming slightly closer to natural communication, but the fundamental distinction between human creativity and machine precision remains.
-
-## 🔹 **Computer Languages (Programming Languages)**
-
-Computer languages, also called **programming languages**, are used to:
-
-- communicate with computers
-    
-- give instructions to machines
-    
-
-These languages are based on:
-
-- **syntax** → rules for writing code
-    
-- **semantics** → meaning of instructions
-    
-
-👉 Very important characteristic:
-
-- they are **unambiguous**
-    
-
-This means:
-
-- every command has **only one meaning**
-    
-- the computer interprets it in **exactly the same way every time**
-    
-
-✔ Result:
-
-- precise communication
-    
-- no misunderstandings
-    
-
----
-
-## 🔹 **Natural Languages**
-
-Natural languages (like **English, Italian, etc.**) are used for:
-
-- communication between humans
-    
-
-They include:
-
-- **syntax** → grammar rules
-    
-- **semantics** → meaning
-    
-- **phonetics** → sounds
-    
-
-👉 Key characteristic:
-
-- they can be **ambiguous**
-    
-
-This means:
-
-- one word or sentence can have **different meanings depending on context**
-    
-
-✔ Example:
-
-- “bank” → could mean a financial institution or a river bank
-    
-
----
-
-### ✔ Advantages of natural languages:
-
-- flexible
-    
-- creative
-    
-- allow:
-    
-    - metaphors
-        
-    - poetry
-        
-    - informal expressions
-        
-
-👉 Humans can **interpret meaning even with mistakes**.
-
----
-
-# ⚖️ **High-Level Languages vs Natural Languages**
-
-High-level programming languages are:  
-👉 closer to natural languages than low-level languages
-
-They also have:
-
-- syntax
-    
-- semantics
-    
-
-But they are still very different.
-
----
-
-## 🔑 **Main Differences**
-
-### 1. **Purpose**
-
-- Natural languages → used for **human communication**
-    
-- Programming languages → used to **communicate with machines**
-    
-
----
-
-### 2. **Precision**
-
-- Programming languages:
-    
-    - must be **extremely precise**
-        
-    - computers understand instructions **literally**
-        
-- Natural languages:
-    
-    - tolerate small errors
-        
-    - meaning can still be understood
-        
-
-👉 Example:  
-A small error in code → program fails  
-A small error in speech → still understandable
-
----
-
-### 3. **Ambiguity**
-
-- Programming languages → **no ambiguity**
-    
-- Natural languages → **can be ambiguous**
-    
-
----
-
-### 4. **Syntax**
-
-- Programming languages:
-    
-    - follow a **strict and fixed syntax**
-        
-    - no variations allowed
-        
-- Natural languages:
-    
-    - can be **formal or informal**
-        
-    - flexible grammar
-        
-
----
-
-### 5. **Creativity**
-
-- Natural languages:
-    
-    - allow creativity (stories, poetry, metaphors)
-        
-- Programming languages:
-    
-    - are **logical and structured only**
-        
-
----
-
-# 📘 **Glossary (Key Terms)**
-
-- **Programming language** → language used to give instructions to computers
-    
-- **Syntax** → rules for writing sentences or code
-    
-- **Semantics** → meaning of words or instructions
-    
-- **Unambiguous** → having only one meaning
-    
-- **Ambiguous** → having multiple meanings
-    
-- **Context** → situation that gives meaning to words
-    
-- **Phonetics** → study of sounds in language
-    
-- **Literal** → exact meaning without interpretation
-    
-- **High-level language** → programming language close to human language
-    
-
----
-
-💡 Frase perfetta da dire all’interrogazione:  
-👉 _“Programming languages are precise and unambiguous, while natural languages are flexible but often ambiguous.”_
-
----
-
-Se vuoi:
-
-- ti faccio le **domande su questo argomento**
-    
-- oppure ti preparo un **confronto super breve da memorizzare** 🧠
-  
-  Perfetto 💯 ti rifaccio le risposte in modo **fluido, chiaro e da interrogazione**, basate esattamente su quel materiale 👇
 
 ---
 
@@ -954,345 +636,6 @@ Perfetto 💯 questo è un altro argomento **molto importante e molto teorico**,
 
 ---
 
-# 🗄️ **Databases**
-
-## 🔹 **What is a Database?**
-
-A database is an **organised collection of data** that allows users to:
-
-- store large amounts of information
-    
-- search for specific data
-    
-- generate reports
-    
-
-👉 A **report** is the result of a **query**, which is a request used to retrieve specific information from the database.
-
----
-
-# 🔄 **Types of Databases**
-
-Databases can be divided into:
-
-- **Non-relational databases**
-    
-- **Relational databases**
-    
-
----
-
-## 🔹 **Non-Relational Databases**
-
-These databases do **not organise data in tables with relationships**.
-
-### 🔸 Types:
-
-### 1. **Flat-file database**
-
-- All data is stored in **one single table**
-    
-- Data is organised sequentially
-    
-
-✔ Simple  
-❌ Not very flexible
-
----
-
-### 2. **Network database**
-
-- Data is organised as a **graph**
-    
-- Records can be accessed through **multiple paths**
-    
-
-✔ Handles complex relationships  
-❌ More difficult to manage
-
----
-
-### 3. **Object-oriented database**
-
-- Data is stored as **objects**
-    
-- Each object belongs to a **class**
-    
-
-👉 Example:
-
-- “oak” → object
-    
-- “tree” → class
-    
-
-✔ Useful for complex data structures
-
----
-
-## 🔹 **Relational Databases**
-
-Relational databases are the **most widely used today**.
-
-### ✔ Characteristics:
-
-- data is stored in **tables**
-    
-- tables are made of:
-    
-    - **fields** (columns)
-        
-    - **records** (rows)
-        
-- tables are connected using **key fields**
-    
-
----
-
-### 🔑 **Key Field**
-
-- contains a **unique value**
-    
-- identifies each record
-    
-
-👉 No two records have the same key.
-
----
-
-### 🔧 **DBMS (Database Management System)**
-
-A DBMS is software that:
-
-- manages the database
-    
-- controls access
-    
-- ensures security
-    
-
-👉 It decides:
-
-- who can access data
-    
-- what actions users can perform
-    
-
----
-
-### 💡 **SQL (Structured Query Language)**
-
-- language used to:
-    
-    - query databases
-        
-    - retrieve data
-        
-
----
-
-# 🛠️ **Creating a Database**
-
-To create a database, you must:
-
-1. Decide the **fields** (types of data)
-    
-2. Define for each field:
-    
-    - name
-        
-    - description
-        
-    - **data type**
-        
-    - format
-        
-
----
-
-## 🔹 **Common Data Types**
-
-- **Text** → words or characters
-    
-- **Integer** → whole numbers
-    
-- **Real numbers** → decimal numbers
-    
-- **Date** → calendar values
-    
-- **Boolean** → yes/no values
-    
-
-👉 Data type is important because it determines:
-
-- what operations can be performed
-    
-
----
-
-# 🧠 **Database Structure**
-
-A database includes:
-
-## 🔹 **Data files**
-
-- store the actual data
-    
-
----
-
-## 🔹 **Metadata**
-
-Information about the data, including:
-
-### 📘 **Data dictionary**
-
-- describes:
-    
-    - fields
-        
-    - tables
-        
-    - relationships
-        
-
-👉 It does NOT contain actual data.
-
----
-
-### 📑 **Index**
-
-- list of keys
-    
-- used to:
-    
-    - speed up searches
-        
-    - organise data
-        
-
----
-
-### 📊 **Statistical data**
-
-- analysed data collected over time
-    
-
----
-
-# ⚙️ **DBMS (Database Management System)**
-
-The DBMS is essential software that:
-
-- connects the database with applications
-    
-
-### It manages:
-
-1. **Data** → reading, updating, deleting
-    
-2. **Database engine** → controls access and operations
-    
-3. **Schema** → structure of the database
-    
-
----
-
-### ✔ Functions:
-
-- security
-    
-- data integrity
-    
-- backup and recovery
-    
-
-👉 It can also **limit what users can see**.
-
----
-
-# 💻 **Database Applications**
-
-Database applications are programs used by users to:
-
-- search data
-    
-- sort information
-    
-- create reports
-    
-- perform calculations
-    
-
----
-
-## 🔹 Examples:
-
-- Microsoft Access
-    
-- Oracle
-    
-- SQL Server
-    
-- FileMaker Pro
-    
-- FoxPro
-    
-
----
-
-### ✔ Features:
-
-- user-friendly interface
-    
-- security (passwords, access control)
-    
-- support for queries and calculations
-    
-
----
-
-# 📘 **Glossary (Key Terms)**
-
-- **Database** → organised collection of data
-    
-- **Query** → request to retrieve data
-    
-- **Report** → result of a query
-    
-- **Relational database** → database based on tables
-    
-- **Field** → column in a table
-    
-- **Record** → row in a table
-    
-- **Key field** → unique identifier
-    
-- **DBMS** → software to manage databases
-    
-- **SQL** → language for querying databases
-    
-- **Metadata** → data about data
-    
-- **Index** → structure for fast searching
-    
-- **Schema** → structure of the database
-    
-- **Object** → element in object-oriented database
-    
-
----
-
-💡 Frase perfetta da dire all’interrogazione:  
-👉 _“Relational databases are the most widely used because they are flexible, powerful, and allow complex queries using SQL.”_
-
----
-
-Se vuoi:
-
-- ti faccio le **domande su questo argomento**
-    
-- oppure una **mappa mentale super semplice da memorizzare** 🧠
 
 # 📊 **Spreadsheets**
 
@@ -1525,6 +868,339 @@ Se vuoi:
     
 - oppure una **versione super breve da memorizzare** 🧠
 
+
+Perfetto 💯 queste sono tante domande ma sono **perfette per un’interrogazione completa**.  
+Ti rispondo in modo **chiaro, fluido e abbastanza sviluppato**, così puoi spiegare bene.
+
+
+Perfetto 💯 questo è un argomento **facile ma molto importante per iniziare bene l’interrogazione**, quindi ti faccio una spiegazione **perfetta, chiara e fluida**, così puoi parlare senza problemi.
+
+---
+
+# 📝 **Word Processors**
+
+## 🔹 **Software Types**
+
+Software programs are used every day and can have different functions.
+
+There are three main types of software:
+
+### 🔸 **Open-source software**
+
+- free to use
+    
+- source code is available
+    
+- users can **modify and share it**
+    
+
+---
+
+### 🔸 **Free software**
+
+- free to use
+    
+- but **source code is not available**
+    
+- often a limited version of a paid program
+    
+
+---
+
+### 🔸 **Proprietary software**
+
+- owned by a company or individual
+    
+- users must **buy it**
+    
+- source code is **not accessible**
+    
+- cannot be modified
+    
+
+---
+
+# 🖥️ **What is a Word Processor?**
+
+A word processor is a software program used to:
+
+- **write**
+    
+- **edit**
+    
+- **format**  
+    text documents.
+    
+
+👉 It allows users to easily create and modify documents.
+
+---
+
+# 🔧 **Main Functions**
+
+Word processor functions are divided into two categories:
+
+---
+
+## 🔹 **1. Text Formatting**
+
+Refers to the **appearance of the text**.
+
+Includes:
+
+- font type and size
+    
+- bold, italic, underline
+    
+- colours and styles
+    
+
+👉 It makes the document **clear and visually effective**.
+
+---
+
+## 🔹 **2. Text Editing**
+Refers to the **content of the text**.
+
+Includes:
+
+- writing and editing text
+    
+- saving and printing documents
+    
+- inserting tables, images, and graphics
+    
+- spelling and grammar correction
+    
+
+---
+
+# ⚙️ **Other Important Features**
+
+## 🔹 **Layout**
+
+- controls page structure
+    
+- includes:
+    
+    - margins
+        
+    - page orientation
+        
+
+---
+
+## 🔹 **Revision Tools**
+
+- allow multiple users to:
+    
+    - edit a document
+        
+    - add comments
+        
+
+👉 Changes remain visible until accepted or rejected.
+
+---
+
+## 🔹 **Automation**
+
+Word processors help with repetitive tasks using:
+
+- templates
+    
+- standard formats
+    
+
+👉 Example:
+
+- sending the same letter to many people
+    
+
+---
+
+# 📄 **Main Uses of Word Processors**
+
+Modern word processors are used to create:
+
+- letters
+    
+- CVs
+    
+- reports
+    
+- newsletters
+    
+- forms
+    
+- web pages
+    
+- personalised documents (mail merge)
+    
+
+👉 They are essential in:
+
+- school
+    
+- business
+    
+- everyday work
+    
+
+---
+
+# 💻 **Available Software**
+
+### 🔹 Historical:
+
+- **WordStar (1982)** → first word processor
+    
+- **Microsoft Word (1989)** → first for Windows
+    
+
+---
+
+### 🔹 Today:
+
+- **Microsoft Word** → most widely used
+    
+- **Google Docs** → online and cloud-based
+    
+- **LibreOffice Writer / OpenOffice Writer** → free and open-source
+    
+- **WPS Writer** → free office suite
+    
+
+---
+
+# 📘 **Glossary (Key Terms)**
+
+- **Word processor** → software for writing documents
+    
+- **Formatting** → changing appearance of text
+    
+- **Editing** → modifying content
+    
+- **Layout** → structure of the page
+    
+- **Revision** → reviewing and editing by multiple users
+    
+- **Template** → pre-made document format
+    
+- **Mail merge** → sending personalised documents
+    
+- **Open-source** → software with accessible code
+    
+- **Proprietary** → owned and restricted software
+    
+
+---
+
+💡 Frase perfetta da dire all’interrogazione:  
+👉 _“Word processors are essential tools for creating, editing, and formatting documents efficiently.”_
+
+---
+
+Se vuoi:
+
+- ti faccio le **domande su questo argomento**
+    
+- oppure un **confronto veloce con spreadsheets e databases (molto utile all’orale)** 🔥
+---
+
+# 📚 **Answers – Word Processors, Spreadsheets and Databases**
+
+## 📝 **Word Processors**
+
+## **36. What is a word processor used for?**
+
+A word processor is used to **write, edit, and format text documents**.  
+It allows users to create documents such as letters, reports, and CVs in a simple and efficient way.
+
+---
+
+## **37. What are the main functions of a word processor?**
+
+The main functions are:
+
+- **text formatting** → appearance of the text
+    
+- **text editing** → content of the text
+    
+
+---
+
+## **38. What is text formatting in a word processor?**
+
+Text formatting refers to the **visual appearance of the text**, including:
+
+- font type and size
+    
+- bold, italic, underline
+    
+- colours and styles
+    
+
+---
+
+## **39. What is text editing in a word processor?**
+
+Text editing refers to modifying the **content of the document**, such as:
+
+- writing and editing text
+    
+- saving and printing
+    
+- inserting images or tables
+    
+- correcting spelling and grammar
+    
+
+---
+
+## **40. What are some important features of word processors?**
+
+Important features include:
+
+- **layout** (page orientation and margins)
+    
+- **revision tools** (comments and corrections by multiple users)
+    
+- **templates** for repetitive tasks
+    
+
+---
+
+## **41. How has the use of word processors evolved from earlier versions?**
+
+Early word processors were used only for **simple text editing**.  
+Modern word processors can create **complex and professional documents**, including:
+
+- newsletters
+    
+- web pages
+    
+- personalised letters (mail merge)
+    
+
+---
+
+## **42. What are some examples of available word processing software?**
+
+Examples include:
+
+- Microsoft Word
+    
+- Google Docs
+    
+- LibreOffice Writer
+    
+- OpenOffice Writer
+    
+- WPS Writer
+    
+
+---
 Perfetto 💯 questo è un altro argomento **molto importante e molto teorico**, quindi ti faccio una spiegazione **chiara, completa e perfetta per interrogazione orale**.
 
 ---
@@ -1765,7 +1441,7 @@ The DBMS is essential software that:
 ### It manages:
 
 1. **Data** → reading, updating, deleting
-    
+    l
 2. **Database engine** → controls access and operations
     
 3. **Schema** → structure of the database
@@ -1860,113 +1536,6 @@ Database applications are programs used by users to:
 
 💡 Frase perfetta da dire all’interrogazione:  
 👉 _“Relational databases are the most widely used because they are flexible, powerful, and allow complex queries using SQL.”_
-
----
-
-Se vuoi:
-
-- ti faccio le **domande su questo argomento**
-    
-- oppure una **mappa mentale super semplice da memorizzare** 🧠
-
-Perfetto 💯 queste sono tante domande ma sono **perfette per un’interrogazione completa**.  
-Ti rispondo in modo **chiaro, fluido e abbastanza sviluppato**, così puoi spiegare bene.
-
----
-
-# 📚 **Answers – Word Processors, Spreadsheets and Databases**
-
-## 📝 **Word Processors**
-
-## **36. What is a word processor used for?**
-
-A word processor is used to **write, edit, and format text documents**.  
-It allows users to create documents such as letters, reports, and CVs in a simple and efficient way.
-
----
-
-## **37. What are the main functions of a word processor?**
-
-The main functions are:
-
-- **text formatting** → appearance of the text
-    
-- **text editing** → content of the text
-    
-
----
-
-## **38. What is text formatting in a word processor?**
-
-Text formatting refers to the **visual appearance of the text**, including:
-
-- font type and size
-    
-- bold, italic, underline
-    
-- colours and styles
-    
-
----
-
-## **39. What is text editing in a word processor?**
-
-Text editing refers to modifying the **content of the document**, such as:
-
-- writing and editing text
-    
-- saving and printing
-    
-- inserting images or tables
-    
-- correcting spelling and grammar
-    
-
----
-
-## **40. What are some important features of word processors?**
-
-Important features include:
-
-- **layout** (page orientation and margins)
-    
-- **revision tools** (comments and corrections by multiple users)
-    
-- **templates** for repetitive tasks
-    
-
----
-
-## **41. How has the use of word processors evolved from earlier versions?**
-
-Early word processors were used only for **simple text editing**.  
-Modern word processors can create **complex and professional documents**, including:
-
-- newsletters
-    
-- web pages
-    
-- personalised letters (mail merge)
-    
-
----
-
-## **42. What are some examples of available word processing software?**
-
-Examples include:
-
-- Microsoft Word
-    
-- Google Docs
-    
-- LibreOffice Writer
-    
-- OpenOffice Writer
-    
-- WPS Writer
-    
-
----
 
 # 🗄️ **Databases**
 
@@ -4050,308 +3619,6 @@ This is done to **optimise resources** and allow more users to communicate at th
 Perfetto, questo è un argomento **molto importante e tipico da interrogazione**.  
 Ti faccio una spiegazione **chiara, ordinata e facile da esporre in inglese**, + **glossario finale** 👇
 
----
-
-# 🌐 **5.1 Communication Networks**
-
-## 📡 **Telecommunications**
-
-### 🔹 Communication vs Telecommunications
-
-Communication is the process of **sending information from one place to another**.
-
-When this happens over **long distances**, it is called **telecommunications**.
-
-👉 The goal of telecommunications is to:
-
-- convert messages into **signals**
-    
-- transmit them through:
-    
-    - wires
-        
-    - optical fibres
-        
-    - even space
-        
-
----
-
-## 📤 **Sending Messages in a Telecommunication System**
-
-A basic telecommunication system includes:
-
-- **Transmitter (source)** → sends the message
-    
-- **Receiver (destination)** → receives the message
-    
-- **Channel** → the medium through which the signal travels
-    
-
-### 🔧 Important components:
-
-- **Transducer**  
-    Converts a message into a signal  
-    (example: a microphone converts voice into electrical signals)
-    
-- **Amplifier**  
-    Increases the strength of the signal
-    
-- **Encoder / Decoder**
-    
-    - Encoder → prepares the signal for transmission
-        
-    - Decoder → reconstructs the original message
-        
-
-👉 Before transmission, the message becomes:
-
-- **Analogue (continuous)** OR
-    
-- **Digital (discrete)**
-    
-
----
-
-## 🔄 **Types of Telecommunication Systems**
-
-### 1. **Simplex**
-
-- Communication in **one direction only**
-    
-- Example: megaphone
-    
-
----
-
-### 2. **Duplex**
-
-- Communication in **two directions**
-    
-
-Types:
-
-- **Half-duplex** → one direction at a time (walkie-talkie)
-    
-- **Full-duplex** → both directions at the same time (phone call)
-    
-
----
-
-### 3. **Broadcast**
-
-- One transmitter → many receivers
-    
-- Example: TV and radio
-    
-
----
-
-### 4. **Multiplex**
-
-- Many transmitters and receivers share the **same channel**
-    
-- Example: videoconferencing
-    
-
----
-
-# 🔁 **Methods of Transmission**
-
-## 🔹 **Point-to-Point Transmission**
-
-Direct communication between one sender and one receiver.
-
-### 📌 Types:
-
-### ✅ **Synchronous Transmission**
-
-- Data sent in **continuous blocks (frames)**
-    
-- Works in **full-duplex**
-    
-- Requires **synchronisation (clock)**
-    
-
-✔ Advantages:
-
-- fast
-    
-- efficient
-    
-- real-time communication
-    
-
-✔ Examples:
-
-- video calls
-    
-- chat
-    
-- phone calls
-    
-
----
-
-### ✅ **Asynchronous Transmission**
-
-- Data sent **one byte at a time**
-    
-- Works in **half-duplex**
-    
-- No need for synchronisation
-    
-
-✔ Advantages:
-
-- simple
-    
-- cheaper
-    
-
-❌ Disadvantage:
-
-- slower, not real-time
-    
-
-✔ Examples:
-
-- emails
-    
-- forums
-    
-- message boards
-    
-
----
-
-## 🌍 **Network Transmission**
-
-When data travels through a network (like the Internet), there are two main methods:
-
----
-
-### 🔌 **Circuit Switching**
-
-- A **dedicated channel** is created before communication
-    
-- The channel remains reserved during the connection
-    
-
-✔ Used for:
-
-- voice communication
-    
-- video calls
-    
-
-✔ Advantage:
-
-- stable, real-time
-    
-
----
-
-### 📦 **Packet Switching**
-
-- No fixed channel
-    
-- Data is divided into **small packets**
-    
-
-Each packet:
-
-- travels independently
-    
-- may take different routes
-    
-
-At the destination:
-
-- packets are **reassembled**
-    
-
-✔ Used for:
-
-- emails
-    
-- internet data
-    
-
-✔ Advantage:
-
-- flexible and efficient
-    
-
-❌ Disadvantage:
-
-- possible network congestion
-    
-
----
-
-# 📘 **Glossary (Important Terms)**
-
-- **Telecommunications** → communication over long distances
-    
-- **Signal** → a form of energy used to transmit information
-    
-- **Transmitter** → device that sends a signal
-    
-- **Receiver** → device that receives a signal
-    
-- **Channel** → medium through which data travels
-    
-- **Transducer** → device that converts one form of energy into another
-    
-- **Amplifier** → device that increases signal strength
-    
-- **Encoder** → device that prepares data for transmission
-    
-- **Decoder** → device that converts data back into original form
-    
-- **Analogue signal** → continuous signal
-    
-- **Digital signal** → discrete (binary) signal
-    
-- **Simplex** → one-way communication
-    
-- **Duplex** → two-way communication
-    
-- **Full-duplex** → simultaneous communication
-    
-- **Half-duplex** → communication one direction at a time
-    
-- **Broadcast** → one-to-many transmission
-    
-- **Multiplex** → sharing one channel among multiple users
-    
-- **Synchronous transmission** → continuous, real-time data transmission
-    
-- **Asynchronous transmission** → data sent in small units, not real-time
-    
-- **Frame** → block of transmitted data
-    
-- **Clock (synchronisation)** → timing signal for data transmission
-    
-- **Circuit switching** → dedicated communication path
-    
-- **Packet switching** → data sent in packets through a network
-    
-- **Packet** → small unit of data
-    
-
----
-
-👉 Quando vuoi, mandami le **domande su questo testo** e ti preparo risposte perfette da interrogazione 💯ù
-
-
-
-Perfetto, ora alziamo il livello 💯  
-Ti faccio risposte **più complete, fluide e da 8–10 all’orale**, così puoi anche “allargare il discorso” e fare bella figura.
-
----
-
 # 📚 **Answers – Methods of Transmission**
 
 ## **100. What are the two main methods of data transmission?**
@@ -5053,6 +4320,279 @@ Ti faccio una spiegazione **chiara, completa e perfetta per interrogazione**, co
 
 ---
 
+
+
+Perfetto 👍 ti faccio una **spiegazione completa, chiara e perfetta per studiare/interrogazione** sul tema **Networks** 👇
+
+---
+
+# 🌐 NETWORKS – PERFECT EXPLANATION
+
+## 📌 What is a Network?
+
+A network is a group of **connected computers and devices** that can:
+
+- share **data**
+    
+- share **software**
+    
+- share **resources** (like printers and scanners)
+    
+- share an **Internet connection**
+    
+
+👉 This means multiple computers can work together efficiently.
+
+---
+
+## 🎯 Why are networks important?
+
+Networks allow:
+
+- **resource sharing** → one printer for many computers
+    
+- **communication** → exchange of data
+    
+- **cost reduction** → fewer devices needed
+    
+- **Internet access sharing**
+    
+
+---
+
+## 🔄 Types of Network Models
+
+There are two main ways a network can operate:
+
+---
+
+## 🖥️ 1. Peer-to-Peer Network
+
+### 📌 Definition
+
+A peer-to-peer network is a network where:
+
+- all computers have **equal status**
+    
+- each computer can **share its own resources**
+    
+
+### ✅ Advantages
+
+- easy to set up
+    
+- low cost
+    
+- no special knowledge required
+    
+- direct sharing between computers
+    
+
+### ❌ Disadvantages
+
+- only suitable for **small networks**
+    
+- performance decreases when many users are connected
+    
+- less secure and less organized
+    
+
+---
+
+## 🖥️ 2. Client-Server Network
+
+### 📌 Definition
+
+A client-server network is a network where:
+
+- one central computer (**server**) controls the network
+    
+- other computers (**clients**) access resources from the server
+    
+
+### ✅ Advantages
+
+- centralized control of **data and software**
+    
+- better **security and management**
+    
+- suitable for **large networks**
+    
+
+### ❌ Disadvantages
+
+- if the server fails → the **entire network stops**
+    
+- more expensive and complex
+    
+
+---
+
+## 🔌 Network Components
+
+To work properly, a network needs both **hardware and transmission media**.
+
+### 📡 Transmission Media
+
+Data can travel through:
+
+- **metal wires (cables)**
+    
+- **fibre optic cables**
+    
+- **wireless connections**
+    
+
+---
+
+### 💻 Network Interface Card (NIC)
+
+Every computer needs a **NIC**:
+
+- it connects the computer to the network
+    
+- it prepares data for transmission
+    
+
+---
+
+### 🔧 Other Important Devices
+
+- **Hub** → connects multiple devices (simple, less intelligent)
+    
+- **Switch** → like a hub but smarter, reduces traffic
+    
+- **Router** → directs data and connects networks
+    
+- **Bridge** → divides a network into segments and filters data
+    
+- **Repeater** → regenerates weak signals
+    
+- **Gateway** → connects different types of networks
+    
+
+---
+
+# 🧠 SUPER SUMMARY (TO MEMORIZE)
+
+👉 _A network is a group of connected computers that share resources and data._
+
+👉 Two types:
+
+- **Peer-to-peer → equal computers, small networks**
+    
+- **Client-server → central server, large networks**
+    
+
+👉 Key components:
+
+- NIC, router, switch, hub, cables
+    
+
+---
+
+💡 **Perfect oral sentence:**  
+👉 _“A network allows computers to share resources and communicate, and it can operate as a peer-to-peer or a client-server system depending on its structure.”_
+
+---
+
+Se vuoi, prossimo step 🔥:  
+➡️ schema riassuntivo di TUTTO il capitolo reti  
+➡️ oppure interrogazione simulata (molto utile)
+
+
+Of course — here are the answers **based strictly on the textbook text**, in **clear English** and in a good oral-exam style.
+
+---
+
+# 📚 Answers – Networks
+
+## 125. What is a network?
+
+A network is a group of computers that are **connected together** so that they can **share resources, software, data, and even an Internet connection**.
+
+---
+
+## 126. What devices can be shared in a network?
+
+In a network, devices such as **printers and scanners** can be shared among all the computers.  
+The computers can also share the same **Internet link**.
+
+---
+
+## 127. What are the two types of network operation models?
+
+The two network operation models are:
+
+- **peer-to-peer**
+    
+- **client-server**
+    
+
+---
+
+## 128. What is a peer-to-peer network?
+
+A peer-to-peer network is a network in which **all computers have equal status**.  
+Each computer can share its resources directly with the others.
+
+---
+
+## 129. What are the advantages of a peer-to-peer network?
+
+The main advantages are that:
+
+- it is **easy to set up and use**
+    
+- it requires only **basic knowledge**
+    
+- all computers can **share each other’s resources**
+    
+
+---
+
+## 130. What is a disadvantage of a peer-to-peer network?
+
+A major disadvantage is that it is suitable only for **small networks**.  
+Also, as more users join, the **whole network slows down**.
+
+---
+
+## 131. What is a client-server network?
+
+A client-server network is a network in which **one more powerful computer, called the server, controls the network**.
+
+The server stores the **software and data**, which can be accessed by all the other computers.
+
+---
+
+## 132. What are the benefits of a client-server network?
+
+The benefits are that:
+
+- software and data are **stored centrally on the server**
+    
+- all computers on the network can **access shared resources**
+    
+- it is suitable for networks with **many computers**
+    
+
+---
+
+## 133. What is a major disadvantage of a client-server network?
+
+A major disadvantage is that the whole network **depends on the server**.  
+If the server breaks down, **the network cannot be used**.
+
+---
+
+## 134. Which type of network is more suitable for larger setups?
+
+The **client-server network** is more suitable for larger setups because it is designed to support **many computers**.
+
+---
+
+If you want, I can also continue with the **network components questions** in the same style.
 # 🌐 **Network Components and Types of Networks**
 
 ## 🔧 **Network Components**
@@ -5160,6 +4700,56 @@ Every computer must have a **Network Interface Card (NIC)**.
 
 ---
 
+
+Certainly — here are the answers in clear English, based on the textbook material.
+
+---
+
+# 📚 Answers – Network Components
+
+## 135. What are the media through which data signals can travel in a network?
+
+Data signals can travel through **metal wires**, **fibre optic cables**, or a **wireless connection**.
+
+## 136. What is the purpose of a network interface card (NIC)?
+
+A network interface card (NIC) is used to **connect a computer to a network** and to **prepare the data to be sent over the network**.
+
+## 137. What is a hub and its function in a network?
+
+A hub is a **small, simple, inexpensive device** that joins several cables into a single output. It connects multiple devices in a network, but it is not very intelligent because it sends data to all ports.
+
+## 138. What is the main standard for hardware connectivity in networks?
+
+The main standard for hardware connectivity is **Ethernet**.
+
+## 139. What is the role of a router in a network?
+
+A router acts as the **central point between computers and wired or wireless networks**. Its role is to **choose the right path for communication traffic**.
+
+## 140. What is a broadband router used for?
+
+A broadband router is used to **connect a local network to a broadband Internet connection** and to allow several devices to share that connection.
+
+## 141. How does a network switch differ from a hub?
+
+A network switch is like a hub, but it is **more intelligent**. It can divide the network into **independent segments**, which reduces the amount of data travelling across the network.
+
+## 142. What is the purpose of a bridge in a network?
+
+A bridge is used to **filter data traffic at a network boundary** by dividing the network into two segments and deciding whether to **forward or discard incoming data**.
+
+## 143. What does a repeater do in a network?
+
+A repeater **regenerates incoming signals** because their quality decreases with distance when using Ethernet.
+
+## 144. What is the function of a gateway in networking?
+
+A gateway is used as a **passage to connect two networks that belong to different networking types**.
+
+---
+
+If you want, I can also continue with the **Network Topologies** questions in the same style.
 # 🌍 **Types of Networks**
 
 Networks can be classified based on their **size and coverage area**.
@@ -7152,6 +6742,1884 @@ It has **increased steadily since 2000**, due to the growth of technology and gl
     
 - oppure facciamo una **simulazione interrogazione completa con voto** 🎤
 
-https://gamma.app/docs/15-Networks-qygcxr2bozd0o1c
+Perfetto 💯 questo è un argomento **fondamentale (sicurezza informatica)** e spesso i prof fanno molte domande.  
+Ti faccio una spiegazione **perfetta, chiara e completa per l’interrogazione** 👇
 
-https://gamma.app/docs/16-Types-of-networks-zolf1c0ai56kxdp
+---
+
+# 🛡️ **Malware, Adware, Spam and Bugs**
+
+## 🔹 **Introduction**
+
+Computers and devices are exposed to different risks:
+
+- **external attacks** (hackers, malicious software)
+    
+- **user errors** (incorrect use of systems)
+    
+
+👉 These risks can:
+
+- damage systems
+    
+- steal data
+    
+- compromise security
+    
+
+---
+
+# 💻 **What is Malware?**
+
+**Malware** (malicious software) is any program designed to:
+
+- damage systems
+    
+- steal information
+    
+- bypass security controls
+    
+- monitor user activity
+    
+
+👉 It can even:
+
+- control devices remotely
+    
+- compromise entire networks
+    
+
+---
+
+## 🔹 **Classification of Malware**
+
+Malware can be divided into different categories:
+
+### 🔸 **Malicious programs**
+
+- damage data or hardware
+    
+- disrupt system functions
+    
+
+---
+
+### 🔸 **Crimeware**
+
+- steals:
+    
+    - money
+        
+    - personal or sensitive data
+        
+
+---
+
+### 🔸 **Mobile malware**
+
+- targets smartphones and tablets
+    
+
+---
+
+### 🔸 **Network threats**
+
+- attack data transmission
+    
+- intercept communications
+    
+
+---
+
+## 🔹 **How Malware Spreads**
+
+Malware can spread through:
+
+- infected **USB devices**
+    
+- **downloads** from unsafe websites
+    
+- **emails** with malicious links or attachments
+    
+
+👉 Advanced malware can:
+
+- connect to hacker-controlled servers
+    
+- steal data
+    
+- remotely control the system
+    
+
+---
+
+# 📢 **Adware**
+
+Adware is software that:
+
+- automatically shows **advertisements**
+    
+
+👉 Characteristics:
+
+- usually **not dangerous**
+    
+- can be **annoying**
+    
+- may **slow down the system**
+    
+
+⚠️ In some cases:
+
+- it may collect user data without permission
+    
+
+---
+
+# 📧 **Spam**
+
+Spam refers to:
+
+- **unsolicited messages**, especially emails
+    
+
+👉 It is:
+
+- not malware itself
+    
+- but a **method used to spread malware**
+    
+
+Examples:
+
+- advertising emails
+    
+- fake messages with malicious links
+    
+
+---
+
+# 🐞 **Bugs**
+
+A **bug** is:
+
+- an **error in a program** caused by human mistakes
+    
+
+👉 Types:
+
+- normal bugs → cause malfunctions
+    
+- **security bugs** → very dangerous
+    
+
+⚠️ Security bugs can:
+
+- allow hackers to bypass security
+    
+- steal data
+    
+
+---
+
+# 🦠 **Viruses**
+
+A virus is a program that:
+
+- **copies itself**
+    
+- spreads to other computers
+    
+
+👉 It works by:
+
+- attaching itself to a program
+    
+- activating when the program is opened
+    
+
+---
+
+## 🔹 **Effects of viruses**
+
+- damage files
+    
+- corrupt software
+    
+- cause financial loss
+    
+
+❗ Important:
+
+- viruses **do NOT physically damage hardware**
+    
+
+---
+
+## 🔹 **Types of viruses**
+
+- **Macro viruses** → spread via documents and emails
+    
+- **Boot sector viruses** → attack system startup
+    
+- **Polymorphic viruses** → change form to avoid detection
+    
+- **Overwrite viruses** → delete original file content
+    
+- **Resident viruses** → hide in memory
+    
+
+---
+
+# 🪱 **Worms**
+
+A worm is a type of malware that:
+
+- spreads automatically across networks
+    
+- does **not need user action**
+    
+
+---
+
+## 🔹 **What worms do**
+
+- consume network bandwidth
+    
+- overload systems
+    
+- spread very quickly
+    
+
+👉 They may:
+
+- steal data
+    
+- install more malware
+    
+- turn computers into **bots (zombies)**
+    
+
+---
+
+# 🚪 **Backdoors and Rogue Security**
+
+## 🔹 **Backdoors**
+
+- create a **secret access point** in a system
+    
+- allow hackers to:
+    
+    - enter the system
+        
+    - control it remotely
+        
+
+---
+
+## 🔹 **Rogue security software**
+
+- pretends to be an **antivirus**
+    
+- actually:
+    
+    - disables real security software
+        
+    - installs malware
+        
+
+---
+
+# 📘 **Glossary (Key Terms)**
+
+- **Malware** → malicious software
+    
+- **Adware** → software that shows ads
+    
+- **Spam** → unwanted messages
+    
+- **Bug** → error in code
+    
+- **Virus** → self-replicating program
+    
+- **Worm** → self-spreading malware
+    
+- **Backdoor** → hidden system access
+    
+- **Rogue security** → fake antivirus
+    
+- **Payload** → harmful part of malware
+    
+- **Bot** → infected computer controlled remotely
+    
+
+---
+
+# 🎯 **Perfect sentence for the oral exam**
+
+👉 _“Malware includes different types of malicious software such as viruses and worms, which can damage systems, steal data, and spread through networks.”_
+
+---
+
+Se vuoi:
+
+- ti faccio le **domande su questo argomento**
+    
+- oppure una **mappa mentale per memorizzarlo velocemente** 🧠
+
+Perfetto 👍 ti rispondo in modo **chiaro, completo e perfetto per studiare/interrogazione**:
+
+---
+
+# 🛡️ ANSWERS – Malware, Adware, Spam and Bugs (205–214)
+
+### 205. What is the primary purpose of malware?
+
+The primary purpose of malware is to **compromise computer systems**, which includes:
+
+- damaging data or hardware
+    
+- stealing sensitive information
+    
+- bypassing security controls
+    
+- monitoring user activity
+    
+
+---
+
+### 206. Name three ways malware can be classified.
+
+Malware can be classified into:
+
+- **Malicious programs**
+    
+- **Crimeware**
+    
+- **Mobile malware**
+    
+- **Network threats**
+    
+
+(Any three are correct)
+
+---
+
+### 207. How can malicious programs be delivered to a system?
+
+Malicious programs can be delivered through:
+
+- **USB drives or external devices**
+    
+- **downloads from unsafe websites**
+    
+- **emails with malicious links or attachments**
+    
+
+---
+
+### 208. What is the main characteristic of adware?
+
+The main characteristic of adware is that it **automatically displays unwanted advertisements** on the user’s device.
+
+---
+
+### 209. Does adware generally have malicious intent?
+
+No, adware **does not generally have malicious intent**, although it can sometimes:
+
+- collect user data
+    
+- affect system performance
+    
+
+---
+
+### 210. Is spam considered proper malware?
+
+No, spam is **not considered proper malware**, but it is often **used to spread malware**.
+
+---
+
+### 211. What is the definition of spam?
+
+Spam is the **bulk sending of unsolicited messages**, especially emails, usually for advertising purposes.
+
+---
+
+### 212. What is a "bug" in the context of computer programs?
+
+A bug is a **flaw or error in a program or source code** caused by human mistakes.
+
+---
+
+### 213. Why are security bugs considered dangerous?
+
+Security bugs are dangerous because they can:
+
+- allow hackers to **bypass security systems**
+    
+- **steal sensitive data**
+    
+- compromise the entire system
+    
+
+---
+
+### 214. What is the significance of a sophisticated malware attack having a link to a hacker-controlled server?
+
+It means that the malware can:
+
+- **communicate with the hacker’s server**
+    
+- **steal data remotely**
+    
+- allow the hacker to **control the infected device**
+    
+
+---
+
+
+
+💡 **Frase top da dire all’orale:**  
+👉 _“Malware can be delivered through emails, downloads or external devices, and advanced attacks can even allow remote control of infected systems.”_
+
+---
+
+Se vuoi, possiamo fare:  
+🔥 simulazione interrogazione su sicurezza  
+🔥 oppure schema riassuntivo di tutto capitolo 6 in 1 pagina
+
+
+
+
+Of course — here is a **perfect study explanation in English**, clear, complete, and suitable for an oral exam.
+
+---
+
+# 🛡️ Protection Against Risks
+
+Computers can be damaged or attacked by viruses, malware, and other security threats.  
+To protect a computer, three basic elements are needed:
+
+- **efficient antivirus software**
+    
+- **a firewall**
+    
+- **good user precautions**
+    
+
+These three elements work together to reduce the risk of infection, data loss, and unauthorized access.
+
+---
+
+## 🦠 Antivirus Software
+
+Antivirus software is an application used to **detect, scan, and remove viruses** from a computer.
+
+Most antivirus programs include:
+
+- **automatic scanning**
+    
+- **manual scanning**
+    
+
+### Automatic scanning
+
+This type of scan works regularly and checks:
+
+- files downloaded from the Internet
+    
+- storage devices inserted into the computer
+    
+- the entire hard drive
+    
+
+### Manual scanning
+
+This option allows the user to:
+
+- scan the whole system
+    
+- scan only specific files when necessary
+    
+
+Antivirus programs must be updated regularly because **new viruses are constantly being created**.  
+For this reason, antivirus software keeps a **database of virus types** and updates it often.
+
+Many antivirus programs also protect against:
+
+- malware
+    
+- spyware
+    
+
+Some even include firewall features.
+
+### Types of antivirus software
+
+There are three main kinds:
+
+1. **Stand-alone antivirus software**
+    
+    - the simplest type
+        
+    - only removes viruses
+        
+2. **Malware protection antivirus software**
+    
+    - detects viruses
+        
+    - protects against malware and spyware
+        
+3. **Antivirus security suite**
+    
+    - a complete package
+        
+    - includes antivirus protection, firewall protection, and sometimes malware protection too
+        
+
+---
+
+## 🔥 Firewall
+
+A firewall is a **network security system** that prevents **unauthorized access** to or from a private network.
+
+It works like a filter:
+
+- every message entering or leaving the network passes through the firewall
+    
+- the firewall checks the message
+    
+- it blocks messages that do not meet security rules
+    
+
+Firewalls can be:
+
+- **hardware firewalls**
+    
+- **software firewalls**
+    
+- or both together
+    
+
+### Hardware firewall
+
+- can be bought as a separate device
+    
+- often built into broadband routers
+    
+
+### Software firewall
+
+- installed directly on the computer
+    
+- can be customized by the user
+    
+
+A firewall is important because it helps protect the computer from unwanted connections and suspicious traffic.
+
+---
+
+## ✅ Best Practices to Protect Data Against Risks
+
+Good security also depends on the user.  
+Even the best antivirus is not enough if the user behaves carelessly.
+
+Here are the most important precautions:
+
+- **Always install operating system updates**
+    
+- **Use licensed programs and keep them updated**
+    
+- **Do not use the same password for every site**
+    
+- **Back up data regularly**
+    
+- **Enable the display of file extensions**
+    
+- **Do not download programs from unknown sources**
+    
+- **Do not open attachments from unknown people**
+    
+- **Ignore fake prize emails or messages about money**
+    
+- **Ignore pop-ups saying the computer is infected**
+    
+- **Close fake Windows alert pop-ups**
+    
+- **Be careful when using peer-to-peer software**
+    
+- **Watch out for bundled toolbars or unwanted programs during installation**
+    
+- **Read the End User License Agreement when installing software**
+    
+
+These habits are important because many infections happen not because of a weak computer, but because of unsafe user behaviour.
+
+---
+
+# 📘 Quick Glossary
+
+- **Antivirus software** → program that detects and removes viruses
+    
+- **Automatic scan** → regular scan done by the antivirus
+    
+- **Manual scan** → scan started by the user
+    
+- **Database of virus types** → list used by antivirus to recognize threats
+    
+- **Firewall** → system that blocks unauthorized network access
+    
+- **Hardware firewall** → physical firewall device
+    
+- **Software firewall** → firewall installed on the computer
+    
+- **Backup** → copy of data saved for recovery
+    
+- **Peer-to-peer software** → software that allows users to share files directly
+    
+- **End User License Agreement (EULA)** → legal agreement accepted when installing software
+    
+
+---
+
+# 🎯 Perfect oral summary
+
+A computer is protected against risks by using antivirus software, a firewall, and safe user behaviour. Antivirus software scans and removes viruses, firewalls block unauthorized access, and good precautions help avoid infections and data loss.
+
+If you want, I can also turn this into **short oral-answer questions and answers** for easy memorization.
+
+
+Certainly — here are the answers in clear English, based on the text.
+
+---
+
+# 📚 Answers – Antivirus Software and Firewall
+
+## **Antivirus Software**
+
+### **215. What is antivirus software primarily used for?**
+
+Antivirus software is primarily used for **scanning and removing viruses from computers**.
+
+---
+
+### **216. What two types of scanning do most antivirus programs include?**
+
+Most antivirus programs include:
+
+- **automatic scanning**
+    
+- **manual scanning**
+    
+
+---
+
+### **217. What does an automatic scan typically check?**
+
+An automatic scan typically checks:
+
+- files downloaded from the Internet
+    
+- storage devices inserted into the computer
+    
+- the entire hard drive
+    
+
+---
+
+### **218. When would a user utilize the manual scan option?**
+
+A user would use the manual scan option when they want to:
+
+- scan the entire system
+    
+- scan individual files whenever necessary
+    
+
+---
+
+### **219. Why do antivirus programs regularly update their database of virus types?**
+
+They regularly update their database because **new viruses are constantly being created**, so antivirus software must stay updated to recognize and remove them.
+
+---
+
+### **220. Besides viruses, what else do most antivirus programs protect against?**
+
+Most antivirus programs also protect against **other types of malware**, and some also protect against **spyware**.
+
+---
+
+### **221. Name the three classifications of antivirus software based on their functions.**
+
+The three classifications are:
+
+1. **Stand-alone antivirus software**
+    
+2. **Malware protection antivirus software**
+    
+3. **Antivirus software security suite**
+    
+
+---
+
+### **222. What is the most basic type of antivirus software, and what does it do?**
+
+The most basic type is **stand-alone antivirus software**.  
+It only **removes viruses**.
+
+---
+
+### **223. What does "malware protection antivirus software" combine?**
+
+It combines:
+
+- **virus detection**
+    
+- **malware protection**
+    
+- **spyware protection**
+    
+
+---
+
+### **224. What is typically included in an "antivirus software security suite"?**
+
+An antivirus software security suite usually includes:
+
+- **antivirus protection**
+    
+- **firewall protection**
+    
+- sometimes a combination of **malware, firewall, and antivirus protection**
+    
+
+---
+
+# 🔥 Firewall
+
+### **225. What is the main purpose of a firewall?**
+
+The main purpose of a firewall is to **prevent unauthorized access to or from a private network**.
+
+---
+
+### **226. How does a firewall regulate messages entering or leaving a private network?**
+
+A firewall checks all messages entering or leaving the private network and **blocks those that do not meet the specified security criteria**.
+
+---
+
+### **227. Can firewalls be hardware, software, or both?**
+
+Yes, firewalls can be:
+
+- **hardware**
+    
+- **software**
+    
+- or a **combination of both**
+    
+
+---
+
+### **228. Where are hardware firewalls often found or purchased?**
+
+Hardware firewalls can be:
+
+- bought as a **stand-alone product**
+    
+- often found in **broadband routers**
+    
+
+---
+
+### **229. What is a key characteristic of software firewalls?**
+
+A key characteristic of software firewalls is that they are:
+
+- **installed on the computer**
+    
+- **customisable**, so the user can control their functions
+    
+
+---
+
+If you want, I can continue with the **network security, copyright and copyleft questions** in the same style.
+  Perfetto 💯 questo è **uno degli argomenti più importanti** (criptografia + sicurezza).  
+Ti faccio una spiegazione **perfetta, chiara e da interrogazione alta**, seguendo anche lo stile che preferisci 👇
+
+---
+Here is a **clear, complete, and perfect explanation in English**, ideal for studying and oral exams.
+
+---
+
+# 🛡️ PROTECTION AGAINST RISKS – COMPLETE EXPLANATION
+
+Computers are exposed to many risks such as **viruses, malware, data loss, and unauthorized access**.  
+To protect a system effectively, three main elements are required:
+
+- **Antivirus software**
+    
+- **A firewall**
+    
+- **Safe user behaviour (best practices)**
+    
+
+These elements work together to guarantee a high level of protection.
+
+---
+
+## 🦠 Antivirus Software
+
+Antivirus software is a program used to **detect, scan, and remove viruses** from a computer.
+
+### 🔍 Types of scanning
+
+Most antivirus programs include:
+
+- **Automatic scanning** → runs regularly without user intervention
+    
+- **Manual scanning** → started by the user when needed
+    
+
+### 📌 What automatic scanning checks:
+
+- downloaded files
+    
+- external devices (USB drives, etc.)
+    
+- the entire hard drive
+    
+
+Manual scanning is useful when:
+
+- you suspect a problem
+    
+- you want to check specific files or the whole system
+    
+
+### 🔄 Updates
+
+Antivirus software regularly updates a **database of virus definitions** because:
+
+- new viruses are constantly created
+    
+- updated databases allow detection of new threats
+    
+
+### 🛡️ Additional protection
+
+Modern antivirus programs also protect against:
+
+- malware
+    
+- spyware
+    
+
+Some include firewall features.
+
+### 📊 Types of antivirus software
+
+1. **Stand-alone antivirus**
+    
+    - basic version
+        
+    - only removes viruses
+        
+2. **Malware protection antivirus**
+    
+    - protects against viruses, malware, and spyware
+        
+3. **Antivirus security suite**
+    
+    - complete protection package
+        
+    - includes antivirus + firewall + other security tools
+        
+
+---
+
+## 🔥 Firewall
+
+A firewall is a **network security system** that protects a computer or network from **unauthorized access**.
+
+### ⚙️ How it works:
+
+- all incoming and outgoing data passes through the firewall
+    
+- the firewall checks each message
+    
+- it blocks anything that does not meet security rules
+    
+
+### 🧱 Types of firewalls
+
+- **Hardware firewall**
+    
+    - physical device
+        
+    - often found in routers
+        
+- **Software firewall**
+    
+    - installed on the computer
+        
+    - customizable by the user
+        
+- **Combination**
+    
+    - both hardware and software together for stronger protection
+        
+
+👉 A firewall acts like a **security gate**, controlling network traffic.
+
+---
+
+## ✅ Best Practices to Protect Data
+
+Technology alone is not enough — **user behaviour is essential**.
+
+### 🔐 Important rules:
+
+- Install **operating system updates**
+    
+- Use **licensed and updated software**
+    
+- Do not reuse the same **password**
+    
+- **Back up data regularly**
+    
+- Enable **file extensions visibility**
+    
+- Avoid downloading from **unknown sources**
+    
+- Do not open **suspicious email attachments**
+    
+- Ignore **fake prize or scam emails**
+    
+- Close **fake virus alert pop-ups**
+    
+- Be careful with **peer-to-peer software**
+    
+- Watch for **unwanted programs during installation**
+    
+- Read the **End User License Agreement (EULA)**
+    
+
+👉 Many cyber attacks succeed because of **human error**, not technical failure.
+
+---
+
+## 💻 Best Practices (Extended Concept)
+
+“Best practices” means using **methods proven to be effective** in protecting systems and data.
+
+It includes:
+
+- correct computer use
+    
+- safe data storage
+    
+
+---
+
+## ⚙️ Safe Startup and Shutdown
+
+When a computer starts:
+
+- BIOS loads
+    
+- hardware is checked
+    
+- system settings and OS are loaded
+    
+
+⚠️ Important:  
+Never turn off a computer by cutting power suddenly because:
+
+- files may be corrupted
+    
+- data may be lost
+    
+- the system may be damaged
+    
+
+Always use the **proper shutdown procedure**.
+
+---
+
+## 📁 Data Storage and Security
+
+- Files are organized in **folders and subfolders** (hierarchical system)
+    
+- Files should have **clear and meaningful names**
+    
+
+### 🔒 Two key concepts:
+
+- **Security** → protects data from unauthorized access
+    
+- **Integrity** → ensures data is accurate and reliable
+    
+
+👉 Regular **backups** are essential to prevent data loss.
+
+---
+
+## 🛠️ Troubleshooting
+
+Troubleshooting is the process of **solving simple hardware or software problems**.
+
+### Examples:
+
+- restarting the computer
+    
+- reinstalling software
+    
+- checking FAQs or support websites
+    
+- contacting technical support
+    
+
+---
+
+# 🎯 PERFECT ORAL SUMMARY
+
+To protect a computer against risks, it is essential to use antivirus software, a firewall, and follow best practices. Antivirus software detects and removes threats, firewalls block unauthorized access, and correct user behaviour prevents most problems. Regular updates, backups, and safe usage habits are fundamental for maintaining data security and system integrity.
+
+---
+
+If you want, I can turn this into a **super short version for quick revision (1-minute answer)** or **exam questions** 👍
+
+
+
+Of course — here are the answers in clear English, based on the material and standard definitions.
+
+---
+
+# 📚 Answers – Network Security, Secure Servers, Copyright, and Cookies
+
+## **Network Security**
+
+### **230. What does network security consist of?**
+
+Network security consists of a series of **policies and practices** used to **prevent and monitor unauthorized access** to a computer network and its resources.
+
+### **231. What is the purpose of "identification" in network security?**
+
+Identification is used to **identify the user**, usually by means of a **username or user ID**.
+
+### **232. What is the purpose of "authentication" in network security?**
+
+Authentication is used to **prove that the user is really who they say they are**.  
+It is often done with:
+
+- a password
+    
+- something the user has, such as a smart card
+    
+- something the user is, such as a fingerprint or retina scan
+    
+
+### **233. What does "authorization" determine in a network security system?**
+
+Authorization determines **what the user is allowed to do** on the system.  
+For example, a user may have:
+
+- read-only access
+    
+- partial access
+    
+- full access
+    
+
+---
+
+## **Secure Servers**
+
+### **234. Why is it important to use a secure server when transferring personal information over the internet?**
+
+It is important because personal information, such as credit card numbers, must be protected from being **exposed during transfer**.
+
+### **235. How does a secure server protect data during transfer?**
+
+A secure server protects data by **encrypting it**, so it becomes unreadable except to the intended recipient.
+
+### **236. Name three ways secure websites can be verified.**
+
+Secure websites can be recognized by:
+
+1. a **padlock symbol** in the browser window
+    
+2. a web address that begins with **https://**
+    
+3. a **green address bar** or green website owner’s name
+    
+
+---
+
+## **Copyright**
+
+### **237. What is copyright?**
+
+**Copyright** is a legal right that grants creators **exclusive control** over the **use, distribution, reproduction, and adaptation** of their original works of authorship.  This protection applies automatically to a wide range of creative expressions, including **literary works, music, software, films, and artistic creations**, as soon as they are fixed in a tangible form
+
+### **238. What two types of rights does copyright include?**
+
+Copyright includes:
+
+- **economic rights**
+    
+- **moral rights**
+    
+
+### **239. What do "economic rights" under copyright refer to?**
+
+Economic rights refer to the creator’s right to **prevent others from using or exploiting the work without permission** and to **charge a fee or royalty** for its reproduction.
+
+### **240. What do "moral rights" under copyright include?**
+
+Moral rights include:
+
+- the right to be **recognized as the author**
+    
+- the right to protect the work from **mutilation or distortion**
+    
+
+### **241. What is the main strategy behind copyleft?**
+
+The main strategy behind copyleft is to use copyright law to **encourage free sharing, modification, and improvement** of creative works.
+
+### **242. Who chooses copyleft licenses for creative works?**
+
+The **copyright holders** choose copyleft licenses for their own works.
+
+### **243. What is the benefit of using copyleft licenses for creative works?**
+
+Copyleft licenses encourage:
+
+- collaboration
+    
+- sharing
+    
+- improvement of creative works
+    
+- the creation of communities that work together
+    
+
+---
+
+## **Cookies**
+
+### **244. What are cookies?**
+
+Cookies are **small text files** stored on a user’s device by websites.
+
+### **245. Name two purposes for which cookies are used.**
+
+Cookies are used to:
+
+- remember user preferences
+    
+- store login information
+    
+- track browsing activity
+    
+
+### **246. What does the EU Cookie Law require when a customer enters a website with cookies?**
+
+The EU Cookie Law requires websites to **inform the user about cookies and ask for consent** before storing them.
+
+### **247. How do some websites often influence user consent regarding cookies?**
+
+Some websites make the cookie notice very prominent or difficult to ignore, so users are often pushed to **accept cookies quickly** in order to continue using the site.
+
+
+
+
+Here is a **clear, structured explanation in English**, perfect for studying 👇
+
+---
+
+# 🔐 Hacker Types – The Good, the Bad and the Ugly
+
+Hackers are people who use their technical skills to access computer systems. However, **not all hackers are the same**. They can be divided into three main categories:
+
+### ✅ Good hackers (ethical)
+
+They work to **improve security** by finding vulnerabilities and fixing them.
+
+### ❌ Bad hackers (criminal)
+
+They **attack systems illegally** to:
+
+- steal data
+    
+- damage systems
+    
+- make money
+    
+
+### ⚠️ Ugly hackers (unethical but not always illegal)
+
+They **do not always commit crimes**, but they behave in ways that are ethically questionable.
+
+---
+
+# 🧠 Types of Hackers (Detailed)
+
+### ⚪ White Hats (Good hackers)
+
+- Authorized to test systems
+    
+- Help improve security
+    
+- Work legally
+    
+
+---
+
+### ⚫ Black Hats (Bad hackers)
+
+- Real cybercriminals (“crackers”)
+    
+- Break into systems illegally
+    
+- Steal or destroy data
+    
+
+---
+
+### ⚪⚫ Grey Hats (Ugly hackers)
+
+- Not criminals, but not ethical either
+    
+- Find vulnerabilities and **publish them without permission**
+    
+
+---
+
+### 🔵 Blue Teams
+
+- Security professionals defending systems
+    
+- Protect against attacks
+    
+- Work with Red Teams
+    
+
+---
+
+### 🔴 Red Teams
+
+- Ethical hackers simulating real attacks
+    
+- Act like black hats to test security
+    
+
+---
+
+### 🧒 Script Kiddies
+
+- Low-skilled hackers
+    
+- Use ready-made tools
+    
+- Often harass individuals
+    
+
+---
+
+### 🕵️ Spy Hackers
+
+- Involved in **corporate espionage**
+    
+- Steal confidential business information
+    
+
+---
+
+### 💣 Cyberterrorists
+
+- Aim to **create fear and destruction**
+    
+- Can cause real-world damage
+    
+
+---
+
+### ✊ Hacktivists
+
+- Motivated by **political, social, or religious causes**
+    
+- Attack systems to promote their beliefs
+    
+
+---
+
+### 💰 Cyber-Mercenaries
+
+- Hackers for hire
+    
+- Work for whoever pays them
+    
+
+---
+
+### 🏛️ State-Sponsored Hackers
+
+- Supported by governments
+    
+- Used for cyberwarfare or intelligence
+    
+
+---
+
+### 🕴️ Organised Crime
+
+- Groups like a “digital mafia”
+    
+- Focus on **financial gain**
+    
+
+---
+
+### 🧑‍💼 Malicious Insiders
+
+- Employees or insiders
+    
+- Abuse their access to harm the organization
+    
+
+---
+
+# 🧠 Psychological Characteristics of Hackers
+
+Two main traits:
+
+### 1. Openness to experience
+
+- They **love challenges**
+    
+- Enjoy solving complex problems (e.g., breaking security systems)
+    
+
+### 2. Neuroticism (low emotional stability)
+
+- Tend to be:
+    
+    - emotionally reactive
+        
+    - aggressive
+        
+- This can lead to risky or unethical behavior
+    
+
+---
+
+# 🎯 Key Idea to Remember
+
+👉 Not all hackers are criminals.
+
+- **White hats protect systems**
+    
+- **Black hats attack systems**
+    
+- Others fall somewhere in between depending on ethics and intentions
+    
+
+---
+
+If you want, I can turn this into a **super short summary for memorization** or **possible exam questions** 👍
+
+
+Sure — here are the answers in clear English, in a style suitable for study and oral practice.
+
+---
+
+# 📚 Answers – The Profile of an Ethical Hacker
+
+## **248. What is the primary goal of ethical hackers?**
+
+The primary goal of ethical hackers is to **find security weaknesses in systems before malicious hackers do**.  
+Their purpose is to help protect computers, networks, and data by identifying vulnerabilities and reporting them so they can be fixed.
+
+---
+
+## **249. How do ethical hackers differ from malicious hackers?**
+
+Ethical hackers work **with permission** and follow legal and professional rules.  
+They try to improve security.
+
+Malicious hackers, instead, break into systems **without permission** in order to:
+
+- steal data
+    
+- damage systems
+    
+- spread malware
+    
+- commit crimes
+    
+
+So the main difference is **intent and authorization**.
+
+---
+
+## **250. What is a penetration test, and why do companies conduct them?**
+
+A penetration test is a **simulated attack on a computer system or network** carried out to check whether it is secure.
+
+Companies conduct penetration tests to:
+
+- discover vulnerabilities
+    
+- test their defences
+    
+- reduce the risk of real attacks
+    
+- improve overall cybersecurity
+    
+
+---
+
+## **251. What kind of vulnerabilities do ethical hackers look for in systems?**
+
+Ethical hackers look for weaknesses such as:
+
+- weak passwords
+    
+- software bugs
+    
+- insecure configurations
+    
+- outdated software
+    
+- open ports
+    
+- poor authentication systems
+    
+- unprotected data access
+    
+
+In general, they search for anything that could let an attacker gain unauthorized access.
+
+---
+
+## **252. What skills or knowledge are important for becoming an ethical hacker?**
+
+An ethical hacker needs knowledge of:
+
+- computer networks
+    
+- operating systems
+    
+- programming
+    
+- cybersecurity tools
+    
+- cryptography
+    
+- web security
+    
+- system vulnerabilities
+    
+
+They also need:
+
+- problem-solving skills
+    
+- analytical thinking
+    
+- attention to detail
+    
+- knowledge of how attackers work
+    
+
+---
+
+## **253. What is the significance of obtaining a certification like Certified Ethical Hacker (CEH)?**
+
+A certification like **CEH (Certified Ethical Hacker)** shows that a person has formal training and recognized skills in ethical hacking.
+
+It is important because it:
+
+- proves professional competence
+    
+- increases credibility
+    
+- can improve job opportunities
+    
+- shows that the person understands legal and ethical security testing
+    
+
+---
+
+## **254. What are the two contrasting types of hackers mentioned in the text?**
+
+The two contrasting types are:
+
+- **white hats** → ethical hackers who work legally to protect systems
+    
+- **black hats** → malicious hackers who attack systems illegally
+    
+
+---
+
+## **255. Why is the work of ethical hackers important for society?**
+
+The work of ethical hackers is important because they help:
+
+- protect personal and corporate data
+    
+- prevent cyber attacks
+    
+- improve online safety
+    
+- secure critical systems and services
+    
+
+Their work reduces the damage caused by cybercrime and makes digital environments safer for everyone.
+
+---
+
+## **256. How does the demand for ethical hackers relate to the rise of cyber crimes?**
+
+As cyber crimes increase, companies and organisations need more professionals who can defend their systems.  
+This has created a higher demand for ethical hackers because they help identify weaknesses before criminals can exploit them.
+
+So, the rise of cybercrime has made ethical hacking a very important and growing profession.
+
+---
+
+## **257. In what ways do ethical hackers contribute to the security of personal data?**
+
+Ethical hackers protect personal data by:
+
+- finding and fixing security flaws
+    
+- testing systems for vulnerabilities
+    
+- improving authentication and access control
+    
+- helping organisations secure databases and websites
+    
+- reducing the risk of data theft or unauthorized access
+    
+
+In this way, they help keep users’ private information safe.
+
+---
+
+If you want, I can also turn these into a **short memorization version** or make a **single connected oral answer** about ethical hackers.
+---
+
+If you want, I can also make these into a **short version for memorization** or a **question-and-answer sheet for oral practice**.
+# 🔐 **Computer Protection – Cryptography**
+
+## 🔹 **What is Cryptography?**
+
+Cryptography is the study and practice of **protecting information** by making it unreadable to unauthorized users.
+
+👉 It works by transforming:
+
+- **plaintext (cleartext)** → readable message
+    
+- into **ciphertext** → unreadable message
+    
+
+---
+
+## 🔹 **Encryption and Decryption**
+
+- **Encryption** → converts plaintext into ciphertext using an algorithm and a key
+    
+- **Decryption** → converts ciphertext back into plaintext using the same or a related key
+    
+
+👉 The system is secure because:
+
+- the algorithm is **difficult to reverse without the key**
+    
+
+---
+
+# 🔑 **Types of Cryptography**
+
+## 🔹 **1. Symmetric (Private Key) Cryptography**
+
+- uses **one single key**
+    
+- the same key is used for:
+    
+    - encryption
+        
+    - decryption
+        
+
+✔ Advantage:
+
+- fast and efficient
+    
+
+❗ Disadvantage:
+
+- the key must be **shared**, which is risky
+    
+
+---
+
+## 🔹 **2. Asymmetric (Public Key) Cryptography**
+
+- uses **two keys**:
+    
+    - **public key** → shared with everyone
+        
+    - **private key** → kept secret
+        
+
+👉 Process:
+
+- anyone can encrypt using the public key
+    
+- only the owner can decrypt using the private key
+    
+
+✔ Example:
+
+- **digital signatures**
+    
+
+---
+
+# 🎯 **Objectives of Cryptography**
+
+Modern cryptography has **four main goals**:
+
+### 🔐 **Confidentiality**
+
+- only authorized users can read the data
+    
+
+---
+
+### 🔍 **Integrity**
+
+- data cannot be changed without detection
+    
+
+---
+
+### ✍️ **Non-repudiation**
+
+- the sender cannot deny sending the message
+    
+
+---
+
+### 👤 **Authentication**
+
+- verifies identity of sender and receiver
+    
+
+---
+
+# 🛡️ **Protection Against Risks**
+
+To protect a computer, we use:
+
+- antivirus software
+    
+- firewall
+    
+- safe user behaviour
+    
+
+---
+
+# 🦠 **Antivirus Software**
+
+Antivirus software is used to:
+
+- detect
+    
+- scan
+    
+- remove viruses and malware
+    
+
+---
+
+## 🔹 **Types of antivirus**
+
+- **Stand-alone antivirus** → removes only viruses
+    
+- **Malware protection software** → protects from viruses + malware
+    
+- **Security suite** → includes antivirus + firewall
+    
+
+---
+
+## 🔹 **Features**
+
+- **automatic scanning** → checks system regularly
+    
+- **manual scanning** → user scans files when needed
+    
+
+👉 It also updates constantly to detect new threats.
+
+---
+
+# 🔥 **Firewall**
+
+A firewall is a system that:
+
+- controls network traffic
+    
+- blocks unauthorized access
+    
+
+👉 It acts like a **security barrier** between:
+
+- a private network
+    
+- external networks (like the Internet)
+    
+
+---
+
+## 🔹 **Types of firewall**
+
+- **Hardware firewall** → built into routers or devices
+    
+- **Software firewall** → installed on the computer
+    
+
+---
+
+## 🔹 **Function**
+
+- examines all incoming and outgoing data
+    
+- allows or blocks it based on security rules
+    
+
+---
+
+# 📘 **Glossary (Key Terms)**
+
+- **Cryptography** → protection of information
+    
+- **Plaintext** → readable data
+    
+- **Ciphertext** → encrypted data
+    
+- **Encryption** → making data unreadable
+    
+- **Decryption** → restoring original data
+    
+- **Key** → secret code used in encryption
+    
+- **Symmetric cryptography** → one key system
+    
+- **Asymmetric cryptography** → two keys system
+    
+- **Antivirus** → software to detect malware
+    
+- **Firewall** → network security system
+    
+
+---
+
+# 🎯 **Perfect sentence for the oral exam**
+
+👉 _“Cryptography protects data by encrypting it into an unreadable form, ensuring confidentiality, integrity, authentication, and non-repudiation.”_
+
+---
+
+Se vuoi (molto importante per interrogazione‼️):
+
+- ti preparo le **3 domande principali su crittografia (RSA, HTTPS, firme digitali)**
+    
+- oppure ti faccio una **spiegazione identica a quella che vuole il prof su symmetric vs asymmetric + HTTPS** 🔐
+
+
+  
+  Perfetto, ti faccio **spiegazione + risposte** in modo chiaro e perfetto per studiare (come stai facendo 👍).
+
+---
+Perfetto 👍 queste sono domande più specifiche (tipo interrogazione su cifrari classici). Ti rispondo in modo **chiaro ma un po’ approfondito** 👇
+
+---
+
+# 🔐 ANSWERS – Caesar Cipher (258–261)
+
+### 258. What is the Caesar Cipher?
+
+The Caesar Cipher is a **simple encryption technique** used to protect messages by **shifting the letters of the alphabet**.
+
+It is one of the **oldest and most basic cryptographic methods**.
+
+---
+
+### 259. What type of cipher is the Caesar Cipher?
+
+The Caesar Cipher is a **substitution cipher**, because:
+
+- each letter in the plaintext is **replaced** by another letter
+    
+
+More specifically, it is a **monoalphabetic substitution cipher**, since:
+
+- each letter is always replaced in the same way
+    
+
+---
+
+### 260. How does the Caesar Cipher work?
+
+The Caesar Cipher works by **shifting each letter of the alphabet** by a fixed number of positions.
+
+👉 Example (shift of 3):
+
+- A → D
+    
+- B → E
+    
+- C → F
+    
+
+So:
+
+- “HELLO” → “KHOOR”
+    
+
+👉 To decrypt:
+
+- you shift the letters **backwards** by the same number
+    
+
+---
+
+### 261. Who famously used the Caesar Cipher, and for what purpose?
+
+The Caesar Cipher was famously used by **Julius Caesar**.
+
+👉 He used it to:
+
+- **send secret military messages**
+    
+- **protect communication** from enemies
+    
+
+---
+
+💡 **Frase perfetta da dire all’orale:**  
+👉 _“The Caesar Cipher is a simple substitution cipher that shifts letters in the alphabet and was used by Julius Caesar to protect military communications.”_
+
+---

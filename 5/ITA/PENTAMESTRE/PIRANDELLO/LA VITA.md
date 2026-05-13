@@ -1,4 +1,4 @@
-3## **Vita di Luigi Pirandello (1867-1936)**
+## **Vita di Luigi Pirandello (1867-1936)**
 
 ### 1. **Origini e formazione**
 
@@ -35,7 +35,7 @@
 - Nel **1904** ottiene un grande successo con **"Il fu Mattia Pascal"**.
     
     - Questo romanzo introduce già temi centrali: l’alienazione, l’identità, la crisi dei ruoli sociali.
-        
+        w
 - Collabora con il **Corriere della Sera**, pubblicando novelle e racconti.
     
 

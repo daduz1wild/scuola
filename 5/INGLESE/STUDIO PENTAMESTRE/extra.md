@@ -1,4 +1,177 @@
 
+
+Perfetto 👍 ti faccio una **spiegazione completa, chiara e perfetta per studiare/interrogazione** 👇
+
+---
+
+# 🔐 CRYPTOGRAPHY – PERFECT EXPLANATION
+
+## 📌 What is Cryptography?
+
+Cryptography is the **study and practice of protecting information** by transforming it so that **only authorized people can read it**.
+
+👉 In simple terms:
+
+- It hides information from unauthorized users
+    
+
+---
+
+## 🔄 Encryption and Decryption
+
+### 🔒 Encryption
+
+Encryption is the process of:
+
+- converting **plaintext (original message)**  
+    👉 into
+    
+- **ciphertext (encoded message)**
+    
+
+This is done using:
+
+- a **mathematical algorithm**
+    
+- a **key** (secret information)
+    
+
+👉 Result: the message becomes **unreadable**
+
+---
+
+### 🔓 Decryption
+
+Decryption is the **reverse process**:
+
+- it converts ciphertext back into **readable plaintext**
+    
+
+👉 It requires the **correct key**
+
+---
+
+### ⚠️ Why is it secure?
+
+Because:
+
+- the algorithm is **not easily reversible**
+    
+- without the key, the message cannot be understood
+    
+
+---
+
+## 🔑 Types of Cryptography
+
+### 1. Symmetric Cryptography (Private Key)
+
+- Uses **one single key**
+    
+- Same key for:
+    
+    - encryption
+        
+    - decryption
+        
+
+👉 Problem:
+
+- both sender and receiver must **share the secret key**, which can be risky
+    
+
+---
+
+### 2. Asymmetric Cryptography (Public Key)
+
+- Uses **two keys**:
+    
+    - **Public key** → shared with everyone
+        
+    - **Private key** → kept secret
+        
+
+👉 How it works:
+
+- anyone can encrypt using the **public key**
+    
+- only the owner can decrypt using the **private key**
+    
+
+👉 Example:
+
+- **Digital signatures**
+    
+
+---
+
+## 🎯 Objectives of Cryptography
+
+Modern cryptography has **4 main goals**:
+
+### 1. Confidentiality
+
+- Only authorized people can **read the information**
+    
+
+---
+
+### 2. Integrity
+
+- Data **cannot be modified** without detection
+    
+
+---
+
+### 3. Non-repudiation
+
+- The sender **cannot deny** sending the message
+    
+
+---
+
+### 4. Authentication
+
+- Both sender and receiver can **verify each other’s identity**
+    
+
+---
+
+# 🧠 SUPER SUMMARY (DA MEMORIZZARE)
+
+👉 _Cryptography protects data by encrypting it into ciphertext using a key, and decrypting it back into plaintext._
+
+👉 Two types:
+
+- **Symmetric → one key**
+    
+- **Asymmetric → public + private key**
+    
+
+👉 Four objectives:
+
+- Confidentiality
+    
+- Integrity
+    
+- Authentication
+    
+- Non-repudiation
+    
+
+---
+
+💡 **Frase perfetta da dire all’orale:**  
+👉 _“Cryptography ensures secure communication by encrypting data and guarantees confidentiality, integrity, authentication, and non-repudiation.”_
+
+---
+
+Se vuoi, prossimo passo 🔥:  
+➡️ ti faccio le **domande tipiche su questo argomento (molto probabili all’interrogazione)**  
+➡️ oppure passiamo a **RSA + HTTPS spiegazione perfetta (super importante)**
+
+
+
 Perfect — here are the complete and discursive answers for the **new questions** (I’ll skip the ones already answered, but keep all the others at the same level of detail and in your textbook’s vocabulary and tone).  
 We’ll go section by section 👇
 
@@ -88,98 +261,96 @@ Sure! Here are complete but concise answers using only the vocabulary and style 
 
 ---
 
-**1. What is a word processor used for?**  
+*36. What is a word processor used for?**  
 A word processor is used to write and manipulate text documents. It allows users to create, edit, save, and print different kinds of texts, such as letters, reports, CVs, and leaflets. It also provides tools for formatting and editing text, making writing tasks easier and faster.
 
 ---
 
-**2. What are the main functions of a word processor?**  
+**39. What are the main functions of a word processor?**  
 The main functions of a word processor are text formatting and text editing. Text formatting deals with the appearance of the text, such as choosing the font type and size or using bold and italics. Text editing focuses on the content, allowing the user to insert, delete, copy, move, or correct text.
 
 ---
 
-**3. What is text formatting in a word processor?**  
+**40. What is text formatting in a word processor?**  
 Text formatting refers to how the text looks on the page. It includes changing the font type and size, bolding, underlining, italicising, and adjusting the layout, such as margins and page orientation. Formatting helps to make the text clearer and more visually attractive.
 
 ---
 
-**4. What is text editing in a word processor?**  
+*41. What is text editing in a word processor?**  
 Text editing refers to the modification of the content of a document. It includes inserting new text, deleting or moving parts of the text, and copying text to another position. It also includes saving, printing, and correcting spelling and grammar mistakes.
 
 ---
 
-**5. What are some important features of word processors?**  
+**42. What are some important features of word processors?**  
 Important features of word processors include layout control, revision tools, and templates. The layout defines the orientation and margins of the page. The revision feature allows multiple users to add notes or corrections that can be accepted or rejected. Templates make repetitive tasks easier by providing ready-made models for letters or documents.
 
 ---
 
-**6. How has the use of word processors evolved from earlier versions?**  
+**43. How has the use of word processors evolved from earlier versions?**  
 Early word processors were simple programs used only to enter and edit text. Today, modern word processors can create more elaborate documents containing graphics, tables, and photos. They can also produce newsletters, web pages, and personalised letters through mail merge. They are now more powerful and often connected to cloud storage.
 
 ---
 
-**7. What are some examples of available word processing software?**  
+*44. What are some examples of available word processing software?**  
 Some examples of word processing software are Microsoft Word, Google Docs, Open Office Writer, Lotus Word Pro, and WPS Writer. Microsoft Word is the major player on the market, while Google Docs and Open Office Writer are free and, in the case of Open Office, also open-source.
 
 ---
 
-**8. What is a non-relational database?**  
+**45. What is a non-relational database?**  
 A non-relational database is a database that is not based on relationships between tables. It stores data in other structures such as single tables, networks, or objects. Non-relational databases include flat-file, network, and object-oriented databases.
 
 ---
 
-**9. What is a flat-file database?**  
+**46. What is a flat-file database?**  
 A flat-file database organises all data sequentially in one single table. It is simple to create and can be made with most spreadsheet or database programs. However, it is less flexible than other types because all data are stored together without relationships.
 
 ---
 
-**10. How is data organized in a network database?**  
+**47. How is data organized in a network database?**  
 In a network database, data are organised as entities connected by complex relationships. These entities are represented as nodes in a graph, and some of them can be accessed through several different paths. This structure allows more flexibility than a flat-file database.
 
 ---
 
-**11. What is an object-oriented database?**  
+**48. What is an object-oriented database?**  
 An object-oriented database stores data as objects that belong to classes. Each object is defined by its characteristics and methods. For example, the object “oak” belongs to the class “tree” and has specific properties. This type of database is useful when data are naturally organised as objects.
 
 ---
 
-**12. What is a relational database?**  
+**49. What is a relational database?**  
 A relational database stores data in separate tables that are linked together by key fields. Each table is made up of records and fields, and the key field uniquely identifies each record. This system allows users to create flexible queries and manage large amounts of information efficiently.
 
 ---
 
-**13. Why are relational databases predominant today?**  
+**50. Why are relational databases predominant today?**  
 Relational databases are predominant because they offer a high level of flexibility and power. They can create complex queries, manage large volumes of data, and ensure data integrity through the use of key fields and a DBMS. They are also very efficient for organising and retrieving information.
 
 ---
 
-**14. What is the first step in creating a database?**  
+**51. What is the first step in creating a database?**  
 The first step in creating a database is to decide what fields are needed for each table. Each field must have a name, a description of its contents, a data type, and a format. Defining these elements correctly ensures that the database can process and store data accurately.
 
 ---
 
-**15. What are the most common data types in databases?**  
+**52. What are the most common data types in databases?**  
 The most common data types are text, integers, real numbers, dates, and Boolean data. Text is used for characters, integers for whole numbers, real numbers for decimals, dates for calendar values, and Boolean data for values such as yes/no or true/false.
 
 ---
 
-**16. What is metadata in a database?**  
+**53. What is metadata in a database?**  
 Metadata is data about data. It includes information such as the names and descriptions of tables and fields, the type of each field, and the number of records. It does not contain actual data but explains how data are organised and managed. Metadata also includes a data dictionary and indexes.
 
 ---
 
-**17. What is a DBMS (Database Management System)?**  
+**54. What is a DBMS (Database Management System)?**  
 A DBMS is system software used to create and manage databases. It acts as an interface between the database and application programs. It manages data, the database engine, and the schema. It provides data security, integrity, and administration functions like backup and recovery.
 
 ---
 
-**18. What are database applications used for?**  
+**55. What are database applications used for?**  
 Database applications are programs that allow users to search, sort, calculate, and report data. They also help share information and protect it with passwords. Examples include Microsoft Access, FileMaker Pro, Oracle, SQL Server, and FoxPro.
 
 ---
 
-**19. What signs can help us to discover fake images?**  
-Fake images often show visual inconsistencies such as unnatural lighting, blurred edges, or mismatched reflections. Sometimes proportions or shadows look incorrect. Checking the source of the image and using reverse image search tools can also help to verify if an image is authentic or manipulated.
 
 ---
 

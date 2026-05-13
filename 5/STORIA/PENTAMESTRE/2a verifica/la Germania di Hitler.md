@@ -1186,3 +1186,225 @@ Se vuoi, posso anche:
 ✅ oppure farti **domande da interrogazione** per allenarti
 
 Dimmi tu 👍📖
+
+
+
+  Perfetto 👍  
+Questa parte è **fondamentale** perché spiega **come si arriva allo scoppio della Seconda Guerra Mondiale**.  
+Ti faccio una spiegazione **chiara, ordinata e con i collegamenti logici**, così capisci bene i passaggi e puoi studiarla per la verifica.
+
+---
+
+# 🌍 L’AGGRESSIVA POLITICA ESTERA DI HITLER
+
+## 1️⃣ L’obiettivo di Hitler
+
+Quando **Hitler** arriva al potere in Germania nel **1933**, ha un obiettivo molto chiaro:  
+👉 **distruggere il sistema internazionale creato dopo la Prima guerra mondiale**.
+
+Questo sistema era basato su:
+
+- il **Trattato di Versailles (1919)** → che aveva imposto pesanti limitazioni alla Germania;
+    
+- lo **spirito di Locarno** → accordi che dovevano garantire stabilità e pace in Europa.
+    
+
+Hitler considera questi accordi **umilianti per la Germania** e vuole eliminarli.
+
+---
+
+# ⚙️ Le prime mosse di Hitler
+
+## 1️⃣ Uscita dalla Società delle Nazioni (1933)
+
+La prima decisione importante è l’uscita della Germania dalla **Società delle Nazioni**, l’organizzazione internazionale creata per mantenere la pace.
+
+👉 Con questa scelta Hitler dimostra di **non voler più rispettare il sistema internazionale**.
+
+---
+
+## 2️⃣ Il riarmo della Germania
+
+Subito dopo avvia un **massiccio riarmo**:
+
+- sviluppo dell’industria militare;
+    
+- produzione di armi e mezzi bellici;
+    
+- **reintroduzione del servizio militare obbligatorio**.
+    
+
+Questo era una violazione diretta del **Trattato di Versailles**, che limitava fortemente l’esercito tedesco.
+
+---
+
+# 🇮🇹🇫🇷🇬🇧 La reazione delle democrazie
+
+Nel **1935**, Italia, Gran Bretagna e Francia si incontrano nel **Convegno di Stresa**.
+
+In questo incontro:
+
+- condannano il riarmo della Germania;
+    
+- promettono di difendere l’ordine europeo.
+    
+
+⚠️ Tuttavia **non prendono provvedimenti concreti**.
+
+Questa debolezza incoraggia Hitler.
+
+---
+
+# 🪖 La rimilitarizzazione della Renania (1936)
+
+Nel **1936** Hitler invia truppe nella **Renania**, una regione che doveva rimanere smilitarizzata secondo il Trattato di Versailles.
+
+Era una mossa molto rischiosa:  
+se Francia o Gran Bretagna fossero intervenute militarmente, la Germania avrebbe dovuto ritirarsi.
+
+Ma **nessuno interviene**.
+
+👉 Questo successo rafforza enormemente Hitler.
+
+---
+
+# 🤝 Le alleanze della Germania
+
+Hitler inizia anche a costruire **alleanze internazionali**.
+
+## Asse Roma-Berlino (1936)
+
+La Germania si avvicina all’Italia di Mussolini, soprattutto dopo la **guerra d’Etiopia**, che aveva isolato l’Italia.
+
+Nasce così l’**Asse Roma-Berlino**.
+
+---
+
+## Patto Anticomintern (1936)
+
+Nello stesso anno Hitler firma con il **Giappone** il **Patto Anticomintern**, diretto contro il comunismo internazionale e contro l’Unione Sovietica.
+
+Nel **1937** anche **l’Italia** aderisce al patto.
+
+Si forma così un primo blocco di stati autoritari.
+
+---
+
+# 🧭 Il progetto di Hitler: la “Grande Germania”
+
+L’obiettivo di Hitler è riunire **tutti i popoli tedeschi** in un unico grande Stato.
+
+Questo progetto prevede l’espansione territoriale della Germania.
+
+---
+
+# 🇦🇹 L’Anschluss (1938)
+
+Già nel **1934** Hitler aveva tentato di occupare l’**Austria**, ma aveva dovuto rinunciare perché **Mussolini si era opposto**.
+
+Nel **1938** la situazione è cambiata: Italia e Germania sono ormai alleate.
+
+Nel **marzo 1938** Hitler realizza l’**Anschluss**, cioè l’**annessione dell’Austria alla Germania**.
+
+Mussolini accetta l’operazione, ottenendo solo una promessa formale di rispettare il **confine del Brennero**.
+
+---
+
+# 🇨🇿 La crisi dei Sudeti
+
+Dopo l’Austria, Hitler punta alla **Cecoslovacchia**, uno stato democratico dell’Europa centro-orientale.
+
+In particolare reclama i **Sudeti**, una regione abitata da popolazioni di lingua tedesca.
+
+La Cecoslovacchia è alleata della **Francia**, quindi la situazione rischia di provocare una guerra.
+
+---
+
+# 📜 Gli Accordi di Monaco (1938)
+
+Per evitare il conflitto, nel **settembre 1938** si tiene una conferenza a **Monaco** tra:
+
+- Germania
+    
+- Italia
+    
+- Francia
+    
+- Gran Bretagna
+    
+
+Le potenze occidentali accettano che Hitler **annetta i Sudeti**, sperando di mantenere la pace.
+
+Questa politica viene chiamata **politica dell’appeasement** (cioè di concessioni per evitare la guerra).
+
+👉 In realtà incoraggia ulteriormente Hitler.
+
+---
+
+# 🤝 Il Patto d’Acciaio (1939)
+
+Nel **1939** Germania e Italia firmano il **Patto d’Acciaio**, un’alleanza militare molto stretta.
+
+Hitler promette a Mussolini che non ci sarà guerra prima di **tre anni**, ma in realtà sta già preparando un conflitto.
+
+---
+
+# 🤝 Il Patto Molotov-Ribbentrop (1939)
+
+Il **23 agosto 1939** Hitler compie una mossa sorprendente:  
+firma con l’**Unione Sovietica** un **patto di non aggressione**.
+
+Questo accordo è noto come **Patto Molotov-Ribbentrop**.
+
+Contiene anche un **protocollo segreto** che prevede:
+
+- la **spartizione della Polonia**;
+    
+- la divisione dell’Europa orientale tra Germania e URSS.
+    
+
+---
+
+# 🎯 Perché questo patto è così importante
+
+Per Hitler il patto serve a:
+
+👉 **evitare una guerra su due fronti**  
+👉 preparare l’invasione della Polonia.
+
+Per l’URSS invece:
+
+- l’accordo offre **vantaggi territoriali**;
+    
+- Stalin guadagna tempo per rafforzare l’esercito.
+    
+
+---
+
+# ⚠️ Il risultato finale
+
+Con queste mosse Hitler:
+
+- distrugge l’ordine europeo creato dopo la Prima guerra mondiale;
+    
+- costruisce alleanze militari;
+    
+- prepara le condizioni per una nuova guerra.
+    
+
+Pochi giorni dopo il patto con l’URSS inizierà la **Seconda Guerra Mondiale**.
+
+---
+
+# 🎯 Frase perfetta per la verifica
+
+> La politica estera di Hitler fu caratterizzata da una progressiva violazione del sistema di Versailles, dal riarmo della Germania e da una serie di espansioni territoriali, favorite dalla debolezza delle democrazie occidentali e culminate negli accordi che prepararono lo scoppio della Seconda Guerra Mondiale.
+
+---
+
+Se vuoi, nel prossimo messaggio posso anche farti:
+
+- una **timeline chiarissima 1933–1939** (utilissima per la verifica)
+    
+- oppure **10 domande che il prof potrebbe farti su questa parte**.
+

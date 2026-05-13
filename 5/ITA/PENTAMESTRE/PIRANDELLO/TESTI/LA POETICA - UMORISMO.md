@@ -1,4 +1,4 @@
-## **La poetica di Pirandello: l’umorismo**
+4## **La poetica di Pirandello: l’umorismo**
 
 Luigi Pirandello si definisce **«autore umorista»** e spiega la propria poetica nel saggio del **1908**, L’umorismo.
 

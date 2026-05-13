@@ -1,0 +1,3 @@
+questa poesia rappresenta un attimo di tregua, si parla di napoli.
+quando pensiamo a napoli pensiamo al mare, la gente di Napoli è festaiola , come ambiente di vita, e qui rappresenta la vita contrariamente al carso.
+ha tanta stanchezza sulle spalle, peso della guerra(zaino in spalle),  peso della morte, chiede di essere dimenticato in un angolo. Si parla di caldo buono, sinestesia, le capriole ricorda il circo collegamento con i fiumi, parola isolata nello spazio isolata di significato profondo, ricorso all'analogia, accostamento senza bisogno di passaggi intermedi. 

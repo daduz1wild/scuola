@@ -45,7 +45,7 @@ Per questo JSON permette di:
 In JavaScript:
 
 ```javascript
-JSON.stringify(array)   // converte in stringa
+JSON.encode(array)   // converte in stringa
 JSON.parse(stringa)     // riconverte in oggetto/array
 ```
 
