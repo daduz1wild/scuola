@@ -354,7 +354,206 @@ A differenza della subnet mask, può anche essere discontinua.
 * errore comune: confondere wildcard e subnet mask o usare una mask normale al posto della wildcard nelle ACL.
 * collegamento utile: capire bene la wildcard è fondamentale per non sbagliare le ACL standard ed estese.
 
+Sì, c’è una regola precisa: **conta quali bit possono cambiare e quali no nell’IP BASE**.
 
+La cosa che ti sta confondendo è questa:
+
+- con `0.0.0.7` l’IP `.5` “cade” nel blocco `0-7`
+    
+- con `0.0.255.3` l’IP `.4` “cade” nel blocco `4-7`
+    
+
+Vediamolo bene.
+
+---
+
+# Regola fondamentale
+
+La wildcard NON dice “parti da questo numero”.
+
+Dice:
+
+> “Questi bit possono cambiare.”
+
+Il risultato dipende quindi dai bit fissi dell’IP base.
+
+---
+
+# CASO 1 — wildcard `.7`
+
+Hai:
+
+```text
+IP:       .5  = 00000101
+Wildcard: .7  = 00000111
+```
+
+La wildcard permette di cambiare gli ultimi 3 bit:
+
+```text
+00000 xxx
+```
+
+Ma i primi 5 bit devono restare uguali:
+
+```text
+00000
+```
+
+Ora guarda bene:
+
+```text
+00000101
+^^^^^
+```
+
+I primi 5 bit sono:
+
+```text
+00000
+```
+
+Quindi puoi generare:
+
+```text
+00000000 = 0
+00000001 = 1
+00000010 = 2
+...
+00000111 = 7
+```
+
+Perciò:
+
+```text
+range = 0 → 7
+```
+
+---
+
+# CASO 2 — wildcard `.3`
+
+Hai:
+
+```text
+IP:       .4 = 00000100
+Wildcard: .3 = 00000011
+```
+
+La wildcard permette di cambiare SOLO gli ultimi 2 bit:
+
+```text
+000001 xx
+```
+
+I primi 6 bit devono restare uguali:
+
+```text
+000001
+```
+
+Quindi ottieni:
+
+```text
+00000100 = 4
+00000101 = 5
+00000110 = 6
+00000111 = 7
+```
+
+Perciò:
+
+```text
+range = 4 → 7
+```
+
+---
+
+# La vera regola matematica
+
+Il blocco è:
+
+```text
+wildcard + 1
+```
+
+MA il punto di partenza dipende dai bit fissi dell’IP.
+
+In pratica:
+
+```text
+inizio = IP con i bit wildcard messi a 0
+fine    = IP con i bit wildcard messi a 1
+```
+
+---
+
+# Applichiamola
+
+## Esempio `.5` con wildcard `.7`
+
+```text
+IP        00000101
+Wildcard  00000111
+```
+
+Metti i bit wildcard a 0:
+
+```text
+00000000 = 0
+```
+
+Metti i bit wildcard a 1:
+
+```text
+00000111 = 7
+```
+
+→ `0-7`
+
+---
+
+## Esempio `.4` con wildcard `.3`
+
+```text
+IP        00000100
+Wildcard  00000011
+```
+
+Bit wildcard a 0:
+
+```text
+00000100 = 4
+```
+
+Bit wildcard a 1:
+
+```text
+00000111 = 7
+```
+
+→ `4-7`
+
+---
+
+# Metodo veloce da usare agli esami
+
+1. Trasforma in binario
+    
+2. Dove la wildcard ha `1`:
+    
+    - puoi cambiare i bit
+        
+3. Per trovare l’inizio:
+    
+    - metti quei bit a `0`
+        
+4. Per trovare la fine:
+    
+    - metti quei bit a `1`
+        
+
+Questa è la regola esatta.
 
 ---
 ---
@@ -617,395 +816,6 @@ Se vuoi, nel prossimo messaggio ti faccio:
 Dimmi tu. 💪
 
 
-
-**Titolo:** Subnet Mask vs Wildcard Mask
-
-**Sottotitolo:** Guida pratica alla segmentazione e al filtraggio delle reti
-
-**Che cos'è la SubnetMask?**
-
-**Obiettivo:** Definire i confini della rete.
-
-- **Definizione:** Una sequenza di 32 bit che separa l'indirizzo IP in due parti: **Network** (Rete) e **Host** (Dispositivo).
-    
-- **Logica dei bit:**
-    
-    - **Bit a 1:** Indica la porzione di Rete.
-        
-    - **Bit a 0:** Indica la porzione di Host.
-        
-- **Caratteristica:** I bit "1" devono essere sempre **contigui** (es. 255.255.255.0).
-    
-- **Uso principale:** Configurazione interfacce IP e tabelle di routing.
-    
-
-In termini pratici, la subnetmask è lo strumento che permette a un dispositivo di capire se l'interlocutore si trova nel suo stesso "giro di amici" (la rete locale) o se deve chiedere aiuto a un "postino" (il gateway) per spedire il messaggio all'esterno.
-
-### **Il "confine" tra Rete e Host**
-
-Ogni indirizzo IPv4 è composto da 32 bit. La subnetmask serve a tracciare una linea verticale in questi 32 bit:
-
-- Tutto ciò che sta a **sinistra** della linea identifica la **rete**.
-    
-- Tutto ciò che sta a **destra** identifica lo specifico **dispositivo (host)**.
-    
-
-### **L'operazione logica: L'AND Binario**
-
-Quando un computer vuole inviare un pacchetto a un indirizzo IP di destinazione, il sistema operativo esegue un'operazione matematica chiamata **AND bit a bit**.
-
-1. Prende il proprio indirizzo IP e lo confronta con la propria SubnetMask per ottenere l'ID della propria rete.
-    
-2. Prende l'indirizzo IP di destinazione e lo confronta con la stessa SubnetMask.
-    
-3. **Confronta i risultati:**
-    
-    - **Risultati uguali:** La destinazione è **interna** (locale). Il pacchetto viene inviato direttamente tramite l'indirizzo MAC (Layer 2).
-        
-    - **Risultati diversi:** La destinazione è **esterna** (remota). Il computer non sa come arrivarci, quindi invia il pacchetto al **Default Gateway** (il router), che si occuperà di instradarlo su internet.
-        
-
-Il **Sistema Operativo** (nello specifico, il "TCP/IP Stack" all'interno del kernel) sioccupa di questi calcoli
-
-  
-  
-
-### **Un esempio pratico**
-
-Immaginiamo che il tuo computer abbia l'IP 192.168.1.5 con mask255.255.255.0
-
-|   |   |   |   |
-|---|---|---|---|
-   
-|**Destinazione**|**Calcolo con Mask**|**Risultato**|**Destinazione**|
-|**192.168.1.20(mittente)**|192.168.1.20 AND 255.255.255.0|192.168.1.0|**Interna** (Stessa rete)|
-|**8.8.8.8 (destintario)**|8.8.8.8 AND 255.255.255.0|8.8.8.0|**Esterna** (Vai al Gateway)|
-
-**Nota:** Senza la subnetmask, il computer non saprebbe dove finisce il "nome della via" e dove inizia il "numero civico", rendendo impossibile capire se il destinatario è un vicino di casa o qualcuno che vive in un'altra città.
-
-### **Le funzioni del Sistema Operativo**
-
-Fasi operative per l’ esempio visto :
-
-Quando il mio pc 192.168.1.20/24 vuole accedere al DNS di google (8.8.8.8) il Sistema Operativo fa questo:
-
-1. **Controlla la maschera:** Esegue l'operazione di AND (come abbiamo visto prima) e capisce che l'IP di Google è fuori dalla LAN.
-    
-2. **Consulta la Tabella di Routing:** Cerca il "Default Gateway" (l'indirizzo del router).
-    
-3. **Risoluzione ARP:** Se non lo ha già in memoria cache, il PC chiede: _"Chi ha l'IP del router? Mi serve il suo indirizzo fisico (MAC)!"_.
-    
-
-**Anatomia del pacchetto (Il trucco del "doppio indirizzo")**
-
-Quando il pacchetto deve uscire dalla LAN, gli indirizzi vengono gestiti a due livelli diversi:
-
-#### **Livello 3 (Network) - L'indirizzo IP**
-
-L'indirizzo IP di destinazione **non cambia mai** (fino a destinazione). Indica la meta finale.
-
-- **Source IP:** Il tuo PC (es. 192.168.1.5)
-    
-- **Destination IP:** Il server remoto (es. 8.8.8.8)
-    
-
-#### **Livello 2 (Data Link) - L'indirizzo MAC**
-
-L'indirizzo MAC indica chi deve ricevere fisicamente il pacchetto nel **prossimo salto**.
-
-- **Source MAC:** La tua scheda di rete (es. AA:BB:CC...)
-    
-- **Destination MAC:** La scheda di rete del **ROUTER** (es. 11:22:33...)
-    
-
-|   |   |   |
-|---|---|---|
-  
-|**Strato**|**Intestazione**|**Valore**|
-|**Frame (L2)**|**MAC Mittente**|**MAC del Router** (Gateway)|
-|**Pacchetto (L3)**|**IP Mittente**|**IP del Server Remoto**(indirizzo iniziale)|
-
-  
-  
-
-### **Cosa succede quando il router riceve il pacchetto?**
-
-Il router riceve il frame perché ha visto il suo indirizzo MAC. Lo "scarta" (come se aprisse una scatola), guarda l'IP di destinazione finale e dice: _"Ah, questo non è per me, è per Google!"_.
-
-A quel punto il router:
-
-1. **Cambia il MAC di origine** con il proprio.
-    
-2. **Cambia il MAC di destinazione** con quello del prossimo router (hop) sulla via per Google.
-    
-3. **Lascia invariato l'IP di destinazione** (8.8.8.8).
-    
-
-Poiche’ il MAC address serve **solo** per la consegna "porta a porta" dentro lo stesso segmento di rete. Un MAC address non può viaggiare oltre il router.
-
-Quindi quando il pacchetto arriva al router:
-
-1. **Ricezione:** Il router riceve il frame Ethernet perché il MAC di destinazione era il suo.
-    
-2. **Sballaggio (Decapsulamento):** Il router "strappa via" l'intestazione Ethernet (Livello 2). Adesso ha in mano solo il pacchetto IP.
-    
-3. **Controllo IP:** Guarda l'IP di destinazione. Dice: _"Ok, devo mandarlo a Google"_.
-    
-4. **Re-impacchettamento (Encapsulamento):**per mandare il pacchetto verso il prossimo router (quello del tuo fornitore internet), il router deve creare un **nuovo frame Ethernet**.
-    
-    - Il **MAC di origine** diventa quello della porta "esterna" del router.
-        
-    - Il **MAC di destinazione** diventa quello del router dell'ISP (ottenuto di nuovo tramite ARP).
-        
-
-**In sintesi:** Per uscire dalla LAN, il PC "traveste" il pacchetto indirizzandolo fisicamente al router (MAC), ma mantenendo l'indirizzo logico finale (IP) del destinatario remoto.
-
-**Che cos'è la Wildcard Mask?**
-
-**Obiettivo:** Agisce come un filtro (Filtro "Inverso").
-
-- **Definizione:** Utilizzata per selezionare un intervallo di indirizzi IP (spesso usata in ACL (Access Control List) e negli algoritmi di routing ad es.OSPF (Open Shortest Path First) è uno dei protocolli di routing più utilizzati al mondo, specialmente all'interno di reti aziendali di grandi dimensioni).
-    
-- **Logica dei bit (Inversa):**
-    
-    - **Bit a 0 (Match):** Il bit dell'IP deve corrispondere esattamente.
-        
-    - **Bit a 1 (Ignore):** Il bit dell'IP può essere qualsiasi cosa (0 o 1).
-        
-- **Flessibilità:** Non deve necessariamente avere bit contigui (anche se lo è nel 99% dei casi).
-    
-
-**Confronto Rapido**
-
-|   |   |   |
-|---|---|---|
-  
-|**Caratteristica**|**SubnetMask**|**Wildcard Mask**|
-|**Scopo**|Identifica la rete|Filtra/Seleziona traffico|
-|**Bit 1**|Identifica la Rete|"Non interessa" (Ignora)|
-
-  
-  
-
-  
-  
-
-**Esempio Pratico 1 (Rete 192.168.1.x)**
-
-**Scenario:** Applichiamo la maschera 0.0.0.255 all'IP 192.168.1.9
-
-1. **Analisi Maschera:** I primi 3 ottetti sono 0, l'ultimo è 255.
-    
-2. **Azione:** Il router controlla che l'IP inizi con 192.168.1. L'ultimo numero (.9) viene ignorato.
-    
-3. **Risultato:** La regola colpisce **tutti** gli indirizzi da 192.168.1.0 a 192.168.1.255.
-    
-4. **Conclusione:** Il valore originale .9 viene "sovrascritto" dalla libertà concessa dal 255.
-    
-
-**Esempio Pratico 2 (Rete 172.16.0.x)**
-
-**Scenario:** Applichiamo la maschera 0.0.0.255 all'IP 172.16.0.5 con subnet 255.255.255.0
-
-### **Il Calcolo "Bit a Bit"**
-
-- **172**-- > Wildcard **0**: Deve essere esattamente **172**.
-    
-- **16**-- > Wildcard **0**: Deve essere esattamente **16**.
-    
-- **0**-- > Wildcard **0**: Deve essere esattamente **0**.
-    
-- **5**-- > Wildcard **255**: **IGNORA**. Può essere qualsiasi numero da 0 a 255.
-    
-
-### **Il Risultato (Il Range)**
-
-Applicando questa maschera, il sistema "accetta" tutti gli indirizzi che iniziano con **172.16.0.0**, indipendentemente da cosa succede nell’ ultimo blocco.
-
-- **IP Sorgente:** 172.16.0.5
-    
-- **Wildcard:** 0.0.0.255
-    
-- **Cosa vede il router:** 172.16.0.[QUALSIASI COSA]
-    
-- **Primo IP utile:**172.16.0.0
-    
-- **Ultimo IP utile:**172.16.0.255
-    
-- **Totale indirizzi selezionati:**256 indirizzi IP.
-    
-
-1. **Analisi Maschera:** Stessa logica, i primi tre pezzi devono essere identici.
-    
-2. **Azione:** Il router cerca corrispondenza per 172.16.0. L’ ultimo numero (.5) viene ignorato
-    
-3. **Risultato:** Viene selezionato l'intero range 172.16.0.0 - 172.16.0.255
-    
-4. **Utilità:** Utile per bloccare o permettere un intero ufficio con un'unica riga di comando.
-    
-    1. **Bloccare la navigazione all'ufficio (deny)**
-        
-
-Entrare in configurazione
-
-**configure terminal**
-
-Creare una lista di accesso (es. numero 17) (Sorgente: 172.16.0.0/24)
-
-**access-list 17 deny 172.16.0.0 0.0.0.255**
-
-Permettere tutto il resto (altrimenti bloccheresti tutto il router!)
-
-**access-list 17 permit any**
-
-**2. Permettere la navigazione all'ufficio (permit)**
-
-Entra in configurazione
-
-**configure terminal**
-
-  
-
-Crea la lista di accesso
-
-**access-list 17 permit 172.16.0.0 0.0.0.255**
-
-  
-
-**N.B. alla fine di ogni ACL c'è un "deny any" invisibile.** **ANY = Destinazione: Qualsiasi indirizzo IP nel mondo (Internet, altri server, altre reti).**
-
-**Se si crea una lista per permettere solo l'ufficio, tutto il resto del mondo sarà bloccato automaticamente finché non aggiungi un permit any alla fine.**
-
-**Come calcolarla velocemente?**
-
-**La regola del 255:**
-
-Per trovare la Wildcard Mask partendo dalla SubnetMask, basta sottrarre ogni ottetto da 255.
-
-**Esempio:**
-
-- SubnetMask: 255.255.255.248 (/29)
-    
-- Calcolo: (255-255) . (255-255) . (255-255) . (255-248)
-    
-- **Wildcard Mask:** 0.0.0.7
-    
-
-**Conclusioni**
-
-- La **SubnetMask** serve a "costruire" la rete.
-    
-- La **Wildcard Mask** serve a "gestire" il traffico (chi passa e chi no).
-    
-- **0 = Uguale, 255 = Qualunque**.
-    
-
-### **Il Calcolo per 172.16.0.5 con Wildcard 0.0.0.7 e Subnetmask 255.255.255.248**
-
-Per capire il risultato, dobbiamo guardare l’ ultimo numero (**.5**) in codice binario, perché la Wildcard agisce sui singoli bit.
-
-**Trasformazione in Binario**
-
-- **Ultimo ottetto IP (.5):** 00000101
-    
-- **Wildcard Mask (.7):** 00000111 (Gli ultimi due bit sono "1", quindi "non mi interessa cosa c'è lì")
-    
-
-### _**Il trucco per i conti rapidi**_
-
-Se vuoi sapere l'inizio e la fine dell'intervallo matematicamente:
-
-- **Inizio:** IP originale AND (Inverso della Wildcard).
-    
-- **Fine:** IP originale OR Wildcard.
-    
-
-#### **Calcolo dell'Inizio Range (AND NOT)**
-
-Per trovare l'inizio, dobbiamo invertire i bit indicati dalla wildcard:
-
-.00000101 (IP .5)
-
-AND .11111000 (Inverso della Wildcard .7)
-
------------
-
-.00000000 (Risultato: .0)
-
-**Inizio del range: 172.16.0.0**
-
-#### **Calcolo del Fine Range (OR)**
-
-Facciamo l'operazione logica **OR** tra l'IP e la Wildcard:
-
-.00000101 (IP.5)
-
-OR .00000111 (.7)
-
------------
-
-.00000111 (Risultato: .7)
-
-**Fine del range: 172.16.0.7**
-
-  
-  
-
-### _**Il Risultato Finale**_
-
-Con la combinazione 172.16.0.5 e wildcard 0.0.0.7, abbiamo selezionato un "pacchetto" di **8 indirizzi**:
-
-1. **172.16.0.0 (rete)**
-    
-2. **172.16.0.1**
-    
-3. **172.16.0.2**
-    
-4. **172.16.0.3**
-    
-5. **172.16.0.4**
-    
-6. **172.16.0.5** (Quello da cui siamo partito)
-    
-7. **172.16.0.6**
-    
-8. **172.16.0.7(broadcast)**
-    
-
-### **A cosa serve una maschera così piccola?**
-
-In rete, una wildcard 0.0.0.7 corrisponde a una SubnetMask/29 ( 255.255.255.248). Si usa principalmente per:
-
-- **Gestire un** **piccolo gruppo di server**
-    
-- **Gestire una zona DMZ** dove ci sono, ad esempio, un firewall, un router e un paio di server pubblici.
-    
-
-### **La regola del "Blocco"**
-
-Un trucco rapido senza fare i binari:
-
-La Wildcard ti dice quanto è grande il blocco.
-
-- 0.0.0.3 significa: **Blocco di 4**( 3 + 1 ).
-    
-- 0.0.0.7 significa: **Blocco di 8**( 7 + 1 ).
-    
-- 0.0.0.15 significa: **Blocco di 16**( 15 + 1 ).
-    
-
-Il router prenderà l'IP che gli hai dato e cercherà il "blocco da 8" in cui quell'IP è contenuto. Siccome i blocchi da 8 nella rete vanno di 8 in 8 (0-7, 8-15, 16-23...), l’ IP .5 cade nel blocco **0-7**.
-
-  
-  
-
-[https://www.youtube.com/watch?v=GleVTAg51xM](https://www.youtube.com/watch?v=GleVTAg51xM)
-
-  
-  
-
-  
-  
 
 ## Calcolo per 172.16.0.5 con Wildcard 0.0.255.3
 

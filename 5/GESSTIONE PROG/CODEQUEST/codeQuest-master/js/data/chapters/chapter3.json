@@ -1,0 +1,121 @@
+{
+  "id": 3,
+  "title": "PHP + MySQL",
+  "subtitle": "THE BACKEND",
+  "chapterColor": "#f97316",
+  "ambientColor": "#2a1a0a",
+  "npcs": [
+    {
+      "id": "max",
+      "name": "Max",
+      "texKey": "npc_max",
+      "color": "#f97316",
+      "x": 0.4,
+      "y": 0.5,
+      "dialogues": [
+        {
+          "lines": [
+            { "speaker": "Max", "text": "Hey! I'm Max. Welcome to the backend!" },
+            { "speaker": "Max", "text": "PHP is the server language. MySQL stores the data." },
+            { "speaker": "Max", "text": "GOLDEN RULE: never trust user input. SQL injection is the enemy." },
+            { "speaker": "Max", "text": "ARA is corrupting databases. Learn prepared statements!" }
+          ]
+        }
+      ]
+    }
+  ],
+  "puzzles": [
+    {
+      "id": "php_basics",
+      "title": "PHP VARIABLES",
+      "description": "Declare $nome and $eta and print with echo.",
+      "initialCode": "<?php\n// Declare $nome and $eta\n// Print with echo\n\n?>",
+      "validation": {
+        "requiredKeywords": ["$nome", "$eta", "echo", "<?php", "?>"],
+        "regex": "\\$\\w+\\s*="
+      },
+      "hints": [
+        "In PHP le variabili iniziano sempre con il simbolo $",
+        "Assegna un valore con l'operatore \"=\"",
+        "Il comando \"echo\" stampa output a schermo"
+      ]
+    },
+    {
+      "id": "php_functions",
+      "title": "PHP FUNCTIONS",
+      "description": "Create prezzoScontato($prezzo, $sconto).",
+      "initialCode": "<?php\nfunction prezzoScontato($prezzo, $sconto) {\n  \n}\n?>",
+      "validation": {
+        "requiredKeywords": ["function", "return", "-", "*"],
+        "regex": "function\\s+prezzoScontato"
+      },
+      "hints": [
+        "Le funzioni PHP si dichiarano con \"function nome($parametri)\"",
+        "Il calcolo dello sconto è: prezzo meno (prezzo per sconto diviso 100)",
+        "Usa \"return\" per restituire il risultato"
+      ]
+    },
+    {
+      "id": "sql_select",
+      "title": "SELECT QUERY",
+      "description": "Select all students from the studenti table.",
+      "initialCode": "-- Select all from studenti table\n\n",
+      "validation": {
+        "requiredKeywords": ["SELECT", "*", "FROM", "studenti"],
+        "regex": "SELECT\\s+\\*\\s+FROM\\s+studenti"
+      },
+      "hints": [
+        "Il comando SELECT serve per leggere dati da una tabella",
+        "L'asterisco * significa \"tutte le colonne\"",
+        "La clausola FROM specifica il nome della tabella"
+      ]
+    },
+    {
+      "id": "sql_where",
+      "title": "WHERE CLAUSE",
+      "description": "Select students with voto > 18.",
+      "initialCode": "-- Select students with voto > 18\n\n",
+      "validation": {
+        "requiredKeywords": ["SELECT", "FROM", "WHERE", "voto", ">"],
+        "regex": "WHERE\\s+voto\\s*>"
+      },
+      "hints": [
+        "La clausola WHERE filtra i risultati in base a una condizione",
+        "L'operatore \">\" significa \"maggiore di\"",
+        "Il nome della colonna da confrontare è \"voto\""
+      ]
+    }
+  ],
+  "boss": {
+    "name": "SQL Phantom",
+    "description": "Malicious queries corrupting the database!",
+    "texKey": "enemy_sql",
+    "color": "#aa00ff",
+    "hp": 250,
+    "attack": 30,
+    "weakness": "Prepared Statements",
+    "challenges": [
+      {
+        "id": "boss_sql_phantom",
+        "title": "BLOCK INJECTION",
+        "description": "Protect the query with prepared statements.",
+        "initialCode": "<?php\n// Vulnerable query:\n// $query = \"SELECT * FROM utenti WHERE nome = '\" . $_GET[\"nome\"] . \"'\";\n\n// Rewrite with prepare(), bindParam(), execute()\n\n?>",
+        "validation": {
+          "requiredKeywords": ["prepare", "bindParam", "execute", "PDO"],
+          "regex": "->prepare\\("
+        },
+        "hints": [
+          "Il metodo prepare() dell'oggetto PDO prepara una query sicura",
+          "bindParam() collega un parametro al valore della variabile",
+          "execute() esegue la query preparata sul database"
+        ]
+      }
+    ]
+  },
+  "ending": [
+    { "speaker": "SQL Phantom", "text": "My data... corrupted..." },
+    { "speaker": "System", "text": "Boss defeated! +300 XP" },
+    { "speaker": "Max", "text": "The database is safe!" },
+    { "speaker": "System", "text": "Chapter 3 complete! MS-DOS + Bash sector unlocked." }
+  ]
+}

@@ -1,5 +1,5 @@
 switch: collega pc/nodi di una stessa rete.
-TTl(time to leave):tempondi vita di un pacchetto in una rete.
+TTl(time to leave):tempo di vita di un pacchetto in una rete.
  comando PING:verifica il collegamento tra 2 macchine inviando un pacchetto di dati e aspettando una risposta.
  quindi se vogliamo collegare nodi di rete diverse dobbiamo avere 2 switch(collegati ai pc della rispettiva rete) che sono collegati a un router che serve per collegare reti diverse(2 ip diversi).
  i vari pc per sapere che devono inviare pacchetti anche a una rete che ha un'altro indirizzo ip(facendogli sapere a quale rete deve inviarlo), con che procedura?

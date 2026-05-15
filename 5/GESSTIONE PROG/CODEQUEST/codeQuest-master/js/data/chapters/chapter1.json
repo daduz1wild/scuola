@@ -1,0 +1,136 @@
+{
+  "id": 1,
+  "title": "HTML + CSS",
+  "subtitle": "THE FOUNDATION",
+  "chapterColor": "#10b981",
+  "ambientColor": "#0a2a1a",
+  "npcs": [
+    {
+      "id": "mentore",
+      "name": "Mentore",
+      "texKey": "npc_mentore",
+      "color": "#fbbf24",
+      "x": 0.15,
+      "y": 0.5,
+      "dialogues": [
+        {
+          "lines": [
+            { "speaker": "Mentore", "text": "Benvenuto in CodeQuest, giovane coder." },
+            { "speaker": "Mentore", "text": "Qui iniziano tutti i mondi digitali: HTML e CSS." },
+            { "speaker": "Mentore", "text": "HTML è lo scheletro. CSS è la pelle. Insieme, costruiscono la realtà." },
+            { "speaker": "Mentore", "text": "Vedi quei nodi blu luminosi? Sono sfide di codice. Avvicinati e premi E." },
+            { "speaker": "Mentore", "text": "Completale tutte in ordine per sbloccare il Boss. Buona fortuna." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "luna_preview",
+      "name": "?? (Hologram)",
+      "texKey": "npc_hologram",
+      "color": "#a855f7",
+      "x": 0.8,
+      "y": 0.3,
+      "dialogues": [
+        {
+          "lines": [
+            { "speaker": "???", "text": "...segnale debole..." },
+            { "speaker": "???", "text": "Completa HTML/CSS per sbloccare il settore JavaScript." }
+          ]
+        }
+      ]
+    }
+  ],
+  "puzzles": [
+    {
+      "id": "html_structure",
+      "title": "HTML STRUCTURE",
+      "description": "Crea la struttura base HTML con i tag html, head e body.",
+      "initialCode": "<!DOCTYPE html>\n<!-- Costruisci la struttura qui sotto -->\n\n",
+      "validation": {
+        "requiredKeywords": ["<html>", "</html>", "<head>", "</head>", "<body>", "</body>"],
+        "regex": "<html>[\\s\\S]*<head>[\\s\\S]*</head>[\\s\\S]*<body>[\\s\\S]*</body>[\\s\\S]*</html>"
+      },
+      "hints": [
+        "Ogni documento HTML inizia con <html> e finisce con </html>",
+        "Dentro <html> ci sono due figli principali: <head> e <body>",
+        "Assicurati di chiudere tutti i tag con /"
+      ]
+    },
+    {
+      "id": "html_elements",
+      "title": "PAGE ELEMENTS",
+      "description": "Aggiungi un titolo (h1) e un paragrafo (p) dentro il body.",
+      "initialCode": "<body>\n  <!-- Inserisci h1 e p qui -->\n\n</body>",
+      "validation": {
+        "requiredKeywords": ["<h1>", "</h1>", "<p>", "</p>"],
+        "regex": "<h1>[\\s\\S]*</h1>[\\s\\S]*<p>[\\s\\S]*</p>"
+      },
+      "hints": [
+        "Usa <h1> per il titolo principale",
+        "Usa <p> per il paragrafo di testo",
+        "Entrambi i tag devono stare dentro il body"
+      ]
+    },
+    {
+      "id": "css_basics",
+      "title": "CSS STYLING",
+      "description": "Cambia il colore del testo h1 in 'cyan'.",
+      "initialCode": "h1 {\n  /* Aggiungi la proprietà color */\n}",
+      "validation": {
+        "requiredKeywords": ["color", "cyan", ";"],
+        "regex": "color\\s*:\\s*cyan"
+      },
+      "hints": [
+        "La proprietà si chiama 'color'",
+        "Il valore richiesto è 'cyan'",
+        "Non dimenticare il punto e virgola ;"
+      ]
+    },
+    {
+      "id": "css_layout",
+      "title": "CSS FLEXBOX",
+      "description": "Centra il contenuto usando display: flex.",
+      "initialCode": ".container {\n  /* Attiva flex e centra */\n}",
+      "validation": {
+        "requiredKeywords": ["display:", "flex", "justify-content:", "center"],
+        "regex": "display\\s*:\\s*flex"
+      },
+      "hints": [
+        "Flexbox si attiva con 'display: flex'",
+        "Per centrare orizzontalmente usa 'justify-content: center'"
+      ]
+    }
+  ],
+  "boss": {
+    "name": "Tag Overload",
+    "description": "Troppi tag aperti! Chiudili tutti!",
+    "texKey": "enemy_tag",
+    "color": "#ff1744",
+    "hp": 100,
+    "attack": 20,
+    "weakness": "Tag di chiusura",
+    "challenges": [
+      {
+        "id": "boss_tag_overload",
+        "title": "TAG CLEANUP",
+        "description": "Chiudi correttamente tutti i tag div.",
+        "initialCode": "<div>\n  <div>\n    <p>ERROR</p>\n  <!-- Chiudi i due div qui sotto -->\n",
+        "validation": {
+          "requiredKeywords": ["</div>", "</div>"],
+          "regex": "</div>[\\s\\S]*</div>"
+        },
+        "hints": [
+          "Ogni tag aperto deve avere il suo corrispondente tag di chiusura",
+          "L'ordine di chiusura è l'inverso dell'ordine di apertura"
+        ]
+      }
+    ]
+  },
+  "ending": [
+    { "speaker": "Tag Orfano", "text": "NOOO... I MIEI TAG... CHIUSI..." },
+    { "speaker": "Sistema", "text": "Boss sconfitto!" },
+    { "speaker": "Mentore", "text": "Eccellente! Hai padroneggiato le basi di HTML e CSS." },
+    { "speaker": "Sistema", "text": "Capitolo 1 completato! Settore JavaScript sbloccato." }
+  ]
+}

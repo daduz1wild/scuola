@@ -295,11 +295,9 @@ Di solito è scritto in esadecimale, per esempio:
 I **primi 3 byte** identificano il produttore della scheda: questo valore si chiama **OUI** (_Organizationally Unique Identifier_).  
 Gli **ultimi 3 byte** identificano la scheda o l’interfaccia assegnata dal produttore.
 
-Quindi questa frase va corretta così:
 
-- non è vero che le prime 6 cifre sono il produttore e le successive 6 il numero di serie
     
-- la divisione corretta è: **primi 24 bit = produttore**, **ultimi 24 bit = parte assegnata dal produttore**
+- la divisione  è: **primi 24 bit = produttore**, **ultimi 24 bit = parte assegnata dal produttore**
     
 
 Attenzione anche a un punto importante: il MAC è **pensato** per essere univoco, ma nella pratica può essere modificato via software o mascherato in sistemi virtuali.
@@ -355,14 +353,6 @@ Con `ipconfig` puoi vedere:
 - eventuale configurazione DHCP
     
 
-### DIFFERENZE IMPORTANTI
-
-Non bisogna confondere:
-
-- **shell** = ambiente per scrivere comandi
-    
-- **comando** = istruzione specifica, per esempio `ipconfig`
-    
 
 ### RIASSUNTO FINALE
 

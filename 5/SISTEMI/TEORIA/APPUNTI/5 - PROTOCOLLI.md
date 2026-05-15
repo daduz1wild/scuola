@@ -1,7 +1,3 @@
-Certo. Qui sotto trovi una versione ordinata e adatta allo studio, con i tuoi appunti **integrati e corretti** dove serve.
-
----
-
 # 1) ARP, MAC e IP
 
 ## COS’È
@@ -100,6 +96,7 @@ La tabella ARP non è la stessa cosa della tabella CAM dello switch:
 - **tabella ARP** → IP ↔ MAC, sta nel computer
     
 - **tabella CAM** → MAC ↔ porta, sta nello switch
+**tabella CAM nelle reti informatiche** (switch Ethernet), essa è la **tabella di indirizzamento MAC** memorizzata nella memoria ad accesso rapido (Content-Addressable Memory) dello switch. Questa tabella mappa gli **indirizzi MAC** dei dispositivi alle **porte fisiche** dello switch, permettendo il forwarding efficiente dei frame solo verso la porta di destinazione, evitando il flooding su tutte le porte. Non è presente nei risultati di ricerca forniti, che trattano esclusivamente temi di edilizia e normativa ambientale.
     
 
 ## RIASSUNTO FINALE
@@ -359,7 +356,7 @@ Usa IP e porte per identificare in modo preciso chi comunica con chi.
 
 ## COS’È
 
-I protocolli lavorano su livelli diversi del modello di rete.
+I protocol-----------------li lavorano su livelli diversi del modello di rete.
 
 ## A COSA SERVE
 

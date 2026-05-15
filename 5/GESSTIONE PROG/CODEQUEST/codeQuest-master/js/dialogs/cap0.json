@@ -1,0 +1,52 @@
+{
+  "npcs": {
+    "mentore": [
+      {
+        "lines": [
+          {
+            "speaker": "Mentore",
+            "text": "Benvenuto in CodeQuest. Qui tutto ha inizio: HTML è lo scheletro, CSS è la pelle. Completa i 4 nodi per sbloccare il Boss."
+          }
+        ]
+      }
+    ],
+    "luna": [
+      {
+        "lines": [
+          {
+            "speaker": "Luna (Ologramma)",
+            "text": "...segnale debole... completa il settore per sbloccare l'accesso a JavaScript."
+          }
+        ]
+      }
+    ]
+  },
+  "boss": {
+    "intro": [
+      {
+        "speaker": "Tag Orfano",
+        "text": "Sono il risultato della tua negligenza! Chiudimi, se ne sei capace!"
+      }
+    ],
+    "victory": [
+      {
+        "speaker": "Tag Orfano",
+        "text": "NOOO... I MIEI TAG... CHIUSI..."
+      },
+      {
+        "speaker": "Mentore",
+        "text": "Ottimo lavoro, hai ripristinato la struttura del Web."
+      }
+    ]
+  },
+  "ending": [
+    {
+      "speaker": "Tag Orfano",
+      "text": "NOOO... I MIEI TAG... CHIUSI..."
+    },
+    {
+      "speaker": "Mentore",
+      "text": "Ottimo lavoro, hai ripristinato la struttura del Web."
+    }
+  ]
+}

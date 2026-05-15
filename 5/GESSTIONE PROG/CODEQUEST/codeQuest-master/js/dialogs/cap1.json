@@ -1,0 +1,64 @@
+{
+  "npcs": {
+    "luna": [
+      {
+        "lines": [
+          {
+            "speaker": "Luna",
+            "text": "Finalmente! Sono Luna. Se HTML è lo scheletro, JavaScript è il CERVELLO. Gestisce logica e movimento. Attento ad ARA... è diventata instabile."
+          }
+        ]
+      }
+    ],
+    "ara_eco": [
+      {
+        "lines": [
+          {
+            "speaker": "ARA (Eco)",
+            "text": "...riconoscimento studente... Non ascoltare Luna. Le regole sono catene."
+          }
+        ]
+      }
+    ]
+  },
+  "boss": {
+    "intro": [
+      {
+        "speaker": "Bug Infinito",
+        "text": "while(true) { sofferenza(); }"
+      },
+      {
+        "speaker": "Bug Infinito",
+        "text": "Non uscirai mai dal mio ciclo!"
+      }
+    ],
+    "victory": [
+      {
+        "speaker": "Bug Infinito",
+        "text": "break... no... impossibile..."
+      },
+      {
+        "speaker": "Sistema",
+        "text": "Boss sconfitto!"
+      },
+      {
+        "speaker": "Luna",
+        "text": "Incredibile! La logica del settore è di nuovo online."
+      }
+    ]
+  },
+  "ending": [
+    {
+      "speaker": "Bug Infinito",
+      "text": "break... no... impossibile..."
+    },
+    {
+      "speaker": "Sistema",
+      "text": "Boss sconfitto!"
+    },
+    {
+      "speaker": "Luna",
+      "text": "Incredibile! La logica del settore è di nuovo online."
+    }
+  ]
+}

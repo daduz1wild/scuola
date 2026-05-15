@@ -1,4 +1,4 @@
-Ottima iniziativa! La **maturità** richiede non solo la conoscenza teorica, ma anche la capacità di contestualizzare le scelte tecnologiche in scenari reali (il cosiddetto "perché si fa così").
+iOttima iniziativa! La **maturità** richiede non solo la conoscenza teorica, ma anche la capacità di contestualizzare le scelte tecnologiche in scenari reali (il cosiddetto "perché si fa così").
 
 Iniziamo con il primo documento: **01_UA5_LEZ01.pdf - La connessione con i cavi in rame**.
 

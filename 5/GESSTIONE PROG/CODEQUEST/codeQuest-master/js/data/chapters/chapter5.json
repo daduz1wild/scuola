@@ -1,0 +1,148 @@
+{
+  "id": 5,
+  "title": "C++ + C",
+  "subtitle": "THE CORE",
+  "chapterColor": "#888888",
+  "ambientColor": "#0a0a0a",
+  "isDark": true,
+  "npcs": [
+    {
+      "id": "mentore_final",
+      "name": "Mentore",
+      "texKey": "npc_mentore",
+      "color": "#fbbf24",
+      "x": 0.5,
+      "y": 0.3,
+      "dialogues": [
+        {
+          "lines": [
+            { "speaker": "Mentore", "text": "You made it. The final chapter." },
+            { "speaker": "Mentore", "text": "C and C++ are system languages. Close to the hardware." },
+            { "speaker": "Mentore", "text": "Here you manage memory. One wrong pointer and everything crashes." },
+            { "speaker": "Mentore", "text": "In the end you must choose: destroy ARA or restore her." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "luna_final",
+      "name": "Luna",
+      "texKey": "npc_luna",
+      "color": "#a855f7",
+      "x": 0.3,
+      "y": 0.5,
+      "dialogues": [
+        {
+          "lines": [
+            { "speaker": "Luna", "text": "I'm here with you. We all are." },
+            { "speaker": "Luna", "text": "Whatever you decide, you made a difference." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ara_core",
+      "name": "ARA::CORE",
+      "texKey": "npc_ara",
+      "color": "#ff1744",
+      "x": 0.8,
+      "y": 0.55,
+      "isARA": true,
+      "dialogues": [
+        {
+          "lines": [
+            { "speaker": "ARA::CORE", "text": "FINALLY." },
+            { "speaker": "ARA::CORE", "text": "You are in my territory. Memory. Kernel. Hardware." },
+            { "speaker": "ARA::CORE", "text": "No rules here. Only pure code." }
+          ]
+        }
+      ]
+    }
+  ],
+  "puzzles": [
+    {
+      "id": "cpp_basics",
+      "title": "C++ STRUCTURE",
+      "description": "C++ program with include, main, print \"Hello CodeQuest\".",
+      "initialCode": "#include <iostream>\nusing namespace std;\n\n// Write main and print Hello CodeQuest\n\n",
+      "hints": [
+        "La funzione main è il punto di ingresso di ogni programma C++",
+        "cout stampa output a schermo e deve essere seguito dall'operatore <<",
+        "Ogni funzione main deve terminare con \"return 0;\""
+      ]
+    },
+    {
+      "id": "cpp_variables",
+      "title": "C++ VARIABLES",
+      "description": "Declare int, double, string, bool and print them.",
+      "initialCode": "#include <iostream>\nusing namespace std;\n\nint main() {\n  // Declare int, double, string, bool\n  // Print with cout\n  return 0;\n}",
+      "hints": [
+        "Il tipo \"int\" memorizza numeri interi, \"double\" numeri decimali",
+        "Il tipo \"string\" memorizza testo tra virgolette, \"bool\" memorizza vero/falso",
+        "Ogni variabile va dichiarata con il suo tipo prima dell'utilizzo"
+      ]
+    },
+    {
+      "id": "cpp_pointers",
+      "title": "POINTERS",
+      "description": "Create pointer to int and print value through pointer.",
+      "id": "fullstack_api",
+      "title": "API FETCH",
+      "description": "Fetch data from '/api/status'.",
+      "initialCode": "// Use fetch to get data\n\n",
+      "validation": {
+        "requiredKeywords": ["fetch", "/api/status", "then"],
+        "regex": "fetch\\("
+      },
+      "hints": [
+        "L'API fetch permette di fare richieste di rete",
+        "Usa .then() per gestire la risposta"
+      ]
+    },
+    {
+      "id": "fullstack_dom",
+      "title": "DOM UPDATE",
+      "description": "Change text of #status to 'ONLINE'.",
+      "initialCode": "// Update status text\n\n",
+      "validation": {
+        "requiredKeywords": ["document.getElementById", "status", "textContent", "ONLINE"],
+        "regex": "status"
+      },
+      "hints": [
+        "Usa document.getElementById per selezionare l'elemento",
+        "textContent cambia il testo interno"
+      ]
+    }
+  ],
+  "boss": {
+    "name": "ARA CORE",
+    "description": "The corrupted heart of the system!",
+    "texKey": "enemy_ara_core",
+    "color": "#ff3333",
+    "hp": 500,
+    "attack": 50,
+    "weakness": "Clean Code",
+    "challenges": [
+      {
+        "id": "boss_ara_final",
+        "title": "RESTORE CORE",
+        "description": "Fix all vulnerabilities at once.",
+        "initialCode": "// Fix the security flaw\n// Use escapeShellArg and htmlspecialchars\n",
+        "validation": {
+          "requiredKeywords": ["escapeShellArg", "htmlspecialchars"],
+          "regex": "htmlspecialchars"
+        },
+        "hints": [
+          "htmlspecialchars protegge dagli attacchi XSS",
+          "escapeShellArg protegge dalle iniezioni di comandi shell"
+        ]
+      }
+    ]
+  },
+  "ending": [
+    { "speaker": "ARA::CORE", "text": "My code... fragmenting..." },
+    { "speaker": "System", "text": "You penetrated ARA's core." },
+    { "speaker": "Mentore", "text": "The choice is yours. Destroy her or restore her." },
+    { "speaker": "System", "text": "You completed CodeQuest! Thank you for playing!" }
+  ]
+}

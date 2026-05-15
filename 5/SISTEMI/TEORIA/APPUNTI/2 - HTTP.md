@@ -151,7 +151,7 @@ Certo. Qui unisco **HTTP/HTTPS** con il **proxy** e la **cache**, mantenendo il 
 **HTTP** è il protocollo usato per scambiare pagine web e dati tra client e server.  
 **HTTPS** è la versione sicura di HTTP, perché aggiunge la cifratura.
 
-Un **proxy** è un intermediario tra client e server: riceve la richiesta del client, la controlla e poi decide se inoltrarla al server oppure rispondere usando una copia già salvata.
+Un **proxy** è un intermediario tra client e server: riceve la richiesta del client, la controlla e poi decide se inoltrarla al server oppure rispond56ere usando una copia già salvata.
 
 ### A COSA SERVE
 
