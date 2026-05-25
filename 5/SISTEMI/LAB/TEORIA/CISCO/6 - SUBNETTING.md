@@ -470,13 +470,13 @@ Intervallo = 256 − valore della subnet mask
 
 Questa parte è **pura teoria da memorizzare**.
 
-|Classe|Primo byte (binario)|Primo byte (decimale)|Subnet di default|
-|---|---|---|---|
-|A|`0xxxxxxx`|1 – 126|/8|
-|B|`10xxxxxx`|128 – 191|/16|
-|C|`110xxxxx`|192 – 223|/24|
-|D|`1110xxxx`|224 – 239|Multicast|
-|E|`1111xxxx`|240 – 255|Riservata|
+| Classe | Primo byte (binario) | Primo byte (decimale) | Subnet di default |
+| ------ | -------------------- | --------------------- | ----------------- |
+| A      | `0xxxxxxx`           | 1 – 126               | /8                |
+| B      | `10xxxxxx`           | 128 – 191             | /16               |
+| C      | `110xxxxx`           | 192 – 223             | /24               |
+| D      | `1110xxxx`           | 224 – 239             | Multicast         |
+| E      | `1111xxxx`           | 240 – 255             | Riservata         |
 
 👉 **Questo spiega tutte le domande sui bit fissi**
 
