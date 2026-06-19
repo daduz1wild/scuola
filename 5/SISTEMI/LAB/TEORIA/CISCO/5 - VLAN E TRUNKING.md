@@ -409,7 +409,7 @@ exit
 ```id="d1k87y"
 interface gigabitEthernet 0/0.300
 encapsulation dot1Q 300
-ip address 192.168.200.254 255.255.255.0
+ip address 192.168.2xc00.254 255.255.255.0
 exit
 ```
 

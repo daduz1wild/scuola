@@ -52,41 +52,6 @@ Se non ricevi risposta → può esserci un problema di rete, firewall, indirizzo
 
 ---
 
-## **Cosa succede quando inserisci un URL nel browser?**
-
-1. **Il sistema controlla il file `hosts`**
-
-   * È un file locale dove puoi associare manualmente nomi → indirizzi IP.
-   * Se trova una corrispondenza, **non interroga il DNS**.
-
-2. Se non trova nulla nel `hosts`, il computer consulta i **server DNS** configurati.
-
-3. **Il gateway** viene usato per raggiungere DNS o server fuori dalla rete locale.
-   Se il gateway è assente o errato:
-
-   * puoi risolvere nomi *solo se il DNS è nella tua stessa rete*
-   * altrimenti la richiesta DNS **non può uscire** e non puoi navigare.
-
----
-
-## **DNS: cos’è e come funziona**
-
-Il **DNS (Domain Name System)** è un sistema che traduce i **nomi di dominio** (es. *google.com*) nei **relativi indirizzi IP**.
-
-### **Come funziona una richiesta DNS:**
-
-1. Scrivi un URL nel browser
-2. Il PC controlla il file `hosts`
-3. Se non trova risultati, interroga il **DNS locale** (di solito il router)
-4. Se il DNS locale non sa la risposta, la chiede ai **DNS superiori**
-5. Una volta ottenuto l’IP, il browser può contattare il server richiesto
-
-In pratica:
-**Il DNS è la “rubrica telefonica” di Internet**.
-
----
-
-Se vuoi posso anche fare una **mappa concettuale**, degli **schemi**, oppure trasformare tutto in **riassunto per interrogazione**.
 
 
 

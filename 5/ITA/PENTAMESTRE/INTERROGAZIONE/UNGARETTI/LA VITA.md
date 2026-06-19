@@ -88,8 +88,6 @@ Il testo che hai allegato è molto importante perché **spiega direttamente il p
 
 Ungaretti dice che i giovani della sua generazione **rifiutavano il Decadentismo**.
 
-Decadentismo
-
 Secondo lui i poeti decadenti:
 
 - usavano una poesia **troppo decorativa**
@@ -287,6 +285,71 @@ La poesia per Ungaretti è una **ricerca spirituale** per capire:
 - il dolore
     
 - il rapporto con l’universo.
+
+
+### Critica al Decadentismo
+
+Ungaretti dice che i giovani della sua generazione **rifiutavano il Decadentismo**.
+
+Secondo lui i poeti decadenti:
+
+- usavano una poesia **troppo decorativa**  
+    
+- piena di **parole eleganti ma vuote**  
+    
+- lontana dalla realtà vera della vita.  
+    
+
+Per questo scrive che bisognava **ricominciare “dall’abbiccì”**, cioè **ripartire dalle basi della poesia**.
+
+---
+
+### Critica al Futurismo
+
+Ungaretti critica anche il Futurismo.
+
+Futurismo
+
+I futuristi esaltavano:
+
+- la guerra  
+    
+- la tecnologia  
+    
+- la distruzione.  
+    
+
+Ungaretti pensa invece che abbiano sbagliato perché **credevano che dalla guerra potesse nascere qualcosa di positivo**.
+
+Lui invece **ha visto davvero la guerra** e ne ha compreso **la tragedia umana**.
+
+---
+
+### La scoperta durante la guerra
+
+Ungaretti dice che **la guerra gli ha fatto capire la vera missione della poesia**.
+
+Durante la guerra l’uomo si trova davanti:
+
+- al caos  
+    
+- alla morte  
+    
+- alla fragilità della vita.  
+    
+
+In queste condizioni il poeta riscopre l’essenziale.
+
+Per questo la sua poesia diventa:
+
+- **nuda**  
+    
+- **semplice**  
+    
+- **fatta di poche parole**  
+    
+
+Ogni parola diventa importante **come un battito del cuore**.
     
 
 ---

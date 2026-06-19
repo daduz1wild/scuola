@@ -1,4 +1,4 @@
-vFATTO DA CHAT:
+FATTO DA CHAT:
 
 La sicurezza online serve a proteggere i dati che viaggiano in rete e a garantire che un utente possa comunicare con un sito o con un servizio senza rischiare intercettazioni, modifiche o falsificazioni. Il problema nasce dal fatto che Internet, da sola, non è un canale sicuro: chiunque possa monitorare il traffico può provare a leggere i messaggi, rubare credenziali o sostituirsi a un server legittimo. Per questo si usano protocolli e tecniche crittografiche che servono a garantire tre aspetti fondamentali: riservatezza, integrità e autenticazione. La riservatezza impedisce che i dati siano letti da terzi, l’integrità impedisce che vengano alterati durante il trasporto e l’autenticazione permette di verificare l’identità del sito o dell’utente con cui si sta comunicando.
 

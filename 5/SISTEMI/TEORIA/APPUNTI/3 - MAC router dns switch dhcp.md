@@ -19,9 +19,20 @@ Serve per riconoscere un dispositivo **dentro la rete locale**.
 Quando un dispositivo deve inviare dati nella LAN, usa anche il MAC address per raggiungere il destinatario corretto.  
 L’IP serve per capire **chi** è il destinatario dal punto di vista logico, mentre il MAC serve per consegnare i dati al dispositivo giusto nella rete locale.
 
-Di solito il MAC è scritto così:  
-`00:1A:2B:3C:4D:5E`
+Di solito è scritto in esadecimale, per esempio:
 
+`00-16-D4-37-0C-18`
+
+È composto da 6 byte.  
+I **primi 3 byte** identificano il produttore della scheda: questo valore si chiama **OUI** (_Organizationally Unique Identifier_).  
+Gli **ultimi 3 byte** identificano la scheda o l’interfaccia assegnata dal produttore.
+
+
+    
+- la divisione  è: **primi 24 bit = produttore**, **ultimi 24 bit = parte assegnata dal produttore**
+    
+
+Attenzione anche a un punto importante: il MAC è **pensato** per essere univoco, ma nella pratica può essere modificato via software o mascherato in sistemi virtuali.
 ### ESEMPIO
 
 Il computer vuole mandare un pacchetto alla stampante nella stessa rete.  
@@ -43,7 +54,144 @@ Serve soprattutto nella comunicazione locale.
 Non sostituisce l’IP: lo affianca.
 
 ---
+# 3) Hub, switch, CSMA/CD e collisioni
 
+## HUB
+
+### COS’È
+
+L’**hub** è un dispositivo di livello 1, cioè del **livello fisico**.
+
+### A COSA SERVE
+
+Serviva a collegare più dispositivi in una rete locale, ma in modo molto semplice e poco intelligente.
+
+### COME FUNZIONA
+
+Riceve un segnale e lo replica su tutte le porte.  
+Per questo tutti i dispositivi condividono lo stesso canale.
+Non distingue il destinatario.
+
+Per questo:
+
+- lavora in modo simile a un “ripetitore”
+- c’è un solo dominio di collisione
+    
+- il traffico va in broadcast
+    
+- servono CSMA/CD e collision detection
+    
+### ESEMPIO
+
+Se un PC invia un dato a un hub, tutti i PC collegati all’hub ricevono quel segnale.
+
+### DIFFERENZE IMPORTANTI
+
+L’hub crea un unico mezzo condiviso.  
+Questo aumenta il traffico inutile e favorisce le collisioni.
+
+### RIASSUNTO FINALE
+
+L’hub lavora al livello fisico e inoltra tutto a tutti.  
+È poco efficiente e oggi è quasi sempre sostituito dallo switch.
+
+---
+
+## CSMA/CD
+
+### COS’È
+**CSMA/CD** significa _Carrier Sense Multiple Access / Collision Detection_.  
+**CSMA/CD** è il meccanismo usato nelle reti Ethernet condivise per controllare l’accesso al mezzo e gestire le collisioni.
+
+### A COSA SERVE
+
+Serve quando più host possono voler trasmettere sullo stesso canale contemporaneamente, tipicamente con **hub**.
+
+### COME FUNZIONA
+
+La logica è questa:
+
+1. un host ascolta il canale;
+    
+2. se il canale è libero, trasmette;
+    
+3. se il canale è occupato, aspetta;
+    
+4. se due host trasmettono insieme, si verifica una **collisione**;
+    
+5. gli host interrompono la trasmissione;
+    
+6. inviano un **jamming signal** per segnalare la collisione;
+    
+7. attendono un tempo casuale e poi ritentano.
+    
+
+Il ritardo casuale serve per evitare che due host riprovino nello stesso istante.
+a parte importante è il **backoff casuale**: più collisioni ci sono, più aumenta il range di attesa.  
+Dopo **16 tentativi** la comunicazione viene considerata fallita.
+ il tempo di attesa è random, molto piccolo, nell’ordine dei **microsecondi** nelle reti Ethernet classiche.
+
+### ESEMPIO
+
+In una rete con hub, due PC possono iniziare a trasmettere quasi nello stesso momento.  
+La trasmissione si sovrappone, avviene una collisione e il meccanismo CSMA/CD interviene.
+
+### DIFFERENZE IMPORTANTI
+
+- **CSMA** = ascolta prima di trasmettere
+    
+- **CSMA/CD** = ascolta e rileva anche le collisioni
+    
+
+Nelle reti moderne con **switch**, le collisioni quasi non esistono più, quindi CSMA/CD non è più centrale come nelle vecchie Ethernet condivise.
+
+### RIASSUNTO FINALE
+
+CSMA/CD regola l’accesso al mezzo nelle reti condivise e gestisce le collisioni.  
+È tipico delle reti con hub o con mezzo trasmissivo condiviso.  
+Nelle reti moderne con switch è molto meno importante.
+
+---
+
+## SWITCH
+
+### COS’È
+Lo **switch** è un dispositivo che collega più dispositivi nella stessa rete locale.
+Lavora a livello 2, cioè del **livello collegamento dati**.
+
+### A COSA SERVE
+
+Serve a collegare più dispositivi nella stessa rete locale in modo più efficiente rispetto all’hub.
+
+### COME FUNZIONA
+
+Lo switch legge i **MAC address** e inoltra il frame solo sulla porta corretta.  
+Per farlo usa la **tabella CAM**, che associa:
+
+- **MAC address → porta dello switch**
+    
+
+Ogni porta dello switch è, di fatto, un dominio di collisione separato.  
+Per questo non si hanno le collisioni tipiche dell’hub.
+
+### ESEMPIO
+
+Se un PC manda un frame a un altro PC collegato allo switch, lo switch lo inoltra solo alla porta del destinatario, non a tutti.
+
+### DIFFERENZE IMPORTANTI
+
+- **Hub** → broadcast a tutte le porte
+    
+- **Switch** → inoltro selettivo sulla porta giusta
+    
+
+Con lo switch non serve CSMA/CD come nelle reti condivise, perché il mezzo non è condiviso nello stesso modo.
+
+### RIASSUNTO FINALE
+
+Lo switch usa i MAC address e la tabella CAM per inviare i dati solo dove servono.  
+È più efficiente dell’hub e riduce traffico e collisioni.  
+È il dispositivo tipico delle LAN moderne.
 ## 5) Router
 
 ### COS’È
@@ -90,45 +238,6 @@ Nelle reti domestiche svolge spesso anche il ruolo di gateway.
 
 ---
 
-## 6) Switch
-
-### COS’È
-
-Lo **switch** è un dispositivo che collega più dispositivi nella stessa rete locale.
-
-### A COSA SERVE
-
-Serve a far comunicare computer, stampanti, server e altri dispositivi all’interno della LAN.
-
-### COME FUNZIONA
-
-Lo switch riceve un dato su una porta e lo inoltra solo verso la porta giusta, non verso tutti.  
-Per fare questo usa soprattutto i **MAC address** dei dispositivi collegati.
-
-Questo lo rende più efficiente di un dispositivo più semplice che trasmette tutto a tutti.
-
-### ESEMPIO
-
-In un laboratorio scolastico, tutti i PC sono collegati allo switch.  
-Se un PC invia dati a un altro PC della stessa rete, lo switch li manda solo al destinatario corretto.
-
-### DIFFERENZE IMPORTANTI
-
-Da non confondere con il router:
-
-- **Switch** = rete locale, usa MAC address
-    
-- **Router** = collega reti diverse, usa IP per instradare
-    
-
-### RIASSUNTO FINALE
-
-Lo switch collega dispositivi nella stessa LAN.  
-Smista i dati verso la porta corretta.  
-È fondamentale nelle reti locali perché rende la comunicazione ordinata ed efficiente.
-
----
-
 ## 7) DNS
 
 ### COS’È
@@ -160,7 +269,24 @@ Non va confuso con il gateway:
 - **DNS** = traduce nomi in IP
     
 - **Gateway** = porta di uscita verso altre reti
-    
+
+## **Cosa succede quando inserisci un URL nel browser?**
+
+1. **Il sistema controlla il file `hosts`**
+
+   * È un file locale dove puoi associare manualmente nomi → indirizzi IP.
+   * Se trova una corrispondenza, **non interroga il DNS**.
+
+2. Se non trova nulla nel `hosts`, il computer consulta i **server DNS** configurati.
+
+3. **Il gateway** viene usato per raggiungere DNS o server fuori dalla rete locale.
+   Se il gateway è assente o errato:
+
+   * puoi risolvere nomi *solo se il DNS è nella tua stessa rete*
+   * altrimenti la richiesta DNS **non può uscire** e non puoi navigare.
+
+---
+
 
 ### RIASSUNTO FINALE
 
@@ -174,7 +300,7 @@ Senza DNS dovremmo ricordare tutti gli IP dei siti.
 
 ### COS’È
 
-Il **DHCP** è il servizio che assegna automaticamente gli indirizzi di rete ai dispositivi.
+Il **DHCP** è il servizio che assegna automaticamente i parametri di rete ai dispositivi.
 
 ### A COSA SERVE
 
@@ -200,15 +326,6 @@ Così il dispositivo può iniziare a comunicare subito.
 
 Colleghi il telefono al Wi-Fi di casa.  
 Il router, se ha il DHCP attivo, gli assegna automaticamente un IP tipo `192.168.1.23`.
-
-### DIFFERENZE IMPORTANTI
-
-Da non confondere con DNS:
-
-- **DHCP** = assegna parametri di rete
-    
-- **DNS** = traduce nomi in IP
-    
 
 ### RIASSUNTO FINALE
 
@@ -237,6 +354,146 @@ Questi elementi lavorano insieme così:
 
 Questo collegamento è molto importante all’orale.
 
+# ✅ **DHCP: processo completo e ruolo dei broadcast** DORA
+
+Quando un host si collega alla rete e non ha un IP, usa il protocollo **DHCP**.
+Il processo standard è:
+
+### **1. DHCP Discover (broadcast)**
+
+* L’host non conosce:
+
+  * il gateway
+  * l’IP del server DHCP
+  * il proprio IP
+* Perciò invia un **frame in broadcast**:
+
+  * MAC destinazione: `FF:FF:FF:FF:FF:FF`
+  * IP destinazione: `255.255.255.255`
+
+Lo switch inoltra il broadcast a **tutte le porte**, inclusa quella che porta al router (che spesso include un *DHCP relay*).
+
+---
+
+### **2. DHCP Offer**
+
+* I server DHCP che ricevono il discover rispondono con una **DHCP Offer**, che contiene:
+
+  * un indirizzo IP proposto
+  * subnet mask
+  * gateway
+  * DNS
+  * tempo di lease
+
+L’host potrebbe ricevere più offerte (se ci sono più server).
+Poi sceglie la migliore in base ai suoi algoritmi.
+
+---
+
+### **3. DHCP Request**
+
+* L’host informa **tutti** i server DHCP che accetta **solo l’offerta scelta**.
+* Questo serve a:
+
+  * confermare la scelta al server selezionato
+  * **far sapere agli altri server** che MUST rilasciare l’IP che avevano offerto (per poterlo ridare a qualcun altro)
+
+---
+
+### **4. DHCP Acknowledgement (ACK)**
+
+* Il server scelto invia il pacchetto finale: **DHCP ACK**.
+* Da questo momento:
+
+  * l’IP è assegnato
+  * l’host conosce tutte le configurazioni
+  * può comunicare normalmente
+
+👉 Il tuo appunto di “l’ultima knowledge” si riferiva a **ACK (Acknowledgement)**.
+
+---
+
+# ✅ **MAC Address: quando diventa conosciuto**
+
+Durante il broadcast:
+
+* l’host non conosce il MAC del DHCP server
+* ma il DHCP server **vede il MAC dell’host** nel frame Discover
+* dopo l’ACK sarà possibile comunicare **unicast** (MAC → MAC), quindi senza più broadcast.
+
+---
+
+# ✅ **Porta mittente e porta destinatario (Livello 4)**
+
+Nel segmento TCP/UDP sono presenti:
+
+* **porta sorgente** (mittente)
+* **porta destinazione** (quella del servizio, es. 67/68 DHCP, 53 DNS, 80 HTTP)
+
+Questo permette al sistema operativo di capire:
+
+* quale processo invia
+* a quale servizio è destinata la richiesta
+
+
+Le porte del DHCP sono:
+
+- **67** per il server
+    
+- **68** per il client
+    
+
+## MODALITÀ DI ASSEGNAZIONE IP
+
+### Dinamica
+
+Il server assegna un IP per un periodo di **lease**.  
+Alla scadenza, l’indirizzo può essere riassegnato ad altri host.
+
+### Automatica
+
+Il server assegna un IP in modo automatico e tende a ridare allo stesso host lo stesso indirizzo, se possibile.  
+Qui l’idea è più vicina a una **prenotazione**.
+
+### Statica
+
+L’IP è assegnato in modo permanente a un host specifico, per esempio una stampante.
+
+## ESEMPIO
+
+Quando accendi il PC in una rete domestica, il router con DHCP attivo gli assegna un IP, la mask, il gateway e spesso anche il DNS.
+
+## DIFFERENZE IMPORTANTI
+
+- **DHCP** = assegnazione automatica dei parametri di rete
+    
+- **DNS** = traduzione dei nomi in IP
+    
+- **porta 67/68** = comunicazione server-client del DHCP
+    
+---
+
+# 🔷 Versione ultrabreve per ripasso
+
+* La **PDU finale** in una rete locale = **frame Ethernet**.
+* Il **pacchetto IP** è incapsulato nel frame.
+* DHCP funziona in 4 passi: **Discover → Offer → Request → ACK**.
+* Discover è **broadcast** perché l’host non conosce nulla.
+* Offer: il server risponde con una proposta.
+* Request: il client sceglie un server.
+* ACK: conferma finale → configurazione completa.
+* Livello 4 usa **porte** (mittente/destinatario) per distinguere le applicazioni.
+
+---
+
+Se vuoi posso creare:
+📌 una **mappa concettuale**
+📌 uno **schema grafico del DHCP**
+📌 un **diagramma OSI di incapsulamento**
+
+Dimmi tu!
+
+
 ---
 
 ## Domande possibili da maturità
@@ -248,80 +505,6 @@ Questo collegamento è molto importante all’orale.
 - Qual è la differenza tra **router e switch**?
     
 
----
-
-[CONTROLLO STUDIO]
-
-- ✔ Corretto: MAC come indirizzo fisico, router per reti diverse, switch per rete locale, DNS per nomi dominio, DHCP per assegnazione automatica.
-    
-- ⚠ Correzioni: non confondere DNS con DHCP; uno traduce nomi, l’altro assegna parametri di rete.
-    
-- ➕ Integrazioni utili: ruolo del DHCP nel dare anche gateway e DNS, collegamento tra switch/router e livello di utilizzo nella rete.
-    
-- ❌ Non trattato: TCP/UDP, porte, HTTP/HTTPS, ISO/OSI, TCP/IP.
-    
-
-[DA RICORDARE]
-
-- concetto chiave: DHCP configura automaticamente, DNS traduce i nomi, switch resta nella LAN, router collega reti diverse.
-    
-- errore comune: pensare che router e switch facciano la stessa cosa; in realtà lavorano in modo diverso.
-    
-- collegamento utile: questi concetti spiegano come un dispositivo entra in rete e poi raggiunge un sito internet.
-
-
-Certo. Qui ci sono i punti **corretti e ripuliti**, messi in ordine in modo da essere buoni anche per l’orale.
-
----
-
-## 1) MAC address
-
-### COS’È
-
-Il **MAC address** è l’indirizzo fisico della scheda di rete di un dispositivo.  
-Serve a identificare l’interfaccia di rete nella **rete locale**.
-
-### A COSA SERVE
-
-Serve per la comunicazione a livello di **collegamento dati**: nella LAN, i dispositivi usano il MAC per consegnare i dati alla macchina giusta.
-
-### COME FUNZIONA
-
-Di solito è scritto in esadecimale, per esempio:
-
-`00-16-D4-37-0C-18`
-
-È composto da 6 byte.  
-I **primi 3 byte** identificano il produttore della scheda: questo valore si chiama **OUI** (_Organizationally Unique Identifier_).  
-Gli **ultimi 3 byte** identificano la scheda o l’interfaccia assegnata dal produttore.
-
-
-    
-- la divisione  è: **primi 24 bit = produttore**, **ultimi 24 bit = parte assegnata dal produttore**
-    
-
-Attenzione anche a un punto importante: il MAC è **pensato** per essere univoco, ma nella pratica può essere modificato via software o mascherato in sistemi virtuali.
-
-### ESEMPIO
-
-In una rete con switch, il MAC serve per capire a quale dispositivo mandare una trama Ethernet nella LAN.
-
-### DIFFERENZE IMPORTANTI
-
-Da non confondere con l’IP:
-
-- **MAC** = indirizzo fisico, usato nella rete locale
-    
-- **IP** = indirizzo logico, usato per comunicare tra reti
-    
-
-### RIASSUNTO FINALE
-
-Il MAC identifica la scheda di rete nella LAN.  
-I primi 24 bit indicano il produttore, gli altri 24 bit identificano l’interfaccia.  
-È molto importante per capire come i dati si muovono nella rete locale.
-
----
 
 ## 2) Shell dei comandi e `ipconfig`
 
@@ -423,93 +606,6 @@ Il DHCP configura, il DNS traduce i nomi.
 
 ---
 
-## 4) MAC, CSMA e CSMA/CD
-
-### COS’È
-
-**CSMA** è un metodo per gestire l’accesso a un mezzo trasmissivo condiviso.  
-**CSMA/CD** aggiunge il controllo delle collisioni.
-
-### A COSA SERVE
-
-Serve quando più dispositivi potrebbero voler trasmettere sullo stesso canale.  
-L’obiettivo è evitare o gestire sovrapposizioni di trasmissione.
-
-### COME FUNZIONA
-
-La logica base è questa:
-
-1. il dispositivo **ascolta** il canale
-    
-2. se il canale è libero, trasmette
-    
-3. se il canale è occupato, aspetta
-    
-4. se due dispositivi trasmettono insieme, si ha una **collisione**
-    
-5. con **CSMA/CD**, i dispositivi se ne accorgono, interrompono la trasmissione e ritentano dopo un tempo casuale
-    
-
-Questo tempo casuale serve a evitare che due dispositivi riprovino nello stesso momento.
-
-Se le collisioni continuano, dopo vari tentativi il sistema smette di insistere: in Ethernet classica il massimo è **16 tentativi**.
-
-### ESEMPIO
-
-In una vecchia rete Ethernet condivisa, due PC possono “pensare” che il canale sia libero e iniziare insieme a trasmettere.  
-Allora la trasmissione si rovina e interviene il meccanismo di collisione.
-
-### DIFFERENZE IMPORTANTI
-
-- **CSMA** = ascolta prima di trasmettere
-    
-- **CSMA/CD** = ascolta, trasmette e rileva anche le collisioni
-    
-
-Importante: questo vale per reti **con mezzo condiviso**.  
-Nelle reti moderne con **switch** e collegamenti point-to-point, le collisioni praticamente non ci sono più, quindi CSMA/CD non è più centrale come una volta.
-
-### RIASSUNTO FINALE
-
-CSMA controlla se il canale è libero prima di trasmettere.  
-CSMA/CD aggiunge il rilevamento delle collisioni.  
-È un concetto storico molto importante per capire l’evoluzione delle reti Ethernet.
-
----
-
-## 5) Hub
-
-### COS’È
-
-L’**hub** è un dispositivo di livello fisico che riceve un segnale e lo inoltra a tutte le porte.
-
-### A COSA SERVE
-
-Serviva a collegare più dispositivi nella rete locale, ma in modo molto semplice e poco efficiente.
-
-### COME FUNZIONA
-
-Se un computer invia un dato all’hub, l’hub lo manda a tutti i dispositivi collegati.  
-Non capisce chi sia il destinatario reale.
-
-Quindi lavora come un “ripetitore multiplo”.
-
-### ESEMPIO
-
-Se un PC manda un messaggio attraverso un hub, tutti gli altri PC lo ricevono, anche se il messaggio non è per loro.
-
-### DIFFERENZE IMPORTANTI
-
-- **Hub**: manda tutto a tutti
-    
-- **Switch**: manda i dati solo alla porta giusta
-    
-
-### RIASSUNTO FINALE
-
-L’hub lavora al livello fisico e inoltra tutto a tutti.  
-Crea molto traffico inutile.  
-Per questo oggi è quasi completamente sostituito dallo switch.
 
 ---
 
@@ -657,19 +753,8 @@ Questi appunti, messi insieme, descrivono bene una rete locale:
 
 ---
 
-[CONTROLLO STUDIO]
-
 - ✔ Corretto: MAC come indirizzo fisico, shell come interfaccia a comandi, `ipconfig` come comando di rete, DNS e DHCP come servizi diversi ma anche sullo stesso server, hub come dispositivo di livello 1, switch come soluzione più efficiente, CSMA/CD per reti condivise.
     
-- ⚠ Correzioni: il MAC non è “immutabile” in senso assoluto; i primi 24 bit identificano il produttore tramite OUI; DNS e DHCP non sono la stessa cosa; topologia e tipologia non vanno confuse.
-    
-- ➕ Integrazioni utili: distinzione tra reti condivise e reti con switch, massimo 16 ritenti in Ethernet classica, ruolo dell’hub nel broadcast.
-    
-- ❌ Non trattato: dettaglio dei livelli ISO/OSI legati a questi concetti, ARP, incapsulamento, collision domain e broadcast domain in modo formale.
-    
-
-[DA RICORDARE]
-
 - concetto chiave: il MAC identifica la scheda nella LAN, il DHCP configura, il DNS traduce i nomi, lo switch è più intelligente dell’hub.
     
 - errore comune: confondere topologia con tipologia e pensare che DNS e DHCP siano lo stesso servizio.

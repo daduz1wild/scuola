@@ -1010,3 +1010,8 @@ Se devi progettare una rete da zero, segui questi passaggi:
 All'esame, giustifica sempre le tue scelte con la frase: **"Secondo lo standard TIA/EIA 568, ho optato per una topologia a stella gerarchica per garantire scalabilità e facilità di manutenzione."** Questo fa capire subito che sai di cosa parli.
 
 **C'è un argomento specifico di questi 5 punti che vuoi approfondire ancora, o ti senti pronto?**
+
+rete IoT userà il protocollo **MQTT** per inviare i dati dei sensori al server centrale.
+
+
+

@@ -213,8 +213,6 @@ che sono **il passo successivo della guerra** e quasi sicuramente **le prossime 
 
 
 
-# ULTIMA LEZIONE
-
 # ⚔️ LA SECONDA GUERRA MONDIALE
 
 ## Il crollo della Francia e l’ingresso dell’Italia (1940)

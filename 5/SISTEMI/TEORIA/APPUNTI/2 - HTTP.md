@@ -23,7 +23,7 @@ In pratica TCP:
 
 - divide i dati in segmenti
     
-- numeri i segmenti
+- numera i segmenti
     
 - controlla le ricezioni
     
@@ -97,11 +97,12 @@ Si usa quando la rapidità è più importante della perfezione dei dati.
 
 ---
 
-## 11) Porte
+## 11) PORTE
 
 ### COS’È
 
-Le **porte** sono numeri che identificano il servizio o l’applicazione che sta usando la rete su un dispositivo.
+Le **porte** sono numeri logici usati dal sistema operativo per distinguere i diversi servizi che comunicano in rete sullo stesso dispositivo.
+
 
 ### A COSA SERVONO
 
@@ -151,7 +152,7 @@ Certo. Qui unisco **HTTP/HTTPS** con il **proxy** e la **cache**, mantenendo il 
 **HTTP** è il protocollo usato per scambiare pagine web e dati tra client e server.  
 **HTTPS** è la versione sicura di HTTP, perché aggiunge la cifratura.
 
-Un **proxy** è un intermediario tra client e server: riceve la richiesta del client, la controlla e poi decide se inoltrarla al server oppure rispond56ere usando una copia già salvata.
+Un **proxy** è un intermediario tra client e server: riceve la richiesta del client, la controlla e poi decide se inoltrarla al server oppure rispondere usando una copia già salvata.
 
 ### A COSA SERVE
 
@@ -190,15 +191,6 @@ Il flusso è questo:
     
 9. il proxy invia la risposta al client
     
-
-Mini schema:
-
-`client → proxy → server → proxy → client`
-
-Se c’è cache:
-
-`client → proxy → client`
-
 ### ESEMPIO
 
 Tu apri una pagina web tramite un proxy scolastico o aziendale.
@@ -439,7 +431,34 @@ Per capire bene il flusso:
 6. router e gateway li fanno uscire dalla rete locale
     
 
-Questa catena è molto importante all’orale.
+Questa catena è molto importante all’orale.à
+
+Ecco i tuoi appunti **riscritti, corretti e messi in ordine**, in modo che siano chiari e comprensibili per lo studio.
+
+---
+
+# ✅ **PDU, incapsulamento e livelli OSI**
+
+Quando un’applicazione deve trasmettere dati, ogni livello OSI aggiunge la sua intestazione.
+Questo processo si chiama **incapsulamento**.
+
+* **Livello 7–5**: dati dell’applicazione
+* **Livello 4**: segmento (TCP) o datagramma (UDP)
+* **Livello 3**: pacchetto IP
+* **Livello 2**: frame Ethernet
+* **Livello 1**: bit sul mezzo
+
+👉 **La PDU finale su rete locale è il *frame Ethernet***, che contiene al suo interno il pacchetto IP, che contiene il segmento, ecc.
+
+---
+
+# ✅ **Pacchetto IP → Frame Ethernet**
+
+* Il **pacchetto IP** da solo non può viaggiare su una rete fisica.
+* Deve essere **incapsulato** in un **frame Ethernet**, che richiede:
+
+  * MAC sorgente
+  * MAC destinazione (conosciuto tramite ARP)
 
 ---
 

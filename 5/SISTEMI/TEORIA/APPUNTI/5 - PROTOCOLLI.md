@@ -24,7 +24,7 @@ Il funzionamento è semplice:
     
 2. controlla nella propria **tabella ARP** se conosce già il MAC;
     
-3. se non lo conosce, invia una richiesta **ARP Request in broadcast**;
+3. se non lo conosce, invia una richiesta **ARP Request in broadcast**; `FF:FF:FF:FF:FF:FF`
     
 4. tutti i dispositivi della LAN ricevono la richiesta;
     
@@ -60,8 +60,108 @@ La tabella ARP memorizza queste associazioni e si aggiorna quando c’è comunic
 È un passaggio fondamentale per far funzionare davvero la consegna dei dati nella LAN.
 
 ---
+## INFO IMPORTANTI SU PACCHETTO IP E FRAME
 
-# 2) Tabella ARP
+Sì, la correggerei perché il termine "payload applicativo" è fuorviante per ICMP (che è un protocollo di rete, non di applicazione) e tecnicamente il messaggio ICMP è il payload del pacchetto IP, mentre i dati reali sono il payload del messaggio ICMP.
+
+Ecco la versione corretta e più precisa, mantenendo la tua struttura:
+
+# 2) Frame Ethernet, pacchetto IP e ping
+
+## COS’È
+
+Un dato che viaggia in rete viene incapsulato a più livelli.
+
+## A COSA SERVE
+
+Serve per permettere al messaggio di viaggiare correttamente nella rete.
+
+## COME FUNZIONA
+
+Nel caso del ping:
+
+Il **payload** è la parte **utile** di un messaggio o di un pacchetto dati.
+È il contenuto reale che vuoi trasportare, escludendo tutte le informazioni di servizio (come indirizzi, intestazioni o codici di controllo) necessarie solo per farlo arrivare a destinazione.
+
+- il **payload** del pacchetto IP è l'intero **messaggio ICMP** (header + dati)
+    
+- il **payload** del messaggio ICMP sono i **dati di test** (byte inviati dall'utente)
+    
+- tutto viene inserito in un **pacchetto IP**
+    
+- il pacchetto IP viene inserito in un **frame Ethernet**
+    
+
+Quindi:
+
+- **IP packet** = contiene IP sorgente, IP destinazione e messaggio ICMP
+    
+- **Ethernet frame** = contiene MAC sorgente, MAC destinazione, il pacchetto IP e il trailer
+
+
+    
+
+### Correzione importante
+
+L’IP **da solo non basta** per inviare il pacchetto su una LAN.  
+Per la consegna a livello locale servono anche i **MAC address**.
+
+Se il destinatario è fuori rete, il frame non va al MAC del destinatario finale, ma al **MAC del gateway/router**.
+
+## ESEMPIO
+
+Quando fai ping a un altro PC della rete, il pacchetto IP viene trasportato dentro un frame Ethernet con i MAC corretti.
+
+## DIFFERENZE IMPORTANTI
+
+- **IP packet** = livello rete
+    
+- **Ethernet frame** = livello collegamento dati
+    
+- **broadcast MAC** = `FF:FF:FF:FF:FF:FF`
+    
+
+Ecco la spiegazione semplice di cosa sono concretamente questi "dati" nei due livelli:
+
+### 1. Il "Messaggio ICMP" (Payload del Pacchetto IP)
+Immagina il pacchetto IP come una **busta da spedizione**.
+*   **Cosa c'è scritto sulla busta (Header IP):** Indirizzo IP di chi manda e di chi riceve.
+*   **Cosa c'è dentro la busta (Payload IP):** È l'intero **messaggio ICMP**.
+    *   Questo messaggio è un "pacchetto chiuso" che dice: *"Ehi, sono un Ping (Echo Request), rispondimi!"*.
+    *   Contiene a sua volta una sua piccola intestazione (tipo, "sono un messaggio di tipo 8") e i dati veri e propri.
+    *   **A cosa serve:** Dire al computer di destinazione: "Non scartare questo pacchetto, è un comando di controllo, elaboralo".
+
+### 2. I "Dati di Test" (Payload del Messaggio ICMP)
+Immagina il messaggio ICMP come una **lettera aperta** dentro la busta.
+*   **L'intestazione della lettera (Header ICMP):** Dice il tipo di messaggio (Echo Request) e un codice di controllo.
+*   **Il testo della lettera (Payload ICMP):** Sono i **dati di test**.
+    *   **Cosa sono:** Una sequenza di byte (spesso lettere dell'alfabeto in ordine come `a, b, c, d...` o numeri) che il tuo computer inventa al momento.
+    *   **A cosa servono:** Servono solo a **riempire spazio** per testare la rete.
+    *   Quando il computer riceve il ping, prende *esattamente* quegli stessi byte e te li rispedisce indietro. Se tornano identici, la connessione è integra e non ha corrotto i dati.
+
+---
+
+### Esempio Pratico (Hex Dump)
+Se vedessi i dati grezzi di un ping standard, apparirebbero così:
+
+1.  **Livello IP (La Busta):**
+    *   `Source IP`: 192.168.1.5
+    *   `Dest IP`: 8.8.8.8
+    *   `Payload`: **[Tutto il blocco qui sotto]**
+
+2.  **Livello ICMP (La Lettera):**
+    *   `Type`: 8 (Echo Request)
+    *   `Code`: 0
+    *   `Checksum`: (codice di controllo)
+    *   `Payload`: **`a b c d e f g h ...`** (Questi sono i **dati di test**).
+
+
+## RIASSUNTO FINALE
+
+Il pacchetto IP contiene gli indirizzi IP e i dati.  
+Il frame Ethernet aggiunge i MAC e il trailer.  
+Sulla rete locale, senza MAC il pacchetto non può essere consegnato correttamente.
+# 3) Tabella ARP
 
 ## COS’È
 
@@ -96,7 +196,8 @@ La tabella ARP non è la stessa cosa della tabella CAM dello switch:
 - **tabella ARP** → IP ↔ MAC, sta nel computer
     
 - **tabella CAM** → MAC ↔ porta, sta nello switch
-**tabella CAM nelle reti informatiche** (switch Ethernet), essa è la **tabella di indirizzamento MAC** memorizzata nella memoria ad accesso rapido (Content-Addressable Memory) dello switch. Questa tabella mappa gli **indirizzi MAC** dei dispositivi alle **porte fisiche** dello switch, permettendo il forwarding efficiente dei frame solo verso la porta di destinazione, evitando il flooding su tutte le porte. Non è presente nei risultati di ricerca forniti, che trattano esclusivamente temi di edilizia e normativa ambientale.
+
+**tabella CAM nelle reti informatiche** (switch Ethernet), essa è la **tabella di indirizzamento MAC** memorizzata nella memoria ad accesso rapido (Content-Addressable Memory) dello switch. Questa tabella mappa gli **indirizzi MAC** dei dispositivi alle **porte fisiche** dello switch, permettendo il forwarding efficiente dei frame solo verso la porta di destinazione, evitando il flooding su tutte le porte. 
     
 
 ## RIASSUNTO FINALE
@@ -107,145 +208,11 @@ Si può visualizzare con `arp -a`.
 
 ---
 
-# 3) Hub, switch, CSMA/CD e collisioni
-
-## HUB
-
-### COS’È
-
-L’**hub** è un dispositivo di livello 1, cioè del **livello fisico**.
-
-### A COSA SERVE
-
-Serviva a collegare più dispositivi in una rete locale, ma in modo molto semplice e poco intelligente.
-
-### COME FUNZIONA
-
-L’hub riceve un segnale su una porta e lo **replica su tutte le altre porte**.  
-Non distingue il destinatario.
-
-Per questo:
-
-- lavora in modo simile a un “ripetitore”
+- concetto chiave: ARP collega IP e MAC, DNS collega nomi e IP, DHCP configura il dispositivo, switch usa i MAC per inoltrare i frame.
     
-- non usa IP
+- errore comune: pensare che l’IP basti da solo; in rete locale servono anche MAC, ARP e incapsulamento Ethernet.
     
-- non usa MAC per instradare i dati
-    
-
-### ESEMPIO
-
-Se un PC invia un dato a un hub, tutti i PC collegati all’hub ricevono quel segnale.
-
-### DIFFERENZE IMPORTANTI
-
-L’hub crea un unico mezzo condiviso.  
-Questo aumenta il traffico inutile e favorisce le collisioni.
-
-### RIASSUNTO FINALE
-
-L’hub lavora al livello fisico e inoltra tutto a tutti.  
-È poco efficiente e oggi è quasi sempre sostituito dallo switch.
-
----
-
-## CSMA/CD
-
-### COS’È
-
-**CSMA/CD** è il meccanismo usato nelle reti Ethernet condivise per controllare l’accesso al mezzo e gestire le collisioni.
-
-### A COSA SERVE
-
-Serve quando più host possono voler trasmettere sullo stesso canale contemporaneamente.
-
-### COME FUNZIONA
-
-La logica è questa:
-
-1. il nodo ascolta il canale;
-    
-2. se il canale è libero, trasmette;
-    
-3. se il canale è occupato, aspetta;
-    
-4. se due host trasmettono insieme, si verifica una **collisione**;
-    
-5. gli host interrompono la trasmissione;
-    
-6. inviano un **jamming signal** per segnalare la collisione;
-    
-7. attendono un tempo casuale e poi ritentano.
-    
-
-Il ritardo casuale serve per evitare che due host riprovino nello stesso istante.
-
-Importante: il tempo di rilevazione della collisione non è dell’ordine dei millisecondi come scritto nei tuoi appunti; è molto più piccolo, nell’ordine dei **microsecondi** nelle reti Ethernet classiche.
-
-### ESEMPIO
-
-In una rete con hub, due PC possono iniziare a trasmettere quasi nello stesso momento.  
-La trasmissione si sovrappone, avviene una collisione e il meccanismo CSMA/CD interviene.
-
-### DIFFERENZE IMPORTANTI
-
-- **CSMA** = ascolta prima di trasmettere
-    
-- **CSMA/CD** = ascolta e rileva anche le collisioni
-    
-
-Nelle reti moderne con **switch**, le collisioni quasi non esistono più, quindi CSMA/CD non è più centrale come nelle vecchie Ethernet condivise.
-
-### RIASSUNTO FINALE
-
-CSMA/CD regola l’accesso al mezzo nelle reti condivise e gestisce le collisioni.  
-È tipico delle reti con hub o con mezzo trasmissivo condiviso.  
-Nelle reti moderne con switch è molto meno importante.
-
----
-
-## SWITCH
-
-### COS’È
-
-Lo **switch** è un dispositivo di livello 2, cioè del **livello collegamento dati**.
-
-### A COSA SERVE
-
-Serve a collegare più dispositivi nella stessa rete locale in modo più efficiente rispetto all’hub.
-
-### COME FUNZIONA
-
-Lo switch legge i **MAC address** e inoltra il frame solo sulla porta corretta.  
-Per farlo usa la **tabella CAM**, che associa:
-
-- **MAC address → porta dello switch**
-    
-
-Ogni porta dello switch è, di fatto, un dominio di collisione separato.  
-Per questo non si hanno le collisioni tipiche dell’hub.
-
-### ESEMPIO
-
-Se un PC manda un frame a un altro PC collegato allo switch, lo switch lo inoltra solo alla porta del destinatario, non a tutti.
-
-### DIFFERENZE IMPORTANTI
-
-- **Hub** → broadcast a tutte le porte
-    
-- **Switch** → inoltro selettivo sulla porta giusta
-    
-
-Con lo switch non serve CSMA/CD come nelle reti condivise, perché il mezzo non è condiviso nello stesso modo.
-
-### RIASSUNTO FINALE
-
-Lo switch usa i MAC address e la tabella CAM per inviare i dati solo dove servono.  
-È più efficiente dell’hub e riduce traffico e collisioni.  
-È il dispositivo tipico delle LAN moderne.
-
----
-
+- collegamento utile: ARP, DHCP, DNS e switch spiegano come un host entra in rete e comunica davvero con gli altri dispositivi.
 # 4) Porte e socket
 
 ## PORTE
@@ -280,7 +247,9 @@ Le porte più usate sono le **well-known ports** da `0` a `1023`, per esempio:
 - `53` → DNS
     
 - `67-68` → DHCP
+- **Porta 21 (TCP)**: È la porta di controllo standard. Viene utilizzata per stabilire la connessione iniziale, autenticare l'utente e trasmettere i comandi tra client e server. 
     
+- **Porta 20 (TCP)**: È la porta dati standard nella **modalità attiva**.  Il server usa questa porta per inviare i dati al client dopo che la connessione di controllo è stata stabilita.
 
 ### ESEMPIO
 
@@ -310,7 +279,8 @@ Le porte più note sono 80, 443, 22, 53, 25 e 67-68.
 
 ### COS’È
 
-Un **socket** è l’elemento logico che identifica una comunicazione tra due processi di rete.
+Un **socket** è l’elemento logico che serve a identificare in modo univoco una connessione tra un’applicazione client e un’applicazione server.
+
 
 ### A COSA SERVE
 
@@ -327,14 +297,81 @@ Un socket è collegato a:
 - IP destinazione
     
 - porta destinazione
-    
+- protocollo
 
 Questa combinazione permette di riconoscere in modo preciso la connessione.
+
+## A COSA SERVE
+
+Serve per distinguere correttamente:
+
+* quale dispositivo sta comunicando
+* quale applicazione del dispositivo sta comunicando
+* quale servizio sul server deve ricevere i dati
+
+Questo è fondamentale perché sullo stesso computer possono esserci più programmi in rete contemporaneamente:
 
 ### ESEMPIO
 
 Quando il tuo browser apre un sito, la comunicazione non dipende solo dall’IP del server, ma anche dalla porta usata e dal processo che gestisce la richiesta.
 
+### Caso del browser
+
+Quando apri un sito web:
+
+1. il browser fa una richiesta verso un server, per esempio Google
+2. il tuo PC usa il proprio IP
+3. il sistema operativo assegna una **porta sorgente temporanea** al browser
+4. il server risponde sulla **porta di destinazione** corretta, per esempio:
+
+   * 80 per HTTP
+   * 443 per HTTPS
+
+## ESEMPIO
+
+Supponiamo di avere due richieste contemporanee dal tuo PC:
+
+* browser 1 → porta sorgente `1000`
+* browser 2 → porta sorgente `2000`
+
+Entrambe vanno verso Google.
+
+Allora le connessioni si distinguono così:
+
+* `IP_PC:1000 → IP_Google:80`
+* `IP_PC:2000 → IP_Google:80`
+
+Anche se il server di destinazione è lo stesso, il sistema distingue le due comunicazioni grazie alle porte sorgenti diverse.
+
+### Esempio ancora più realistico
+
+Se apri:
+
+* una pagina web
+* un client email
+* un trasferimento FTP
+
+il sistema usa socket diversi per non confondere i flussi di dati.
+
+---
+
+## DIFFERENZE IMPORTANTI
+
+### Socket vs porta
+
+* **porta** = numero che identifica il servizio o il processo
+* **socket** = identificazione completa della comunicazione
+
+### Socket vs IP
+
+* **IP** = identifica il dispositivo
+* **socket** = identifica la comunicazione tra dispositivi e processi
+
+
+### Socket client e socket server
+
+* il **server** resta in ascolto su una porta nota, per esempio 80 o 443
+* il **client** usa di solito una porta temporanea, chiamata anche porta effimera
 ### DIFFERENZE IMPORTANTI
 
 - **IP** = dispositivo
@@ -356,7 +393,7 @@ Usa IP e porte per identificare in modo preciso chi comunica con chi.
 
 ## COS’È
 
-I protocol-----------------li lavorano su livelli diversi del modello di rete.
+I protocolli lavorano su livelli diversi del modello di rete.
 
 ## A COSA SERVE
 
@@ -372,7 +409,8 @@ In base ai tuoi appunti:
     
 - **TCP/UDP** → livello 4
     
-- **HTTP/HTTPS** → livello 7
+- **HTTP/ livello 7
+- HTTPS** → livello  5-6-7
     
 - **DNS** → livello 7
     
@@ -487,15 +525,7 @@ Questo è uno dei collegamenti più importanti da saper dire all’orale.
 
 ---
 
-[CONTROLLO STUDIO]
-
-- ✔ Corretto: ARP come risoluzione IP→MAC, tabella ARP temporanea, hub al livello fisico e broadcast, switch al livello 2 con tabella CAM, porte come numeri logici, socket come canale di comunicazione, browser come client di livello applicazione.
-    
-- ⚠ Correzioni: il MAC non è “immutabile” in senso assoluto; ARP non fa il contrario del mapping IP→MAC; il tempo di rilevazione delle collisioni non è in millisecondi ma molto più breve; il browser non ha una “parte server” interna; le scadenze della tabella ARP non sono sempre fisse a 5 minuti.
-    
-- ➕ Integrazioni utili: distinzione tabella ARP/tabella CAM, collegamento tra IP-MAC-ARP-switch, ruolo delle porte nelle connessioni applicative, distinzione client/server nel web.
-    
-- ❌ Non trattato: ARP proxy, ARP spoofing, dettagli formali di frame Ethernet e encapsulamento completo, porta effettiva del browser per HTTPS/TLS in profondità.
+[CONTROLLO S
     
 
 [DA RICORDARE]
@@ -505,3 +535,73 @@ Questo è uno dei collegamenti più importanti da saper dire all’orale.
 - errore comune: confondere hub e switch, oppure pensare che l’IP basti da solo senza MAC, porta e protocollo.
     
 - collegamento utile: ARP, switch, porte e socket spiegano come una richiesta passa dal livello locale fino al servizio applicativo come HTTP o HTTPS.
+
+
+## SMTP (Simple Mail Transfer Protocol)
+
+Protocollo standard per l’invio e il trasferimento delle email tra client e server SMTP e tra server SMTP di domini diversi.
+
+
+
+## DSL, ADSL e Fibra Ottica
+
+- **DSL/ADSL:** connessioni Internet via linea telefonica in rame. ADSL offre velocità asimmetriche (più veloce in download) sfruttando frequenze diverse per upload e download. Costi contenuti ma dipendenza da distanza centrale e interferenze.
+    
+- **Fibra Ottica:** trasmissione dati tramite impulsi luminosi in cavi di vetro/plastica, offre velocità elevatissime, bassa attenuazione, alta affidabilità ma costi d’installazione maggiori.
+    
+- **FTTH:** Fibra ottica diretta fino a casa/ufficio, offre connessioni molto veloci e affidabili con bassa latenza.
+    
+
+## WiFi e protocolli di sicurezza (WEP, WPA1, WPA2, WPA3)
+
+Gli standard WiFi (802.11) regolano la comunicazione wireless con frequenze 2,4 GHz e 5 GHz, evolvendo in velocità e prestazioni.
+
+- _WEP:_ protocollo di sicurezza obsoleto e vulnerabile.
+    
+- _WPA1, WPA2:_ miglioramenti sostanziali nella sicurezza con WPA2 largamente usato oggi.
+    
+- _WPA3:_ standard recente (2018) che migliora sicurezza e integrità.
+    
+- _Altri:_ WPA2/WPA3 supportano autenticazione robusta e crittografia avanzata.
+
+## FTTH (Fiber To The Home)
+
+Tecnologia che porta la fibra ottica direttamente all’edificio, fornendo connessioni molto veloci, affidabili, con bassa latenza, idonee per servizi avanzati come streaming ad alta definizione e gaming online.
+
+## Crittografia
+
+Processo di trasformazione dei dati in forma cifrata per proteggerli da accessi non autorizzati durante la trasmissione o archiviazione.
+
+- **Simmetrica:** stessa chiave per cifrare e decifrare (es. AES, DES).
+    
+- **Asimmetrica:** chiave pubblica per cifrare, chiave privata per decifrare (es. RSA, DSA).
+    
+- **Hash:** genera impronta digitale univoca dei dati (es. SHA, MD5) per verifica integrità e password.
+    
+- **Importanza:** garantisce confidenzialità, integrità, autenticazione e non ripudio.
+    
+## SSL e TLS
+
+Protocolli crittografici per garantire la sicurezza delle comunicazioni su Internet, soprattutto per HTTPS e email sicure.
+
+- **SSL:** primo protocollo ampiamente utilizzato, oggi obsoleto a causa di vulnerabilità.
+    
+- **TLS:** evoluzione di SSL, standard IETF, versioni 1.0 a 1.3 con miglioramenti di sicurezza e prestazioni.
+    
+- **Funzioni principali:** crittografia, autenticazione tramite certificati digitali, integrità dati, forward secrecy.
+    
+- **Applicazioni:** HTTPS, SMTPS, FTPS e altre comunicazioni sicure.
+    
+## Cloud Computing
+
+Modello che permette l’accesso a risorse IT (server, storage, software) on-demand via Internet.
+
+- **Caratteristiche:** accesso ubiquo, scalabilità, servizio misurato.
+    
+- **Modelli di servizio:**
+    
+    - IaaS: infrastruttura virtuale (server, storage).
+        
+    - PaaS: piattaforme di sviluppo e gestione app.
+        
+    - SaaS: software disponibili via browser.

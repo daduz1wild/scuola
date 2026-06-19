@@ -38,23 +38,7 @@ RIP appartiene alla famiglia dei **distance vector**.
 
 Ogni router invia periodicamente ai router vicini una copia della propria **routing table**.
 
-Quando un router riceve una rotta:
 
-* la memorizza
-* aggiunge **1 hop** alla metrica
-* poi la può inoltrare agli altri
-
-### Hop count
-
-In RIP la metrica è il **numero di hop**:
-
-* più hop = percorso meno vicino
-* meno hop = percorso migliore
-
-### Limite importante
-
-RIP considera una rete **irraggiungibile** se servono più di **15 hop**.
-Il valore **16** indica rete non raggiungibile.
 
 ### Aggiornamenti periodici
 

@@ -8,7 +8,7 @@ Certo. Qui facciamo una spiegazione **chiara, corretta e da maturità** sulla **
 
 La **VPN** (*Virtual Private Network*) è una tecnologia che crea una **connessione privata e sicura** sopra una rete pubblica, come Internet.
 
-In pratica, il tuo computer si collega a un **server VPN** e da lì il traffico viene inoltrato verso la destinazione finale attraverso un **tunnel virtuale cifrato**.
+In pratica, un computer si collega a un **server VPN** e da lì il traffico viene inoltrato verso la destinazione finale attraverso un **tunnel virtuale cifrato**.
 
 ---
 
@@ -129,25 +129,67 @@ I protocolli più noti, in generale, sono quelli che permettono:
 * autenticazione
 * integrità dei dati
 
-### Correzione importante
+## SPECIFICO MATURITà
+Il principio base delle VPN si fonda sulla tecnologia IPsec, che consente lo scambio di pacchetti IP cifrati tra dispositivi remoti.
 
-Nei tuoi appunti hai scritto:
-
-* `ipfsense`
-* `ipfseck`
-
-La forma corretta è **IPsec** (*Internet Protocol Security*), che è una delle tecnologie più note per le VPN.
-
-Altri esempi molto noti, a livello generale, sono:
-
-* **IPsec**
-* **OpenVPN**
-* **WireGuard**
-
-Per la maturità, se il programma della tua scuola è più classico, basta sapere bene soprattutto **IPsec** come tecnologia di sicurezza per VPN.
+**IPsec** (*Internet Protocol Security*), che è una delle tecnologie più note per le VPN.
 
 ---
+## Tunnelling
 
+Il tunnelling è la tecnica tramite cui si usa una rete pubblica (es. Internet) per trasportare pacchetti appartenenti a una rete privata. Ciò avviene creando un tunnel virtuale che collega dispositivi appartenenti alla stessa rete privata, benché siano geograficamente separati e connessi tramite la rete pubblica.
+
+- Il tunnel sfrutta i protocolli e servizi della rete pubblica, come ad esempio il protocollo IP su Internet.
+    
+- Se la comunicazione attraverso il tunnel è opportunamente gestita, in particolare tramite cifratura, si genera un collegamento virtuale sicuro tra due dispositivi.
+    
+- Questo collegamento permette la comunicazione come se i dispositivi fossero nella stessa rete privata fisica.
+    
+- La rete privata così creata, che utilizza anche tali collegamenti virtuali, si definisce Virtual Private Network (VPN).
+    
+
+## IPsec
+
+IPsec (Internet Protocol Security) non è un singolo protocollo ma una collezione di protocolli che permette di rendere sicuri i pacchetti IP mediante cifratura e autenticazione. A differenza del TLS (Transport Layer Security) che cifra solo i dati trasmessi su una connessione TCP lasciando intestazioni IP e TCP non cifrate, IPsec cifra i pacchetti IP interi per garantire maggior sicurezza.
+
+Poiché i pacchetti IP cifrati devono comunque essere instradati tra IP, IPsec usa i pacchetti IP in chiaro per il tunnelling, ovvero incapsula i pacchetti IP cifrati dentro pacchetti IP visibili ai router durante la trasmissione pubblica.
+
+### Esempio pratico di uso di IPsec in VPN
+
+- Un’azienda ha una propria Intranet con server e workstation aziendali non esposti pubblicamente.
+    
+- I dipendenti in smart working usano la VPN per collegarsi alla rete aziendale da casa.
+    
+- La workstation domestica ottiene una chiave crittografica, con la quale cifra i pacchetti IP inviati.
+    
+- Per trasmettere questi pacchetti cifrati, la workstation usa la rete Internet pubblica inviando un pacchetto IP in chiaro (contenente il pacchetto cifrato) al gateway aziendale.
+    
+- Il gateway aziendale, che conosce la chiave condivisa, estrae e decifra il pacchetto IP interno, reinserendolo nella rete aziendale in chiaro.
+    
+- In questo modo il pacchetto IP può viaggiare liberamente nella rete aziendale come se fosse generato direttamente dal suo interno.
+
+## Modalità di Funzionamento dei protocolli AH ed ESP
+
+Sia AH che ESP possono operare in due modalità diverse che influenzano quali parti del pacchetto IP vengono protette:
+
+### Transport Mode (Modalità Trasporto)
+
+- Solo il payload del pacchetto IP viene cifrato o autenticato (a seconda del protocollo usato).
+    
+- L'header IP originale rimane invariato e visibile ai router intermedi per l'instradamento.
+    
+- La sicurezza è applicata solo al livello di trasporto, cioè ai dati trasportati all'interno del pacchetto IP.
+    
+
+### Tunnel Mode (Modalità Tunnelling)
+
+- Sia l'header IP originale che il payload del pacchetto sono cifrati e autenticati.
+    
+- Il pacchetto IP completo (header + payload) cifrato viene incapsulato dentro un nuovo pacchetto IP con un nuovo header.
+    
+- Questo nuovo header è in chiaro ed è usato dai router per instradare il pacchetto attraverso la rete pubblica.
+    
+- La modalità tunnel è quella tipicamente utilizzata per creare VPN, poiché incapsula pacchetti IP privati all’interno di pacchetti IP pubblici, realizzando così il tunnelling su IP.
 # COME FUNZIONA LA CIFRATURA
 
 ## COS’È

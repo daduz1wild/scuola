@@ -4,19 +4,153 @@
     "type": "split",
     "children": [
       {
-        "id": "980c872ff86b0ada",
+        "id": "b4ee2381d2989276",
         "type": "tabs",
         "children": [
           {
-            "id": "c85c0d9e1c5793cb",
+            "id": "59d16b68fb33d625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/SISTEMI/SCRITTI MATURITà.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SCRITTI MATURITà"
+            }
+          },
+          {
+            "id": "b95a3d173a208030",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/SISTEMI/TEORIA/APPUNTI/17 - WIRELESS IOT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17 - WIRELESS IOT"
+            }
+          },
+          {
+            "id": "ebfb8b5921a15be8",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "5/INFO/PDF/37 - Transazioni.pdf"
+                "file": "5/SISTEMI/TEORIA/APPUNTI/MATERIALE_MATURITà/PDF TEORIA(RIASSUNTONI)/69983a8c24f84650292718.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "37 - Transazioni"
+              "title": "69983a8c24f84650292718"
+            }
+          },
+          {
+            "id": "cb86bc794b394f87",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "5/SISTEMI/TEORIA/APPUNTI/MATERIALE_MATURITà/PDF TEORIA(RIASSUNTONI)/guida_allo_svolgimento_dell_esame_di_stato_sistemi_e_reti.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "guida_allo_svolgimento_dell_esame_di_stato_sistemi_e_reti"
+            }
+          },
+          {
+            "id": "9762265394ff650d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "5/SISTEMI/TEORIA/APPUNTI/Subnetting_2_Sedi.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Subnetting_2_Sedi"
+            }
+          },
+          {
+            "id": "bef99f83ff2678bd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "5/SISTEMI/TEORIA/APPUNTI/VPN_2_Sedi.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "VPN_2_Sedi"
+            }
+          },
+          {
+            "id": "7c9b9e19312c3b26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/SISTEMI/LAB/TEORIA/SPIEGAZIONE UNICA CABLAGGIO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SPIEGAZIONE UNICA CABLAGGIO"
+            }
+          },
+          {
+            "id": "eff1a24642028a86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/SISTEMI/LAB/TEORIA/cablaggio strutturato.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cablaggio strutturato"
+            }
+          },
+          {
+            "id": "d4dc643910715cbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/SISTEMI/LAB/TEORIA/CISCO/7.4 - ACL ESTESE (DMZ).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.4 - ACL ESTESE (DMZ)"
+            }
+          },
+          {
+            "id": "d08fa48e0975826e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/SISTEMI/LAB/TEORIA/CISCO/RIPASSO GENERALE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RIPASSO GENERALE"
+            }
+          },
+          {
+            "id": "4b188273e3f1690b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/SISTEMI/comandi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "comandi"
             }
           }
         ]
@@ -54,7 +188,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -193,51 +327,51 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "dea65f1cffd87176",
+  "active": "59d16b68fb33d625",
   "lastOpenFiles": [
-    "5/INFO/PDF/39 - OOP in PHP.pdf",
-    "5/INFO/PDF/38 -  Connessione al database.pdf",
-    "5/INFO/PDF/21 - OOP in PHP.pdf",
-    "5/INFO/PDF/22 -  Connessione al database.pdf",
-    "5/INFO/PDF/36 - Viste logiche.pdf",
-    "5/INFO/PDF/35 - Utenti e DCL.pdf",
-    "5/INFO/PDF/34 - Indici.pdf",
-    "5/INFO/PDF/29 - SQL .pdf",
-    "5/INFO/PDF/33 - SQL Injection.pdf",
-    "5/INFO/PDF/32 - DQL .pdf",
-    "5/INFO/PDF/30 - DDL (1).pdf",
-    "5/SISTEMI/LAB/TEORIA/CISCO/RIPASSO GENERALE.md",
-    "5/SISTEMI/TEORIA/APPUNTI/14 - VPN.md",
-    "5/SISTEMI/TEORIA/APPUNTI/102 - VPN.md",
+    "5/SISTEMI/LAB/TEORIA/CISCO/7.4 - ACL ESTESE (DMZ).md",
+    "5/SISTEMI/SCRITTI MATURITà.md",
     "5/SISTEMI/LAB/TEORIA/SPIEGAZIONE UNICA CABLAGGIO.md",
-    "5/SISTEMI/LAB/TEORIA/CISCO/7.2 - ACL STANDARD video 15-16.md",
+    "5/SISTEMI/LAB/TEORIA/CISCO/5 - VLAN E TRUNKING.md",
+    "5/SISTEMI/comandi.md",
+    "5/SISTEMI/LAB/TEORIA/CISCO/7.3 - ACL ESTESE video 17-18.md",
+    "5/SISTEMI/LAB/TEORIA/CISCO/7.1 - ACL.md",
+    "5/SISTEMI/LAB/TEORIA/CISCO/6 - SUBNETTING.md",
+    "5/SISTEMI/TEORIA/APPUNTI/Subnetting_2_Sedi.pdf",
+    "5/SISTEMI/TEORIA/APPUNTI/VPN_2_Sedi.pdf",
+    "5/SISTEMI/TEORIA/APPUNTI/MATERIALE_MATURITà/PDF TEORIA(RIASSUNTONI)/guida_allo_svolgimento_dell_esame_di_stato_sistemi_e_reti.pdf",
+    "5/SISTEMI/TEORIA/APPUNTI/MATERIALE_MATURITà/PDF TEORIA(RIASSUNTONI)/69983a8c24f84650292718.pdf",
+    "5/SISTEMI/TEORIA/APPUNTI/17 - WIRELESS IOT.md",
+    "5/SISTEMI/TEORIA/APPUNTI/5 - PROTOCOLLI.md",
+    "5/SISTEMI/LAB/TEORIA/cablaggio strutturato.md",
+    "5/SISTEMI/LAB/TEORIA/CISCO/RIPASSO GENERALE.md",
+    "5/SISTEMI/LAB/TEORIA/CISCO/image.png",
+    "5/SISTEMI/LAB/TEORIA/cablaggio.md",
+    "5/SISTEMI/LAB/TEORIA/cablaggio_2.md",
+    "5/SISTEMI/LAB/ESERCITAZIONI/esame_di_stato_2012_abacus_prova_tema_sistemi_YABC-gara-automobilistica.pdf",
+    "5/SISTEMI/TEORIA/APPUNTI/MATERIALE_MATURITà/PDF TEORIA(RIASSUNTONI)/Sicurezza delle reti_ riassunto completo maturità _ Maturando.pdf",
+    "5/SISTEMI/TEORIA/APPUNTI/MATERIALE_MATURITà/PDF TEORIA(RIASSUNTONI)/reti.pdf",
+    "5/SISTEMI/TEORIA/APPUNTI/MATERIALE_MATURITà/PDF TEORIA(RIASSUNTONI)/ReS1.08 INDIRIZZI IP.pdf",
+    "5/SISTEMI/TEORIA/APPUNTI/MATERIALE_MATURITà/PDF TEORIA(RIASSUNTONI)/Guida_di_Sistemi_e_Reti.pdf",
+    "5/SISTEMI/TEORIA/APPUNTI/101 - RIPASSO GENERALE.md",
+    "5/ITA/TEMI MATURITà.md",
+    "5/SISTEMI/TEORIA/APPUNTI/102 - VPN.md",
+    "5/SISTEMI/TEORIA/APPUNTI/13 - SICUREZZA ONLINE E CERTIFICATI SSL.md",
+    "5/SISTEMI/TEORIA/APPUNTI/14 - VPN.md",
+    "5/SISTEMI/TEORIA/APPUNTI/15 - wildcard.md",
     "5/SISTEMI/TEORIA/APPUNTI/16 - FIREWALL E ACL.md",
     "5/SISTEMI/TEORIA/APPUNTI/11 - PAT.md",
     "5/SISTEMI/TEORIA/APPUNTI/10 - NAT DINAMICO.md",
     "5/SISTEMI/TEORIA/APPUNTI/9 - NAT statico.md",
-    "5/SISTEMI/comandi.md",
-    "5/SISTEMI/TEORIA/APPUNTI/15 - wildcard.md",
-    "5/SISTEMI/LAB/TEORIA/CISCO/7.4 - ACL ESTESE (DMZ).md",
-    "5/SISTEMI/LAB/TEORIA/CISCO/7.3 - ACL ESTESE video 17-18.md",
-    "5/SISTEMI/LAB/TEORIA/CISCO/6 - SUBNETTING.md",
-    "5/SISTEMI/LAB/TEORIA/CISCO/5 - VLAN E TRUNKING.md",
-    "5/SISTEMI/LAB/TEORIA/CISCO/4. DHCP.md",
-    "5/SISTEMI/LAB/TEORIA/CISCO/3 - routing.md",
-    "5/SISTEMI/LAB/TEORIA/CISCO/2 - video 5 RIP routing dinamico.md",
-    "5/SISTEMI/LAB/TEORIA/CISCO/1 - video 2-3-4 base e routing statico.md",
-    "5/SISTEMI/LAB/TEORIA/CISCO/7.1 - ACL.md",
-    "5/EXTRA/maturita.md",
-    "5/TPS/LAB/TEORIA/PENTAMESTRE/2- VERIFICA SOCKET.md",
-    "5/TPS/LAB/TEORIA/PENTAMESTRE/3. MIA VERIFICA.md",
-    "5/TPS/LAB/TEORIA/PENTAMESTRE/1 - SOCKET.md",
-    "5/TPS/LAB/TEORIA/PENTAMESTRE/TEORIA VERIFICA RELAZIONE.md",
+    "5/SISTEMI/TEORIA/APPUNTI/7 - comandi terminale.md",
+    "5/SISTEMI/TEORIA/APPUNTI/4 - SWITCH E ANDING.md",
+    "5/TPS/LAB/TEORIA/PENTAMESTRE/AJAX.pdf",
     "5/GESSTIONE PROG/CODEQUEST/codeQuest-master/assets/images/tileset.png",
     "5/GESSTIONE PROG/CODEQUEST/codeQuest-master/assets/images/bg_lab.png",
     "5/GESSTIONE PROG/codeQuest-master/assets/images/bg_lab.png",
     "5/GESSTIONE PROG/codeQuest-master/assets/images/tileset.png",
     "5/GESSTIONE PROG/codeQuest-master/codeQuest-master/assets/images/bg_lab.png",
     "5/GESSTIONE PROG/codeQuest-master/codeQuest-master/assets/images/tileset.png",
-    "5/SISTEMI/LAB/TEORIA/CISCO/image.png",
     "Pasted image 20260427193624.png",
     "5/INFO/PRATICA/ESERCITAZIONI/ESERCITAZIONE_VERIFICASQL/TEORIA/Senza nome.canvas",
     "5/ITA/PENTAMESTRE/PIRANDELLO/Senza nome.canvas",

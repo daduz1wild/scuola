@@ -1,9 +1,7 @@
 switch: collega pc/nodi di una stessa rete.
 TTl(time to leave):tempo di vita di un pacchetto in una rete.
  comando PING:verifica il collegamento tra 2 macchine inviando un pacchetto di dati e aspettando una risposta.
- quindi se vogliamo collegare nodi di rete diverse dobbiamo avere 2 switch(collegati ai pc della rispettiva rete) che sono collegati a un router che serve per collegare reti diverse(2 ip diversi).
- i vari pc per sapere che devono inviare pacchetti anche a una rete che ha un'altro indirizzo ip(facendogli sapere a quale rete deve inviarlo), con che procedura?
-devo fare la procedura Anding che sfrutta la subnet mask
+
 
 **procedura di "ANDing"** (in italiano "mascheramento logico con AND") che utilizza la **subnet mask** per determinare se due dispositivi si trovano nella stessa rete. È un'operazione fondamentale per l'instradamento dei pacchetti IP.
 
@@ -42,10 +40,7 @@ Supponiamo che un PC con **IP: 192.168.1.10** e **Subnet Mask: 255.255.255.0** v
     
     - AND sull'IP del dispositivo:
         
-        scss
-        
-        CopiaModifica
-        
+    
         `11000000.10101000.00000001.00001010 AND 11111111.11111111.11111111.00000000 = 11000000.10101000.00000001.00000000 (192.168.1.0)`
         
     - AND sull'IP di destinazione:

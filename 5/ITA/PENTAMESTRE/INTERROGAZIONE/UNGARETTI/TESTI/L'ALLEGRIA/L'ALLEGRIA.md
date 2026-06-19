@@ -4,25 +4,6 @@
 
 La raccolta **L'allegria** nasce direttamente dall’esperienza della guerra.
 
-Le tappe sono fondamentali (importantissimo per la verifica):
-
-- **1916 → Il porto sepolto**  
-    poesie scritte **in trincea**, stampate in pochissime copie (80)
-    
-- **1919 → Allegria di naufragi**  
-    raccolta ampliata
-    
-- **1931 → L’allegria (titolo definitivo)**
-    
-
-👉 Questo sviluppo è importante perché mostra che Ungaretti:
-
-- rielabora continuamente le sue poesie
-    
-- cerca sempre una forma **più essenziale e perfetta**
-    
-
----
 
 ## 2. Il significato del titolo
 

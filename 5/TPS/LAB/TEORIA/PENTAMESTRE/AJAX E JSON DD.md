@@ -1,6 +1,3 @@
-Ti riscrivo i tuoi appunti in modo **chiaro, corretto e completo**, mantenendo i concetti del professore ma organizzandoli meglio così puoi studiarli facilmente.
-
----
 
 # JSON e AJAX – Spiegazione completa
 

@@ -35,9 +35,7 @@ Server intermedio che riceve richieste dai client e le inoltra ai server di dest
 - **Svantaggi:** possibili rallentamenti e rischi se mal configurato.
     
 
-## SMTP (Simple Mail Transfer Protocol)
 
-Protocollo standard per l’invio e il trasferimento delle email tra client e server SMTP e tra server SMTP di domini diversi.
 
 - _Comandi fondamentali:_ MAIL FROM, RCPT TO, DATA, QUIT.
     

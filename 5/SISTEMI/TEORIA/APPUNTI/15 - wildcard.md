@@ -10,16 +10,13 @@ Certo. La **wildcard mask** è uno dei concetti più difficili all’inizio, ma 
 
 La **wildcard mask** è una maschera usata per **selezionare**, **filtrare** o **confrontare** indirizzi IP.
 
-È l’opposto logico della subnet mask:
+nella **wildcard mask** i bit a **0** devono corrispondere esattamente, mentre i bit a **1** vengono ignorati
 
-* nella **subnet mask** i bit a **1** indicano la parte di rete
-* nella **wildcard mask** i bit a **0** devono corrispondere esattamente, mentre i bit a **1** vengono ignorati
-
-Questa è la frase chiave da ricordare.
+La wildcard mask **non deve essere contigua**, permettendo di selezionare intervalli di IP non standard o pattern specifici
 
 ### Definizione da interrogazione
 
-La wildcard mask è l’inverso logico della subnet mask e viene usata nelle ACL e in alcuni protocolli di routing per stabilire quali bit di un indirizzo IP devono essere controllati e quali no.
+La wildcard mask viene usata nelle ACL e in alcuni protocolli di routing per stabilire quali bit di un indirizzo IP devono essere controllati e quali no.
 
 ---
 
@@ -57,26 +54,6 @@ serve a dire **quali bit confrontare**.
 
 ---
 
-# Subnet mask e wildcard mask a confronto
-
-## Subnet mask
-
-Esempio:
-
-`255.255.255.0`
-
-Binario:
-
-`11111111.11111111.11111111.00000000`
-
-Qui:
-
-* i primi 24 bit sono rete
-* gli ultimi 8 bit sono host
-
-La subnet mask serve quindi a **costruire la rete**.
-
----
 
 ## Wildcard mask
 
@@ -562,75 +539,14 @@ Questa è la regola esatta.
 
 # 🔹 DEFINIZIONE PERFETTA DA VERIFICA
 
-> **La wildcard mask è una maschera utilizzata per selezionare o filtrare un insieme di indirizzi IP.  
-> A differenza della subnet mask, funziona in modo inverso:  
+> **La wildcard mask è una maschera utilizzata per selezionare o filtrare un insieme di indirizzi IP. 
 > i bit a 0 devono corrispondere esattamente, mentre i bit a 1 vengono ignorati.**
 
 Oppure ancora più tecnica:
 
-> **La wildcard mask è l’inverso logico della subnet mask e viene utilizzata nei meccanismi di filtraggio (ACL) e nei protocolli di routing per specificare quali bit di un indirizzo IP devono essere controllati e quali no.**
+> **La wildcard mask viene utilizzata nei meccanismi di filtraggio (ACL) e nei protocolli di routing per specificare quali bit di un indirizzo IP devono essere controllati e quali no.**
 
 Se dici questo in verifica → voto alto.
-
----
-
-# 🔹 PERCHÉ FUNZIONA AL CONTRARIO DELLA SUBNET MASK?
-
-## 🔹 SUBNET MASK
-
-Scopo: **dividere rete e host**
-
-Logica:
-
-|Bit|Significato|
-|---|---|
-|1|Parte di rete|
-|0|Parte host|
-
-Esempio:
-
-```
-255.255.255.0
-11111111.11111111.11111111.00000000
-```
-
-Qui:
-
-- I primi 24 bit identificano la rete
-    
-- Gli ultimi 8 sono host
-    
-
-La subnet mask **costruisce la rete**.
-
----
-
-## 🔹 WILDCARD MASK
-
-Scopo: **filtrare indirizzi**
-
-Logica inversa:
-
-|Bit|Significato|
-|---|---|
-|0|Deve essere uguale|
-|1|Non interessa (può variare)|
-
-Esempio:
-
-```
-0.0.0.255
-00000000.00000000.00000000.11111111
-```
-
-Qui:
-
-- I primi 24 bit devono essere identici
-    
-- Gli ultimi 8 possono essere qualsiasi valore
-    
-
-La wildcard mask **non divide rete/host**, ma dice al router cosa controllare.
 
 ---
 
@@ -690,131 +606,6 @@ Non è che “non contano” matematicamente.
 
 È che:  
 👉 **non partecipano al confronto**
-
----
-
-# 🔹 ESEMPIO BINARIO (CHIARISSIMO)
-
-IP:
-
-```
-172.16.0.5
-```
-
-Wildcard:
-
-```
-0.0.0.7
-```
-
-Ultimo ottetto in binario:
-
-IP:
-
-```
-00000101
-```
-
-Wildcard:
-
-```
-00000111
-```
-
-Significa:
-
-- Gli ultimi 3 bit possono cambiare
-    
-- I primi 5 devono restare uguali
-    
-
-Range generato:
-
-```
-172.16.0.0 → 172.16.0.7
-```
-
-Perché:
-
-```
-2^3 = 8 indirizzi
-```
-
----
-
-# 🔹 DIFFERENZA CONCETTUALE IMPORTANTISSIMA
-
-|Subnet Mask|Wildcard Mask|
-|---|---|
-|Costruisce reti|Seleziona indirizzi|
-|1 = rete|0 = confronto|
-|0 = host|1 = ignora|
-|Serve per subnetting|Serve per ACL e routing|
-
----
-
-# 🔹 PERCHÉ VIENE USATA NELLE ACL?
-
-Esempio ACL:
-
-```
-access-list 17 deny 172.16.0.0 0.0.0.255
-```
-
-Significa:
-
-- Controlla che i primi 24 bit siano 172.16.0
-    
-- Ignora l’ultimo ottetto
-    
-
-Risultato:
-
-```
-Blocca 172.16.0.0 → 172.16.0.255
-```
-
-Alla fine c’è sempre:
-
-```
-deny any (implicito)
-```
-
----
-
-# 🔹 FRASE PERFETTA DA INTERROGAZIONE
-
-Se il prof chiede:
-
-❓ Perché la wildcard è l’inverso della subnet?
-
-Rispondi:
-
-> Perché mentre la subnet mask identifica quali bit appartengono alla rete, la wildcard mask indica quali bit devono essere confrontati e quali ignorati durante un’operazione di filtraggio.
-
----
-
-# 🔹 CONCETTO FINALE CHE TI SBLOCCA TUTTO
-
-Subnet mask → **crea la rete**  
-Wildcard mask → **filtra la rete**
-
-Una costruisce.  
-L’altra seleziona.
-
----
-
-Se vuoi, nel prossimo messaggio ti faccio:
-
-- un esercizio misto subnet + wildcard
-    
-- oppure ti spiego perché OSPF usa la wildcard invece della subnet mask
-    
-- oppure simuliamo un’interrogazione vera con domande trabocchetto
-    
-
-Dimmi tu. 💪
-
 
 
 ## Calcolo per 172.16.0.5 con Wildcard 0.0.255.3

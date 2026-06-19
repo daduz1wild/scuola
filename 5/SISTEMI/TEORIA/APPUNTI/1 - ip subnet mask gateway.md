@@ -2,8 +2,7 @@
 
 ### COS’È
 
-L’**IP** (Internet Protocol) è l’indirizzo logico di un dispositivo in una rete.  
-Serve a identificare un computer, uno smartphone, una stampante, un server, ecc.
+L’**IP** (Internet Protocol) è l’indirizzo logico che permette di identificare un dispositivo di una rete.  
 
 ### A COSA SERVE
 
@@ -13,12 +12,6 @@ Quando un dispositivo manda un pacchetto, l’IP indica il mittente e il destina
 ### COME FUNZIONA
 
 Ogni dispositivo connesso a una rete ha un indirizzo IP.  
-L’IP può essere:
-
-- **IPv4** → esempio: `192.168.1.10`
-    
-- **IPv6** → esempio: `2001:db8::1`
-    
 
 Con IPv4, l’indirizzo è formato da 4 numeri separati da punti.  
 L’IP però non basta da solo: bisogna sapere anche **in che rete si trova** quel dispositivo. Per questo serve la subnet mask.
@@ -83,9 +76,12 @@ Gli indirizzi IP sono suddivisi in **classi** (A, B, C, D, E) in base al loro **
 
 Se vuoi approfondire le subnet o altri dettagli sugli indirizzi IP, chiedi pure! 😊
 
-![[ReS1.08 INDIRIZZI IP.pdf]]
+CLASSI DI INDIRIZZI Ci sono cinque diverse classi di indirizzi. Si può determinare a quale classe appartiene qualsiasi indirizzo IP esaminando i primi 4 bit dell’indirizzo IP. -CLASSE A: gli indirizzi iniziano con 0xxx, o da 1 a 126 decimale. -CLASSE B: gli indirizzi iniziano con 10xx, o da 128 a 191 decimale. -CLASSE C: gli indirizzi iniziano con 110x, o da 192 a 223 decimale. -CLASSE D: gli indirizzi iniziano con 1110, o da 224 a 239 Voi siete la seconda classe ed è stata estratta (per davvero) la lettera D.decimale. -CLASSE E: gli indirizzi iniziano con 1111, o da 240 a 254 decimale. Indirizzi che iniziano con 01111111, o 127 decimale, sono riservati per loopback e per prove interne su una macchina locale.(si può fare la prova: si può sempre fare ping con 127.0.0.1 che indica noi stessi). Gli indirizzi di classe D sono riservati al multicasting. Gli indirizzi di classe E sono riservati per un uso futuro. Non dovrebbero essere usati per indirizzi di host. Ora possiamo vedere come per default, quale parte di un indirizzo IP appartiene al network(N) e quale appartiene all’host (n). 
+
+
 
 Gli **indirizzi IP privati** sono riservati per le reti locali (LAN) e non sono instradabili su Internet. Esistono diverse classi di indirizzi IP privati, e per ciascuna ti indico il **primo e l'ultimo indirizzo disponibile**.
+Possono essere usati da chi vuole creare una rete interna IP, come un LAN di laboratorio o di casa dietro un NAT o un proxy server o router.
 
 ---
 
@@ -191,10 +187,6 @@ Se il PC ha:
 
 allora tutti gli indirizzi `192.168.1.x` fanno parte della stessa rete locale.
 
-### DIFFERENZE IMPORTANTI
-
-Non è un indirizzo e non identifica un dispositivo.  
-Serve solo a **interpretare l’IP**.
 
 ### RIASSUNTO FINALE
 
@@ -227,12 +219,6 @@ Mini schema:
     
 - network diverso → passa dal gateway
     
-
-### ESEMPIO
-
-Il tuo PC vuole aprire un sito web.  
-Il server del sito non è nella tua rete domestica, quindi il PC invia i dati al router, cioè al gateway, che li porta verso Internet.
-
 ### DIFFERENZE IMPORTANTI
 
 - **Gateway** = indirizzo o dispositivo di uscita dalla rete
