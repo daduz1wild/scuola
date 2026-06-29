@@ -8,21 +8,203 @@
         "type": "tabs",
         "children": [
           {
-            "id": "59d16b68fb33d625",
+            "id": "90bc3d5629a0d5d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5/SISTEMI/SCRITTI MATURITà.md",
+                "file": "5/SISTEMI/TEORIA/APPUNTI/1 - ip subnet mask gateway.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SCRITTI MATURITà"
+              "title": "1 - ip subnet mask gateway"
             }
           },
           {
-            "id": "b95a3d173a208030",
+            "id": "15fcf826a1a5cb17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/SISTEMI/TEORIA/APPUNTI/2 - HTTP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 - HTTP"
+            }
+          },
+          {
+            "id": "5576f59e9028c3ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/SISTEMI/TEORIA/APPUNTI/3 - MAC router dns switch dhcp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - MAC router dns switch dhcp"
+            }
+          },
+          {
+            "id": "fd28de56248af795",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/SISTEMI/TEORIA/APPUNTI/4 - SWITCH E ANDING.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 - SWITCH E ANDING"
+            }
+          },
+          {
+            "id": "d1df659b9ea8d70c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/SISTEMI/TEORIA/APPUNTI/5 - PROTOCOLLI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 - PROTOCOLLI"
+            }
+          },
+          {
+            "id": "961cbe206842f92a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/SISTEMI/TEORIA/APPUNTI/7 - comandi terminale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7 - comandi terminale"
+            }
+          },
+          {
+            "id": "a232a70130524c24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/SISTEMI/TEORIA/APPUNTI/9 - NAT statico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9 - NAT statico"
+            }
+          },
+          {
+            "id": "4fc13710657ce31e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/SISTEMI/TEORIA/APPUNTI/10 - NAT DINAMICO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10 - NAT DINAMICO"
+            }
+          },
+          {
+            "id": "41ccb20136226423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/SISTEMI/TEORIA/APPUNTI/11 - PAT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11 - PAT"
+            }
+          },
+          {
+            "id": "ffd2d94060bfcbde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/SISTEMI/TEORIA/APPUNTI/13 - SICUREZZA ONLINE E CERTIFICATI SSL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13 - SICUREZZA ONLINE E CERTIFICATI SSL"
+            }
+          },
+          {
+            "id": "c682413807139366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/SISTEMI/TEORIA/APPUNTI/14 - VPN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14 - VPN"
+            }
+          },
+          {
+            "id": "1bae79c1454783a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/SISTEMI/TEORIA/APPUNTI/15 - wildcard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15 - wildcard"
+            }
+          },
+          {
+            "id": "d0e27c60f4d167a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/SISTEMI/LAB/TEORIA/CISCO/6 - SUBNETTING.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6 - SUBNETTING"
+            }
+          },
+          {
+            "id": "8fd289de85837958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/SISTEMI/LAB/TEORIA/CISCO/7.1 - ACL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.1 - ACL"
+            }
+          },
+          {
+            "id": "5d7a6c0154a032ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,121 +218,104 @@
             }
           },
           {
-            "id": "ebfb8b5921a15be8",
+            "id": "680844b0b6b9e420",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "5/SISTEMI/TEORIA/APPUNTI/MATERIALE_MATURITà/PDF TEORIA(RIASSUNTONI)/69983a8c24f84650292718.pdf"
+                "file": "5/ITA/ripassoItaliano.docx.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "69983a8c24f84650292718"
+              "title": "ripassoItaliano.docx"
             }
           },
           {
-            "id": "cb86bc794b394f87",
+            "id": "86b46c1f31902e30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/ITA/TRIMESTRE/2° argomento/PASCOLI/Le origini della lirica moderna e Pascoli.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Le origini della lirica moderna e Pascoli"
+            }
+          },
+          {
+            "id": "7f89ed2186764e35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/ITA/PENTAMESTRE/PIRANDELLO/VISIONE DEL MONDO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VISIONE DEL MONDO"
+            }
+          },
+          {
+            "id": "6b0cf01a191f6181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/ITA/PENSIERI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PENSIERI"
+            }
+          },
+          {
+            "id": "a4d6dfbc0dbd72d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/INGLESE/STUDIO PENTAMESTRE/MATERIALE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MATERIALE"
+            }
+          },
+          {
+            "id": "bc6cefb88a17cce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5/INGLESE/STUDIO PENTAMESTRE/risposte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "risposte"
+            }
+          }
+        ],
+        "currentTab": 18
+      },
+      {
+        "id": "9e77cc9c914c5a49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aab2129f6dc1ef44",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "5/SISTEMI/TEORIA/APPUNTI/MATERIALE_MATURITà/PDF TEORIA(RIASSUNTONI)/guida_allo_svolgimento_dell_esame_di_stato_sistemi_e_reti.pdf"
+                "file": "5/ITA/PDF/testi letteratura Quinta.docx.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "guida_allo_svolgimento_dell_esame_di_stato_sistemi_e_reti"
-            }
-          },
-          {
-            "id": "9762265394ff650d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "5/SISTEMI/TEORIA/APPUNTI/Subnetting_2_Sedi.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Subnetting_2_Sedi"
-            }
-          },
-          {
-            "id": "bef99f83ff2678bd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "5/SISTEMI/TEORIA/APPUNTI/VPN_2_Sedi.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "VPN_2_Sedi"
-            }
-          },
-          {
-            "id": "7c9b9e19312c3b26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5/SISTEMI/LAB/TEORIA/SPIEGAZIONE UNICA CABLAGGIO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SPIEGAZIONE UNICA CABLAGGIO"
-            }
-          },
-          {
-            "id": "eff1a24642028a86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5/SISTEMI/LAB/TEORIA/cablaggio strutturato.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "cablaggio strutturato"
-            }
-          },
-          {
-            "id": "d4dc643910715cbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5/SISTEMI/LAB/TEORIA/CISCO/7.4 - ACL ESTESE (DMZ).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.4 - ACL ESTESE (DMZ)"
-            }
-          },
-          {
-            "id": "d08fa48e0975826e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5/SISTEMI/LAB/TEORIA/CISCO/RIPASSO GENERALE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RIPASSO GENERALE"
-            }
-          },
-          {
-            "id": "4b188273e3f1690b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5/SISTEMI/comandi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "comandi"
+              "title": "testi letteratura Quinta.docx"
             }
           }
         ]
@@ -327,45 +492,45 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "59d16b68fb33d625",
+  "active": "6b0cf01a191f6181",
   "lastOpenFiles": [
-    "5/SISTEMI/LAB/TEORIA/CISCO/7.4 - ACL ESTESE (DMZ).md",
-    "5/SISTEMI/SCRITTI MATURITà.md",
-    "5/SISTEMI/LAB/TEORIA/SPIEGAZIONE UNICA CABLAGGIO.md",
-    "5/SISTEMI/LAB/TEORIA/CISCO/5 - VLAN E TRUNKING.md",
-    "5/SISTEMI/comandi.md",
-    "5/SISTEMI/LAB/TEORIA/CISCO/7.3 - ACL ESTESE video 17-18.md",
-    "5/SISTEMI/LAB/TEORIA/CISCO/7.1 - ACL.md",
-    "5/SISTEMI/LAB/TEORIA/CISCO/6 - SUBNETTING.md",
-    "5/SISTEMI/TEORIA/APPUNTI/Subnetting_2_Sedi.pdf",
+    "5/ITA/PENTAMESTRE/INTERROGAZIONE/UNGARETTI/LA VITA.md",
+    "5/ITA/PENSIERI.md",
+    "5/ITA/PENTAMESTRE/INTERROGAZIONE/UMBERTO SABA/LA VITA.md",
+    "5/ITA/PENTAMESTRE/D'ANNUNZIO/La vita di D'Annunzio.md",
+    "5/ITA/PENTAMESTRE/D'ANNUNZIO/Il periodo notturno.md",
+    "5/ITA/PENTAMESTRE/D'ANNUNZIO/I ROMANZI DEL SUPERUOMO.md",
+    "5/ITA/PENTAMESTRE/D'ANNUNZIO/D'Annunzio.md",
+    "5/ITA/PENTAMESTRE/INTERROGAZIONE/MONTALE/VITA.md",
+    "5/INGLESE/STUDIO PENTAMESTRE/MATERIALE.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/VISIONE DEL MONDO.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/EVOLUZIONE DEI ROMANZI DI PIRANDELLO.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/CONCLUSIONE PIRANDELLO.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/I ROMANZI.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/LA VITA.md",
+    "5/ITA/PENTAMESTRE/PIRANDELLO/NOVELLE PER UN ANNO.md",
+    "5/ITA/PENTAMESTRE/SVEVo/La cultura di Svevo.md",
+    "5/ITA/PENTAMESTRE/SVEVo/L'evoluzione del romanzo.md",
+    "5/ITA/PENTAMESTRE/SVEVo/INTRODUZIONE.md",
+    "5/ITA/TRIMESTRE/1a verifica/VERGA E PESSIMISMO.md",
+    "5/ITA/TRIMESTRE/2° argomento/PASCOLI/pensiero pascoli.md",
+    "5/ITA/PENTAMESTRE/INTERROGAZIONE/UMBERTO SABA/TESTI/CANZONIERE/CANZONIERE.md",
+    "5/ITA/TRIMESTRE/1a verifica/IL VERISMO E VERGA.md",
+    "5/ITA/PENTAMESTRE/INTERROGAZIONE/MONTALE/TESTI/LE BUFERE E ALTRO/LA BUFERA E ALTRO.md",
+    "5/ITA/PENTAMESTRE/INTERROGAZIONE/MONTALE/TESTI/LE BUFERE E ALTRO/PICCOLO TESTAMENTO.md",
+    "5/ITA/PENTAMESTRE/INTERROGAZIONE/MONTALE/TESTI/LE BUFERE E ALTRO/PICCOLO TESTAMENTO 1.md",
+    "5/ITA/PENTAMESTRE/INTERROGAZIONE/MONTALE/TESTI/LE OCCASIONI/LA CASA DEI DOGANIERI.md",
+    "5/ITA/PDF/testi letteratura Quinta.docx.pdf",
+    "5/ITA/ripassoItaliano.docx.pdf",
+    "5/INGLESE/STUDIO PENTAMESTRE/Domande  5AI. S 25-26.pdf",
     "5/SISTEMI/TEORIA/APPUNTI/VPN_2_Sedi.pdf",
+    "5/SISTEMI/TEORIA/APPUNTI/Subnetting_2_Sedi.pdf",
     "5/SISTEMI/TEORIA/APPUNTI/MATERIALE_MATURITà/PDF TEORIA(RIASSUNTONI)/guida_allo_svolgimento_dell_esame_di_stato_sistemi_e_reti.pdf",
     "5/SISTEMI/TEORIA/APPUNTI/MATERIALE_MATURITà/PDF TEORIA(RIASSUNTONI)/69983a8c24f84650292718.pdf",
-    "5/SISTEMI/TEORIA/APPUNTI/17 - WIRELESS IOT.md",
-    "5/SISTEMI/TEORIA/APPUNTI/5 - PROTOCOLLI.md",
-    "5/SISTEMI/LAB/TEORIA/cablaggio strutturato.md",
-    "5/SISTEMI/LAB/TEORIA/CISCO/RIPASSO GENERALE.md",
     "5/SISTEMI/LAB/TEORIA/CISCO/image.png",
-    "5/SISTEMI/LAB/TEORIA/cablaggio.md",
-    "5/SISTEMI/LAB/TEORIA/cablaggio_2.md",
     "5/SISTEMI/LAB/ESERCITAZIONI/esame_di_stato_2012_abacus_prova_tema_sistemi_YABC-gara-automobilistica.pdf",
     "5/SISTEMI/TEORIA/APPUNTI/MATERIALE_MATURITà/PDF TEORIA(RIASSUNTONI)/Sicurezza delle reti_ riassunto completo maturità _ Maturando.pdf",
     "5/SISTEMI/TEORIA/APPUNTI/MATERIALE_MATURITà/PDF TEORIA(RIASSUNTONI)/reti.pdf",
-    "5/SISTEMI/TEORIA/APPUNTI/MATERIALE_MATURITà/PDF TEORIA(RIASSUNTONI)/ReS1.08 INDIRIZZI IP.pdf",
-    "5/SISTEMI/TEORIA/APPUNTI/MATERIALE_MATURITà/PDF TEORIA(RIASSUNTONI)/Guida_di_Sistemi_e_Reti.pdf",
-    "5/SISTEMI/TEORIA/APPUNTI/101 - RIPASSO GENERALE.md",
-    "5/ITA/TEMI MATURITà.md",
-    "5/SISTEMI/TEORIA/APPUNTI/102 - VPN.md",
-    "5/SISTEMI/TEORIA/APPUNTI/13 - SICUREZZA ONLINE E CERTIFICATI SSL.md",
-    "5/SISTEMI/TEORIA/APPUNTI/14 - VPN.md",
-    "5/SISTEMI/TEORIA/APPUNTI/15 - wildcard.md",
-    "5/SISTEMI/TEORIA/APPUNTI/16 - FIREWALL E ACL.md",
-    "5/SISTEMI/TEORIA/APPUNTI/11 - PAT.md",
-    "5/SISTEMI/TEORIA/APPUNTI/10 - NAT DINAMICO.md",
-    "5/SISTEMI/TEORIA/APPUNTI/9 - NAT statico.md",
-    "5/SISTEMI/TEORIA/APPUNTI/7 - comandi terminale.md",
-    "5/SISTEMI/TEORIA/APPUNTI/4 - SWITCH E ANDING.md",
-    "5/TPS/LAB/TEORIA/PENTAMESTRE/AJAX.pdf",
     "5/GESSTIONE PROG/CODEQUEST/codeQuest-master/assets/images/tileset.png",
     "5/GESSTIONE PROG/CODEQUEST/codeQuest-master/assets/images/bg_lab.png",
     "5/GESSTIONE PROG/codeQuest-master/assets/images/bg_lab.png",

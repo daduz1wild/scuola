@@ -22,7 +22,7 @@ Poi controlla che i pacchetti arrivino davvero. Se qualcosa manca, li reinvia.
 In pratica TCP:
 
 - divide i dati in segmenti
-    
+     
 - numera i segmenti
     
 - controlla le ricezioni

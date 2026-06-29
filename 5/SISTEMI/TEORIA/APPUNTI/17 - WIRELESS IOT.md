@@ -1,4 +1,4 @@
-
+0
 # 1) Prima idea generale: come ragionare negli esercizi
 
 Quando trovi un testo con **wireless, IoT, LTE, cloud, VPN**, la domanda vera è sempre questa:

@@ -164,6 +164,7 @@ In pratica: Verga **si toglie di mezzo** e lascia che siano i suoi personaggi a 
 👉 In sintesi:  
 Verga **non racconta dall’alto**, ma si cala tra i personaggi (artificio della regressione), mostrando una realtà dura e pessimistica dove vince solo chi si adatta meglio, mentre gli altri vengono esclusi dal progresso (_i vinti_).
 
+# PASCOLI
 
 
 # I MALAVOGLIA: PREFAZIONE

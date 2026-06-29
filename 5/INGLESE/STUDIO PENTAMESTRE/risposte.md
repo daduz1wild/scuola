@@ -3138,3 +3138,34 @@ The Caesar Cipher was famously used by **Julius Caesar**.
 
 💡 **Frase perfetta da dire all’orale:**  
 👉 _“The Caesar Cipher is a simple substitution cipher that shifts letters in the alphabet and was used by Julius Caesar to protect military communications.”_
+
+
+
+Here is a short introduction to the film story.
+
+The film shows the work of the Bletchley Park codebreakers during World War II. The German Enigma machine was used to encrypt military radio messages, and Alan Turing and his team had to break that code using mathematics, logic, teamwork, and a special machine. 
+## Answers
+
+**262. Who is Alan Turing and where did he join a team of code-breakers?**  
+Alan Turing was a British mathematician and codebreaker. In the story, he joins the team at **Bletchley Park**, the top-secret British codebreaking centre. 
+
+**263. What was the main challenge in deciphering the German Enigma machine's code?**  
+The main challenge was that Enigma had an enormous number of possible settings, and the code was changed regularly, so the message had to be broken again and again. 
+**264. How many possible codes could be input into Enigma?**  
+Enigma could be set in about **159 million million million** different ways. 
+
+**265. How did Alan Turing's approach to breaking the Enigma code differ from the rest of his team?**  
+Turing’s approach was different because he wanted to use a machine and mathematical logic to test possibilities automatically, while the rest of the team mainly analysed the intercepted messages by hand. 
+
+**266. What was a significant challenge Alan faced in developing his machine?**  
+A major challenge was building a machine that could test many combinations quickly and reliably enough before the Germans changed the Enigma settings again. 
+
+**267. Who was Joan Clarke and what role did she play in the team?**  
+Joan Clarke was a mathematician and codebreaker. She worked with Turing at Bletchley Park and helped the team analyse Enigma messages.
+
+**268. How did Alan and his team finally manage to crack the Enigma code?**  
+They finally cracked the code by combining Turing’s machine with pattern analysis and likely message clues, then using the correct daily settings to read the German messages. (
+
+**269. What happened to Alan Turing in the final scene of the story?**  
+In the film’s final part, the story moves forward to Turing’s later life and shows that he was prosecuted in 1952 because he was gay. The movie ends on a more positive note than real life and does not show his suicide.
+If you want, I can turn these into a **super easy oral version** to memorise in 1 minute.

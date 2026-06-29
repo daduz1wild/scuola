@@ -137,25 +137,7 @@ Immagina il messaggio ICMP come una **lettera aperta** dentro la busta.
 *   **Il testo della lettera (Payload ICMP):** Sono i **dati di test**.
     *   **Cosa sono:** Una sequenza di byte (spesso lettere dell'alfabeto in ordine come `a, b, c, d...` o numeri) che il tuo computer inventa al momento.
     *   **A cosa servono:** Servono solo a **riempire spazio** per testare la rete.
-    *   Quando il computer riceve il ping, prende *esattamente* quegli stessi byte e te li rispedisce indietro. Se tornano identici, la connessione è integra e non ha corrotto i dati.
-
----
-
-### Esempio Pratico (Hex Dump)
-Se vedessi i dati grezzi di un ping standard, apparirebbero così:
-
-1.  **Livello IP (La Busta):**
-    *   `Source IP`: 192.168.1.5
-    *   `Dest IP`: 8.8.8.8
-    *   `Payload`: **[Tutto il blocco qui sotto]**
-
-2.  **Livello ICMP (La Lettera):**
-    *   `Type`: 8 (Echo Request)
-    *   `Code`: 0
-    *   `Checksum`: (codice di controllo)
-    *   `Payload`: **`a b c d e f g h ...`** (Questi sono i **dati di test**).
-
-
+		    *   Quando il computer riceve il ping, prende *esattamente* quegli stessi byte e te li rispedisce indietro. Se tornano identici, la connessione è integra e non ha corrotto i dati.
 ## RIASSUNTO FINALE
 
 Il pacchetto IP contiene gli indirizzi IP e i dati.  

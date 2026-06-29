@@ -1,4 +1,4 @@
-
+ 
 Perfetto 👍 Ti preparo ora **una spiegazione completa, chiara e studiabile** che unisce i tuoi appunti, quelli scritti a mano del tuo amico e le spiegazioni precedenti.  
 È pensata come **un unico testo completo per studiare il Decadentismo e Baudelaire**, con tutto ciò che serve per un’interrogazione o un compito.
 

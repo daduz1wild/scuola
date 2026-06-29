@@ -87,40 +87,7 @@ Queste immagini mostrano che la salvezza, per Montale, consiste nel **tenersi fu
 
 ---
 
-## **Lo stato d’animo del poeta**
 
-Lo stato d’animo di Montale qui è molto preciso:
-
-- sente il dolore come una condizione **costante**
-    
-- guarda la realtà con lucidità
-    
-- non ha illusioni
-    
-- non crede in consolazioni facili
-    
-- non vede una vera felicità possibile
-    
-
-La sua è una visione **disincantata**: non si lamenta in modo sentimentale, ma osserva la vita con freddezza e intelligenza.  
-Per questo la poesia non è disperata in modo rumoroso, ma è profondamente **amaro-lucida**.
-
----
-
-## **Collegamento con _Ossi di seppia_**
-
-Questa poesia è perfettamente coerente con la raccolta perché riprende i suoi temi fondamentali:
-
-- il **male di vivere**
-    
-- la realtà come luogo di **aridità e sofferenza**
-    
-- il limite umano
-    
-- la ricerca di una via d’uscita che però non è mai piena
-    
-- il linguaggio essenziale, concreto, spoglio
-    
 
 In **_Ossi di seppia_** il mondo è spesso visto come un ambiente arido, prosciugato, senza armonia. Qui questa visione diventa ancora più netta: il male di vivere è ovunque, e l’unico rimedio possibile è l’**indifferenza**.
 
