@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CodeQuest - Access Selection</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/landing.css">
+</head>
+<body>
+    <div class="landing-container">
+        <div class="landing-title">ACCESS_PORTAL</div>
+        <div class="landing-subtitle">IDENTIFY YOUR ROLE</div>
+
+        <div class="landing-options">
+            <a href="student_login.php" class="option-card">
+                <div class="option-icon">🎮</div>
+                <div class="option-title" style="color:var(--glow)">STUDENT LOGIN</div>
+                <div class="option-desc">Accedi come studente per giocare e imparare</div>
+            </a>
+
+            <a href="teacher_login.php" class="option-card teacher">
+                <div class="option-icon">👨‍🏫</div>
+                <div class="option-title" style="color:var(--accent)">PROFESSORE LOGIN</div>
+                <div class="option-desc">Accedi al pannello per monitorare la tua classe</div>
+            </a>
+
+        </div>
+
+        <div class="landing-footer">
+            <a href="index.php" style="color:var(--dim); text-decoration:none;">&lt;&lt; BACK TO MAIN</a>
+        </div>
+    </div>
+</body>
+</html>

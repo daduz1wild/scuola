@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>Il mio nome</title>
+        <script src="script.js"></script>
+    </head>
+    <body>
+        <form onsubmit="inviaDati(this); return false;"><!--deve tornare false per mantenere l'asincronicità quindi il form non viene inviato-->
+            Inserisci nome:<input type="text" name="nome" id="nome"><br>
+            <input type="submit" value="Invia">
+        </form>
+        <div id="ris"></div><!-- qui verra stampata la risposta del server -->
+    </body>
+</html>

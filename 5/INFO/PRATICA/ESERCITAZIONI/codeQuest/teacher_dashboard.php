@@ -1,0 +1,110 @@
+<?php
+require_once 'php/session.php';
+requirePageRole('teacher');
+$user = currentUser();
+?>
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teacher Dashboard | CodeQuest</title>
+    <link rel="stylesheet" href="css/dashboard.css">
+</head>
+<body>
+    <script>
+        window.CQ_USER = <?php echo json_encode($user, JSON_HEX_TAG | JSON_HEX_APOS | JSON_HEX_QUOT | JSON_HEX_AMP); ?>;
+    </script>
+    <header>
+        <div class="logo">CodeQuest Admin</div>
+        <div class="user-info" id="teacher-name">Docente: <?php echo htmlspecialchars($user['name'], ENT_QUOTES, 'UTF-8'); ?></div>
+        <button onclick="logout()">Logout</button>
+    </header>
+
+    <main class="container">
+        <!-- Class Management (Top & Centered) -->
+        <section id="class-management" class="profile-grid" style="grid-template-columns: repeat(3, 1fr); max-width: 1200px; margin: 0 auto 2rem;">
+            <div class="card">
+                <h2>Crea Nuova Classe</h2>
+                <div class="control-group" style="margin-top: 1rem;">
+                    <label for="new-class-name">Nome della Classe</label>
+                    <div style="display: flex; gap: 0.5rem;">
+                        <input type="text" id="new-class-name" placeholder="es. Classe 3A" style="flex: 1; padding: 0.6rem; background: rgba(30, 41, 59, 0.8); border: 1px solid var(--border-glow); color: white; border-radius: 6px;">
+                        <button onclick="createClass()">Crea</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2>Elimina Classe</h2>
+                <div class="control-group" style="margin-top: 1rem;">
+                    <label for="delete-class-select">Seleziona Classe</label>
+                    <div style="display: flex; gap: 0.5rem;">
+                        <select id="delete-class-select" style="flex: 1;">
+                            <option value="">Caricamento...</option>
+                        </select>
+                        <button onclick="deleteClass()" style="background: linear-gradient(135deg, var(--danger), #b91c1c);">Elimina</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card" id="classes-list-card">
+                <h2>Le Tue Classi</h2>
+                <div id="classes-list" class="classes-container">
+                    <!-- Dynamic Content -->
+                    <p style="color: var(--text-secondary);">Caricamento classi...</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Filters (Closer to Table) -->
+        <section class="controls card">
+            <div class="control-group">
+                <label for="class-select">Filtra per Classe</label>
+                <select id="class-select">
+                    <option value="">Caricamento...</option>
+                </select>
+            </div>
+            
+            <div class="control-group">
+                <label for="view-mode">Modalità Vista</label>
+                <select id="view-mode">
+                    <option value="class">Riepilogo Classe</option>
+                    <option value="student">Singolo Studente</option>
+                </select>
+            </div>
+
+            <div class="control-group" id="student-select-group" style="display: none;">
+                <label for="student-select">Seleziona Studente</label>
+                <select id="student-select">
+                    <option value="">Seleziona uno studente...</option>
+                </select>
+            </div>
+        </section>
+
+        <section id="content-area" class="table-container">
+            <table>
+                <thead>
+                    <tr id="table-head">
+                        <th>Studente</th>
+                        <th>Capitolo 1</th>
+                        <th>Capitolo 2</th>
+                        <th>Capitolo 3</th>
+                        <th>Capitolo 4</th>
+                        <th>Capitolo 5</th>
+                    </tr>
+                </thead>
+                <tbody id="table-body">
+                    <tr>
+                        <td colspan="6" style="text-align: center; padding: 3rem;">
+                            Seleziona una classe per visualizzare i dati
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <script src="js/teacher_dashboard.js"></script>
+</body>
+</html>

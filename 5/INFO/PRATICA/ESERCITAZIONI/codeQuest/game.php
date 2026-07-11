@@ -1,0 +1,54 @@
+<?php
+require_once 'php/session.php';
+requirePageRole('student');
+$user = currentUser();
+?>
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CodeQuest - Game</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { overflow: hidden; background: #020408; height: 100vh; display: flex; align-items: center; justify-content: center; }
+        #game-container { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; }
+        canvas { display: block; box-shadow: 0 0 50px rgba(0,0,0,0.5); border: 1px solid rgba(0, 212, 255, 0.2); }
+        .dashboard-btn {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            z-index: 1000;
+            background: rgba(0, 212, 255, 0.1);
+            border: 1px solid rgba(0, 212, 255, 0.3);
+            color: #00d4ff;
+            padding: 8px 15px;
+            font-family: 'Orbitron', sans-serif;
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            cursor: pointer;
+            backdrop-filter: blur(5px);
+            transition: all 0.3s ease;
+            text-decoration: none;
+            border-radius: 4px;
+        }
+        .dashboard-btn:hover {
+            background: rgba(0, 212, 255, 0.3);
+            box-shadow: 0 0 15px rgba(0, 212, 255, 0.4);
+            transform: translateY(-2px);
+        }
+    </style>
+</head>
+<body>
+    <script>
+        window.CQ_USER = <?php echo json_encode($user, JSON_HEX_TAG | JSON_HEX_APOS | JSON_HEX_QUOT | JSON_HEX_AMP); ?>;
+    </script>
+    <a href="student_dashboard.php" class="dashboard-btn">Dashboard</a>
+    <div id="game-container"></div>
+    <script type="module" src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Gelati</title>
+        <script src="script.js"></script>
+    </head>
+    <body>
+        <h1>Catalogo Gelati</h1>
+
+        <form name="frmGelati" onsubmit="return false;">
+            Nome:
+            <input type="text" name="nome" oninput="mostraGelati(frmGelati);">
+            <br><br>
+
+            Data scadenza:
+            <input type="date" name="data" oninput="mostraGelati(frmGelati);">
+            <br><br>
+
+            Produttore:
+            <input type="text" name="produttore" oninput="mostraGelati(frmGelati);">
+        </form>
+
+        <div id="ris"></div>
+    </body>
+</html>

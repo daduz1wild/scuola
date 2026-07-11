@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>AJAX 2 - gelati</title>
+        <script type="text/javascript" src=".\script.js"></script>
+    </head>
+    <body>
+        <h3>Nome gelato</h3>
+        <form name="frmGelato">
+            <input type="text" name="nomeGelato" placeholder="Inserisci il nome del gelato" oninput="cercaNomeGelato(this);">
+        </form>
+        <h3>Scadenza gelato</h3>
+        <form name="frmScadenza" onsubmit="cercaScadenzaGelato(this); return false;">
+            <input type="date" name="scadenza">
+            <input type="submit" value="Ricerca per scadenza">
+        </form>
+       <h3>Produttore gelato</h3>
+        <form name="frmProduttore">
+            <input type="text" name="produttore" placeholder="Inserisci il produttore">
+        
+        </form>
+        <div id="risAPI"></div>   
+    </body>
+</html>
